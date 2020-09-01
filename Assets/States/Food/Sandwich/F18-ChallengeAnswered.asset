@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F18-ChallengeAnswered
+  m_EditorClassIdentifier: 
+  headerText: Leaf no call unanswered
+  storyText: 'Oh leaf man wanna fight? Leaf man will get a fight. You ready your fork,
+    much to the cheer of the leaf-crowd. Your leafy opponent smirks. He uses grunts
+    an motions to explain the rules. From what you can gather, they are fairly simple:
+    whoever loses their weapon first, loses the battle. You nod and the little guy
+    lunges at you with far more strength than such a tiny body should be able to produce.
+    But you hold fast; parrying and attacking, trying to get the spear stuck  between
+    the fork''s prongs. The battle is much more heated than you''d first give it credit
+    for and you kind of have to admit that it''s getting fun too! It took quite a
+    bit of back and forth, but you finally manage to wrestle the weapon off your adversary.
+    He bows. The crowd bows. They offer you the sandwich. You bow back and claim your
+    prize. An unexpected turn of events, but it really built up your appetite. Made
+    the sandwich an all the more satisfying meal.'
+  choiceText1: 1) Battle sandwich is best sandwich (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 17
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F18
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You found out that food tastes best when won in gladitorial combat

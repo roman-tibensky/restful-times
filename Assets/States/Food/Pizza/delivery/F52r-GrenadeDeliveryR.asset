@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F52r-GrenadeDeliveryR
+  m_EditorClassIdentifier: 
+  headerText: Package in the hole!
+  storyText: "You sneak up close. You, shake the package as instructed, take your
+    aim and throw. The package glides beautifully through the air, lands at the feet
+    of one of the patrolling men AND EXPLODES IN A SLOPE OF FIERY FURY! HOLY SHIT!
+    The explosion knocks you back and off your feet. There's fire and a giant hole
+    where the entrance of the warehouse used to be. You hear screams. Debris is falling
+    from the sky. Some of it hits you in your back and arms, but you don't really
+    have time to complain. You make the most of the confusion and destruction that
+    you caused to get the ever-loving hell out of there. Fuck. Never doing an 8-rating
+    delivery again, that's for sure. \n\nYou somehow make your way home. On the way,
+    you call to report on your assignment and prepare yourself to yell at the operator,
+    however, the guy has the nerve to yell at you instead! Says the package didn't
+    make it into the building. Says that the way you handled it, you delivered a message
+    at best. He downgrades your reward to a level 3 of pizza sticks. Can't even have
+    all the servings in one go either. But hey, free choice of dressing at least?"
+  choiceText1: 1)  I went through explosions for a few bits of bread?! Are you for
+    real?! (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 15
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F52r
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You had an underwhelming meal as payment for a half-assed job. But
+    you feel less bad about it, since the job was an act of terrorism

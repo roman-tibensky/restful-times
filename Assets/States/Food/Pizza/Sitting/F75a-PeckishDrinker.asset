@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F75a-PeckishDrinker
+  m_EditorClassIdentifier: 
+  headerText: Peckish drinker
+  storyText: "Well, if nothing else, you can say some color returned into the weasel's
+    cheeks. That's a start. Yet, there still seems to be something on his mind. He
+    gives you an apologetic look and speaks with an uncertain voice:\r\n\n\"Sorry
+    to ask, but you wouldn't happen to have any food? This is gonna hit hard and I
+    haven't eaten all day.\""
+  choiceText1: 1) I'll be a good guest and serve him the sandwich in the fridge. I'm
+    getting quite a bit of food out of this anyways
+  choiceText2: 2) Sounds like a hassle. The fridge is over there, he can get whatever
+    is inside.
+  choiceText3: 3) And avoid seeing the guy being blind drunk? What a missed opportunity
+    that would be.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F75a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

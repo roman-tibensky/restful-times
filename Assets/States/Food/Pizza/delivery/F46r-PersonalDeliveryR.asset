@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F46r-PersonalDeliveryR
+  m_EditorClassIdentifier: 
+  headerText: Delivery with a personal touch
+  storyText: 'Tonight has been a mess. You''re not sure if the assignment giver was
+    just bored or too stressed to function properly, but the instructions your were
+    given, were just the worst. It''s usually not this bad, but you kinda lost faith
+    in anything he said and you just wanna go home without jumping through any more
+    hoops. You walk up to them as casually as one can, when seeing the other party
+    reach for their guns. Slowly, you lift your hands up, holding the package in plain
+    sight. The guards look at one another unsure what to do with you. "Package delivery?"
+    You try to to offer a hint. You''re promptly searched and shoved inside and led
+    deeper into the facility '
+  choiceText1: 1) Cool, I'm not dead yet!
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 21f536ec71751564ab46edb836316ebe, type: 2}
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

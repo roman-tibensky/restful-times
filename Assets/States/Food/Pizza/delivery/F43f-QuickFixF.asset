@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F43f-QuickFixF
+  m_EditorClassIdentifier: 
+  headerText: Looking for quick fixes
+  storyText: "Quickly, you look around and see if you can catch something out of the
+    ordinary. It is a wall of people, so chances are indeed small, but hey, your employer
+    is getting something out of this; whether it's the package or your head; and you're
+    particularly attached to the latter. Your gaze falls upon a young, very nervous
+    teen, probably on a similar errand as you, nervously looking down at a package
+    in his hand and then looking around the crowd. You might've lost your package
+    like a dumbass, but you also seem to have the luck of one too. You walk up to
+    the frightened boy, cough at him incoherently and then impatiently motion at the
+    package as if he were just slowing things down in the most natural of exchanges.
+    The distrust towards your \"password\" might've been strong, but the desire of
+    getting rid of the package was so much stronger. He handed it over and just ran
+    off. \r\n\r\nGood job. You go A package. Maybe you can play this out and still
+    come out on top. Problem is... now the delivery address most likely doesn't match"
+  choiceText1: 1) Let's go to the one I got, blame it on the instructions later. It's
+    the best I can do.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F43f
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

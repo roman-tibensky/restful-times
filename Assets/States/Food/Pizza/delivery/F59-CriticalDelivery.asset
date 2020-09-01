@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F59-CriticalDelivery
+  m_EditorClassIdentifier: 
+  headerText: Everyone's a critic
+  storyText: "Trying to look as natural as possible, you decided the best approach
+    would be to pretend you're on a call with someone. You yelled in your phone, complaining
+    about a play you supposedly saw. Where every actor was sick. And every third word
+    was obscured by coughing. You spoke as loud as you could, in order to be heard
+    by your imaginary friend on the end of the line and, more importantly by someone
+    who'd hopefully like to dispose of a parcel maybe? And someone indeed did. They
+    came up, placed a package in your hands. Snarled at you to be careful and made
+    sure they put as much distance between you and them as fast as possible.\r\n\r\nCool,
+    first step done. The package is fairly sturdy and kinda heavy. Hopefully it's
+    the right one too?"
+  choiceText1: 1) Try to examine it further.
+  choiceText2: 2) You're supposed to shake it, right?.
+  choiceText3: 3) Stop faffing about and get going. The pizza won't earn itself
+  headerTextFontSize: 40
+  storyTextFontSize: 17
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F59
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

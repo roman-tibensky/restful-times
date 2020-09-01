@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F57-GracefulBaiBai
+  m_EditorClassIdentifier: 
+  headerText: Graceful departure
+  storyText: "Well, you already alerted people to your presence, no point in trying
+    to be too subtle anymore. You turn around and run towards what you think is the
+    way back. Turns out that it wasn't. It was a bunch of boxes. And you very confidently
+    rammed into particularly a large, unbalanced stack. It came hurling down and made
+    you as flat as the pizza you were so desperately working for. I guess that's one
+    way to solve this situation.\r\n"
+  choiceText1: 1) You had to mention the pizza bit? Now I'm both dead AND hungry (GAME
+    OVER - restart)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

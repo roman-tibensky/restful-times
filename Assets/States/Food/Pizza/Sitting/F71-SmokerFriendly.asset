@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F71-SmokerFriendly
+  m_EditorClassIdentifier: 
+  headerText: Smoker friendly accommodation
+  storyText: "The atmosphere here is so stiff, you can't handle it anymore. You notion
+    to your guest to follow you. Startled, he complies and follows you to the balcony.
+    You offer him a smoke. He hesitates, but takes it in the end. You both lean on
+    the railing and take in the sounds of the city. They aren't very pleasant to be
+    fair. Mostly honking cars and the occasional cursing. But this is where you grew
+    up, those sounds are in your blood. As you stand there enjoying your cigarette,
+    you look over to your guest. You can tell he's very much the same. He calmed down
+    considerably, pumping his lungs full with nicotine and staring at the city lights.\r\n\r\n\"Thanks,\"
+    he finally spoke, \"I really needed this.\" You nod and hand him one more cigarette.
+    He gladly takes it. You both, just chill without another word on the balcony,
+    staring at the world..."
+  choiceText1: 1) What a nice peaceful bonding moment
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 17
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F71
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

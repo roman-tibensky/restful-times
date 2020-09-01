@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F69-Title
+  m_EditorClassIdentifier: 
+  headerText: This sure is a title
+  storyText: "...\r\n...\r\n...\r\n\"AREN'T YOU SUPPOSED TO BE LOOKING AFTER ME? WHAT'S
+    WITH THIS INTERROGATION!\" You literally haven't said a single word to this guy
+    in your life, let alone ask him questions. But it doesn't feel like you could
+    stop him at this point even if you'd try. He started nervously pacing back and
+    forth and every time he face'd you, he'd try and make some sort of defense. \"I
+    tried everything.\" \"Nobody would listen.\" \"I don't WANT people to die\" Yeesh,
+    that last one does not sound very optimistic. Then the man stopped. He exhaled
+    a deep defeated sigh. Whatever the argument was, I think you won? \"Fine! What
+    would YOU have done in my place?\""
+  choiceText1: 1) Look I already know how you wanna react, I'm not even quite sure
+    why this option is here.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 17
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F69
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

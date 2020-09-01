@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F19-DrinkNFood
+  m_EditorClassIdentifier: 
+  headerText: Drinking up an appetite
+  storyText: Your head is buzzing something fierce. It's been a long day. And your
+    brain is filled to the brim with stray thoughts and noise. Calming down with a
+    drink or five might not be the worst idea. Would help you to build up an appetite
+    too. You grab a glass, pour yourself quite the amount and just close your eyes
+    for a second, savoring the smoky aftertaste and the warm sensation slowly spreading
+    across your chest. You let out a calm sigh and open your eyes. You look down to
+    eye your dinner for the night... only to find it starting back at you? There were,
+    for the lack of better words, tiny little people with leaf-like features sitting
+    on your food,  aiming little toothpick spears at you. What the hell. You just
+    had one simple drink right? Didn't get a dash of mold to go along with it while
+    I wasn't looking, did you?
+  choiceText1: 1) There's no way that those things are real. Just grab the sandwich
+  choiceText2: 2) I guess I have guests now? Polite greetings should be had?
+  choiceText3: 3) ... take another drink see if they go away.
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: ae12e320f0f2cfa4ca5eda114ed1ed74, type: 2}
+  - {fileID: 11400000, guid: d9cb4c5e435900c4283e6cd3950f54dd, type: 2}
+  - {fileID: 11400000, guid: 20a8ed1681915974f93a3d0de9096191, type: 2}
+  tag: F19
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

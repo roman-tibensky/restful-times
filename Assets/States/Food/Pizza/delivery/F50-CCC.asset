@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F50-CCC
+  m_EditorClassIdentifier: 
+  headerText: Crappy craft of camaraderie
+  storyText: "...\r\n\"I'm sorry, that ugly thing is WHAT?\" Well, god help you, you
+    went off and said that out loud. No use in backtracking now, it's time you double
+    down:\r\n\"Look. I get it. It is god awful to look at. But sometimes, that's just
+    how relationships work. Sometimes, that's the best you can do. It's the thought
+    that counts, you know what I mean? \" You dramatically take the monstrosity into
+    your hands an motion at it. \"You must've had such an experience before. A relationship
+    bruised and battered, coming off at the seams, no idea how it even holds together,
+    but hey... here we are. And goddamnit, we are TRYING our best.  All so nicely
+    represented in this... this \r\nmalformed mare of mutuality, this horrid horse
+    of harmony,  this,\" you pause for dramatic effect, \"fuglycorn of friendship.\"\r\nSilence
+    engulfs the room.\r\n..."
+  choiceText1: 1) Look. I tried. Just shoot me already
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 6596942910cfcb6469cc41dcf1a9eca9, type: 2}
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F70a-HowDare
+  m_EditorClassIdentifier: 
+  headerText: You wouldn't dare
+  storyText: You went to the balcony and just stared out into the city traffic. It
+    was loud as per usual. You couldn't really hear much from inside your apartment.
+    You only know that your guest was on the phone with various people most of the
+    time, but something was telling you it was best that you didn't know what was
+    going on anyway. You were half-way through your fourth cigarette when the doorbell
+    rang. Thugs from your food provider came in... along with people that you've never
+    seen before. They brought you your food and took away the weirdo. He kept thanking
+    you for what felt like ages before he finally left. To the thugs' inquisitive
+    gazes you could only shrug. Nobody knows what the hell that was about.
+  choiceText1: 1) Wonder if I could charge therapy as an additional service. (Objective
+    complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F70a
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that silence is not only golden, but also delicious

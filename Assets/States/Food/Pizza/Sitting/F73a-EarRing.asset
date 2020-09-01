@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F73a-EarRing
+  m_EditorClassIdentifier: 
+  headerText: 
+  storyText: "Through the haze that the world currently is, you hear the doorbell
+    ring. Pickup's here. You drag your guest out of the bath tub and kinda shove him
+    towards the door. When you manage to open it, you're greeted with.... words? Some
+    words. Context is for sober people. The figures that stand there at least look
+    familiar? Hard  to say. They scoop up the nigh liquid-state human they left with
+    you, exchange him for a pizza and leave.\r\n\r\nYou'd eat, but you really do feel
+    like shit. Taking a slice up to your mouth is an ordeal and a half. You chew a
+    little bit of your food, but that's about all you can manage. Time to call it
+    a night. Any other action would be a waste of time."
+  choiceText1: 1) Look.... at least it was a party? I think? (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F73a
+  foodPoints: 5
+  sleepPoints: 5
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You got to relive your frat party days. You were not entirely sure
+    if that's a good thing

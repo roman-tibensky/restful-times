@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F15-stabChallenge
+  m_EditorClassIdentifier: 
+  headerText: A challenger approaches
+  storyText: Your question is immediately answered as the sandwich opens up and something
+    like a cross between a tiny human and salad wearing armor made of tree bark came
+    out and started ...chanting at you in a yelling fashion? Seems it wasn't alone
+    either. From the garnish a half a dozen more of these creatures came out, all
+    of them menacingly chanting away, stomping their little feet. The one in the sandwich
+    took some mayonnaise, and smeared it on his leafy face like war paint and then
+    pointed at you yelling. Seems the little guy was ready to throw down.
+  choiceText1: 1) Oh, It. Is. ON.
+  choiceText2: 2) Just push him away and grab the sandwich. What's the worst he could
+    possibly do
+  choiceText3: 3) Yell back
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 91f1f81aadeba914f95d19aa79cfc5b3, type: 2}
+  - {fileID: 11400000, guid: 341afc93dd906cb42bb421b22bd3b572, type: 2}
+  - {fileID: 11400000, guid: ff55e49b1b79fed4da34c53cd93964ea, type: 2}
+  tag: F15
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

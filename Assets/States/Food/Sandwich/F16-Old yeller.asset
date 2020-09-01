@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F16-Old yeller
+  m_EditorClassIdentifier: 
+  headerText: Dishonor on your cow!
+  storyText: You won't let some leafy midget intimidate you! How dare he even try
+    this feeble scare tactic on you. You yell back, trying to mimic their incoherent
+    speech and shake your fork in their general direction. The yells and chants of
+    the leaf folk immediately grind to a halt. Their expression is on shock and disbelief.
+    They look at each other. Murmur a few incoherent sentences, then start yelling
+    at each other. Then they start yelling at you, but less organized, one over the
+    other with absolute disgust. You see no other option, but to double down with
+    your own bit of yelling. But that was the last straw. The whole leaf clan jumps
+    at you and starts attacking. They catch you by surprise. And although the leaf
+    people are small, they are surprisingly strong and super nimble. Once they get
+    under your clothes, you stand no chance. Must've said some horrible things to
+    the little buggers.
+  choiceText1: 1) And I meant every little bit, especially about their moms (GAME
+    OVER -retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F16
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

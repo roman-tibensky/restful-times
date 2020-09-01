@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F21-WhiskyOffering
+  m_EditorClassIdentifier: 
+  headerText: Whiskey the animosity away
+  storyText: 'Well, giving up on the notion that these things aren''t real, you start
+    wondering if they''d make good drinking buddies. You take a tea spoon, pour some
+    whiskey on it and gently place it in front of the leafy crowd. At first they looked
+    confused, but the leaf in the middle that was yelling at you a lot decided to
+    carefully approach the liquid. '
+  choiceText1: 1) Take a sip to demonstrate your intent
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: cf67ab648562c8047a2d1135a9a1801a, type: 2}
+  tag: F21
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

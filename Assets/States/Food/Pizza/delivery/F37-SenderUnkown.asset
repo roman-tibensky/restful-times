@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F37-SenderUnkown
+  m_EditorClassIdentifier: 
+  headerText: Sender unknown
+  storyText: First stop. Train station. Crowded as all hell. Finding the person who'd
+    have what you're looking for is gonna be a pain and a half. The pizza barter system
+    is fairly popular, since basically anyone can do it. But it also means that you
+    might be looking for anyone to hand over the package and of course you've no idea
+    what the package should even be. Your best chance is to attract the attention
+    of whoever your target is to yourself and hope for the best
+  choiceText1: 1)  How the hell does that password even work. I guess I could try
+    and replicate it?
+  choiceText2: 2) Look, just cough a lot, that's all the password really is
+  choiceText3: 3) The instruction giver was just being a smartass, wasn't he
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 6017a81d533315d419f81f13b0d194a1, type: 2}
+  - {fileID: 11400000, guid: a4cc99b1766798a41b99af04ea1fc81d, type: 2}
+  - {fileID: 11400000, guid: 5da3d90dc54221b4193359953e711320, type: 2}
+  tag: F37
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F75-WhiskeyAway
+  m_EditorClassIdentifier: 
+  headerText: Whiskey your worries away
+  storyText: "Yeah, your guest needs to wash that stress down thoroughly. You start
+    with a tall glass 2/3 full and we'll see how you go from there. Your guest eagerly
+    accepts your offering and chugs half of it down straight away. Not bad.\r\n\r\nSeems
+    the alcohol agrees with him thus far. He started shacking a bit less. The familiar
+    burn in one's chest spreading though one's body, relaxing one's muscles, dulling
+    one's thoughts - sometimes that's all it takes to reset a person, help them calm
+    down, gather their thoughts together at least for a lil bit.\r\n\r\nYour guest
+    seems to be be reaching the very end of the gathering process. You wonder what
+    the conclusion might be.\r\n\"Sorry to ask, but you wouldn't happen to have any
+    food? This is gonna hit hard and I haven't eaten all day.\""
+  choiceText1: 1) Good. Maybe now he'll stop looking around like a highly caffeinated
+    weasel.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 676e8f76ef293d04ba447f443e30bf3c, type: 2}
+  tag: F75
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

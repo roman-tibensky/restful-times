@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F49-Anniversarycorn
+  m_EditorClassIdentifier: 
+  headerText: Anniversarycorn
+  storyText: The thugs in the room look at each other, waiting for anyone to say anything.
+    The silence was deafening. "Ah, goddamnit. I know what this is." You turn your
+    gaze to a guy with a very defeated look on his face. "You know the chick I'm dating?
+    I think today is our 6 week anniversary. That's gotta be from her. Definitely
+    looks the part." The room is filled with relieved sighs and murmurs of "Damnit,
+    Steve" and "You sure like em crazy". The guy is very apologetic and escorts you
+    off the premises, giving you a small bag of cannoli and a warning to never mention
+    this place to anyone ever. When you call back your original contractor, saying
+    the delivery is done, you're assaulted with a lot of curse words, when you describe
+    the result. It's not clear where or what went wrong, but they are most certainly
+    not happy. They just cannot prove it's your fault, so you get to live. For now.
+    Forget the payment though.
+  choiceText1: 1) I guess cannoli are still better than a lead diet... (Objective
+    complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: 
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that love works in mysterious ways, but sadly not through
+    your stomach.

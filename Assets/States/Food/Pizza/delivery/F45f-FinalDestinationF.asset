@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F45f-FinalDestinationF
+  m_EditorClassIdentifier: 
+  headerText: Final destination
+  storyText: Welp, here we are. It's dark here. It's remote. Your target is a warehouse.
+    It even seems to have people patrolling it. The atmosphere is quite heavy and
+    you get the feeling you're not wanted here. You're not even sure if your package
+    is wanted here.
+  choiceText1: 1) What would the point of package delivery be, if they weren't expecting
+    in? Just walk up to the guards and deliver the package.
+  choiceText2: 2) Why was the operator so cryptic about not getting caught? Throw
+    it at the guards from the shadows
+  choiceText3: 3) Maybe it's supposed to be a surprise? Sneak in and place it somewhere
+    obvious.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 4abdb23589110414392b73555a9302ad, type: 2}
+  - {fileID: 11400000, guid: 6e16eb2073617dc4c816bfbb5de0e9cb, type: 2}
+  - {fileID: 11400000, guid: f730fcd05990923429d91afe63b28387, type: 2}
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

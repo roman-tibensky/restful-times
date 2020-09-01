@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F24-Leafese
+  m_EditorClassIdentifier: 
+  headerText: What's hello in leaf-ese anyway
+  storyText: No particular idea on how you want to go about stuff, you kinda just
+    wave and blurt out a "Hey there". The leafy people stop what they are doing and
+    seem to follow your hand with their spears. You wave again and the wave of toothpicks
+    follows. It's like you have your own spiky Mexican wave at your finger tips. But
+    it didn't bring you any closer to a solution to this situation whatsoever.
+  choiceText1: 1) Well, they definitely don't want me to get to the sandwich. Just
+    get rid of em already.
+  choiceText2: 2) Well, they're definitely intelligent. Wonder how they'd react to
+    an offering of the, uhh,  spiritual kind.
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: a4208958018f6cf46bf43db762e5fc77, type: 2}
+  - {fileID: 11400000, guid: b665a96693ffbe943828e11983632880, type: 2}
+  tag: F24
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

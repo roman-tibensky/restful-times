@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F4-Speed of Hunger
+  m_EditorClassIdentifier: 
+  headerText: Speed of Hunger
+  storyText: As the smell of food hits your nostrils,  it's just too much to bare
+    anymore. Your greedy fingers snap at the cold treat so fast even you don't realize
+    it happened before the liberating taste of bread, salad and meat(?) spreads in
+    your mouth. Oh, sweet release from hunger! .... bit crunchy though... Ouch! The
+    hell was that? You reach inside your mouth and take out a... toothpick? With a
+    tiny spearhead? You stare at it perplexed. Then you spot some movement in the
+    corner of your eye. You follow it to the plate in the fridge and see what could
+    only be described as tiny people spliced with salad coming out from behind the
+    leaves giving you and absolutely horrified look. Politely, you give a similar
+    one back.
+  choiceText1: 1) Greet them with the classic "What the fuck"
+  choiceText2: 2) Gulp...
+  choiceText3: 3) What the hell is in my mouth right now...
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 5ea73bdecf1a5874a9ee1c44ae88273b, type: 2}
+  - {fileID: 11400000, guid: ead82c43d17ecbe4680bcbbe96d2272c, type: 2}
+  - {fileID: 11400000, guid: cf2d4bbec745bc341a4c0eae04d79787, type: 2}
+  tag: F4
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

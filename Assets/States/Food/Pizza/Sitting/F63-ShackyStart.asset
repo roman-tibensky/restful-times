@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F63-ShackyStart
+  m_EditorClassIdentifier: 
+  headerText: Shacky start
+  storyText: Well, needles to say your new friend is just a teeny tiny bit on edge.
+    He's a scrawny twig in his late thirties. Neatly dressed and neatly trimmed. Has
+    a bit of a weaselly look to him, but it's largely overpowered by the expression
+    of abject terror he chose to wear this evening. He clings to a rather expensive-looking
+    briefcase, is paler than death and shacking like he just ran to the North Pole
+    in a swimsuit. He blurts out a "H-hi" and even that takes about three tries. This
+    might be a job, but you're kinda just starting to feel bad for the guy. You slowly
+    nod a hello back and wonder what to do with your new freaked out friend
+  choiceText1: 1) Just get the poor sod a drink.
+  choiceText2: 2) You two need to go grab some fresh air and a smoke to calm down
+    his nerves. He'll be unbearable like this
+  choiceText3: 3) Stare at him awkwardly some more to see what he'll do
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F63
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

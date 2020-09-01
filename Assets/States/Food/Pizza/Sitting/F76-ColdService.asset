@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F76-ColdService
+  m_EditorClassIdentifier: 
+  headerText: 'Cold service '
+  storyText: "Yes, you have food. But that was your food. The agreement was to provide
+    shelter, not a five star service to this knob-head. You're sure he'd rob you blind
+    if he could while he's at it. You grunt a \"help yourself\" and motion at the
+    fridge, while you go back to pouring drinks.\r\n\r\nSuddenly, you hear a painful
+    scream. You turn around with a startled twitch and see the guy desperately keeping
+    the fridge door closed with his back, while holding his right hand. Said hand
+    looks like a bleeding cactus for some reason. There's countless needle-like things
+    stabbed all over his palm. Looks painful. Sounds painful too. All he can do, is
+    wheeze \"what the fuck was that\" in agony over and over again. "
+  choiceText1: 1) Yeah, I'm not looking inside to answer that question.
+  choiceText2: 2) Are you kidding me? Is he too dumb to take a sandwich out of a fridge?
+  choiceText3: 3) Shit, the merchandise is damaged!
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F76
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

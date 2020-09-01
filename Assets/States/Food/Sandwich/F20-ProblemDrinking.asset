@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F20-ProblemDrinking
+  m_EditorClassIdentifier: 
+  headerText: Drink your problems away
+  storyText: Yeah, you really don't have the energy to deal with whatever this is
+    supposed to be. Rinsing your brain with more alcohol sounds like the easiest solution
+    right now. You take another hefty shot and look down at the sandwich. Nope. They're
+    still there. But hey. It was a tasty attempt even if it wasn't a very effective
+    one. The little people seem to have become a bit agitated though; chanting and
+    shaking their tiny spears at you, with one of them standing on the sandwich yelling
+    at you.
+  choiceText1: 1) Rude! Swat them away!
+  choiceText2: 2) Rude. You should probably tell them to stop
+  choiceText3: 3) Well... do THEY wanna join me for a drink?
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: a4208958018f6cf46bf43db762e5fc77, type: 2}
+  - {fileID: 11400000, guid: d9cb4c5e435900c4283e6cd3950f54dd, type: 2}
+  - {fileID: 11400000, guid: b665a96693ffbe943828e11983632880, type: 2}
+  tag: F20
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

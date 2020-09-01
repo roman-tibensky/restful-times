@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F47r-PandoraPackageR
+  m_EditorClassIdentifier: 
+  headerText: Pandora's package
+  storyText: "I know, right? I'm as surprised as you are. Let's see how long that'll
+    last. You're led into a room with a bunch of people armed to the teeth. The thugs
+    that brought you here address the person in charge, immediately get scolded for
+    not checking the package themselves and leaving you alive for that matter. Everyone
+    eyes the package, then you. \"Why don't we let our friend here open it then.\"
+    Friend, huh? Considering they just wanted to kill you, you've a feeling this relationship
+    might be progressing a bit too fast, but hey, still better than your prior disposition.
+    You carefully open the package and take out the content. \r\n\r\nHonestly, it's
+    not much to look at. Inside the package, was just another metal box, but without
+    any apparent way of opening it.\r\n\r\n\"What the fuck is that?\" Asks one of
+    the thugs. Indeed, a man who's not afraid to ask the hard hitting questions. No
+    doubt, he'll go far in life."
+  choiceText1: 1) Unlike me, who's gonna be dead if I don't think of something quick.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 15
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 652b6d48318aa814e894cf14c05f20b4, type: 2}
+  tag: F47r
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

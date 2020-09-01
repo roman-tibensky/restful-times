@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F44f-PackageChase
+  m_EditorClassIdentifier: 
+  headerText: What are you? A cop?
+  storyText: You're hosed either way, so you decide to go straight for a bluff. As
+    loud as you can, you yell for the perpetrator to stop, as if you already knew
+    who it was. You then vaguely glance at the direction you think the person that
+    bumped into you went and... yup, there's a figure trying to go against the crowd
+    a bit harder than the rest. Not much to go on, but you got nothing else. What
+    follows is the slowest chase imaginable, as both of you try to swim against the
+    tide of bodies. It's slow and awkward and feels like it's taking forever. You
+    yell at him a few more times and one or two good Samaritans slow him down for
+    you as they try to block the perpetrator. You finally catch up, tackle him to
+    the ground, get your package back and promptly disappear before the cops show
+    up. Seems to be the same package even. What luck!
+  choiceText1: 1) Okay, that was enough excitement for one day, let's just deliver
+    the package.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

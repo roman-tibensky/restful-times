@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F1-Food
+  m_EditorClassIdentifier: 
+  headerText: Food
+  storyText: Do you even have the energy for food? I suppose sleep on a full stomach
+    is much nicer though. Fine, let's see if there's any fast and easy options that
+    definitely won't backfire at you for wanting a quick meal
+  choiceText1: 1) Eat the 100 year old bologna sandwich perfectly(?) preserved by
+    the ancient fridge that somehow did not break down yet
+  choiceText2: 2) Order pizza from the pizza mafia
+  choiceText3: 3) Lick the mold off the ceiling. It's getting nice and ripe again.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: ceb47affe4398b14cb319bc393e153bd, type: 2}
+  tag: F1
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

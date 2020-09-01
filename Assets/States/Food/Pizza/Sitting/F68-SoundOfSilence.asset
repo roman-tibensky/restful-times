@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F68-SoundOfSilence
+  m_EditorClassIdentifier: 
+  headerText: Sound of Silence
+  storyText: "Your silent words seem to have hit a nerve. You tilt your head in confusion.
+    It's not like the caretaker ever gets to hear the story of the person they have
+    to hide beforehand. You have no idea what this walking meal voucher is talking
+    about. But hell if you're stopping. This is about as much as you feel like investing
+    into this conversation. Everything else would mean effort on your part.\r\n\r\nYour
+    conversation partner is not taking this as well as you however. \"Stop giving
+    me that look!\" He's getting quite antsy. \"I tried preventing this, okay? I tried!
+    What else could I have possibly done?\""
+  choiceText1: 1) Seem like you'll be a while. Choose this only if you mind me grabbing
+    a beer from your kitchen instead. I'm thirsty.
+  choiceText2: 2) I mean, it's not like you need me here. You literally just stare
+    at a guy and won't stop. Not even for a smoke.
+  choiceText3: 3) Pretend I put some eye pun here, I don't even care anymore
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F68
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F71a-SmokerUnfriendly
+  m_EditorClassIdentifier: 
+  headerText: Smoker unfriendly accommodation
+  storyText: '... until your door breaks down in a violent crash and four armed men
+    burst in. Your guest screams and looks for a way to escape, but you''re both trapped
+    on the balcony. The only exit is to plunge your face into the pavement 10 stories
+    below you. You don''t even get the chance to make that decision, before two of
+    the guys shoot you in the chest. You slump against the railing. The last thing
+    you see before your life fades away,  is your guest being dragged off kicking
+    and screaming. It seems while you were watching the city, it was watching back.
+    And decided to check out your guest a bit early.'
+  choiceText1: 1) Are you in any way implying that parading a high risk target on
+    the balcony was a bad idea? That doesn't sound right (GAME OVER - retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F71a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F78-BednBourbon
+  m_EditorClassIdentifier: 
+  headerText: Bed'n Bourbon
+  storyText: You lead your new friend into the living room, show him the couch. He
+    just kinda slides onto it with a weary sigh. Looks comfortable enough. You go
+    back to the kitchen to fetch some more drinks. But when you come back, your guest
+    is gone without a trace. You frown, knock back your drink and start searching.
+    He's nowhere to be found. The door leading outside is still locked. There's no
+    body-shaped hole in the pavement under your balcony, so he didn't jump off. He's
+    not hiding in any closet. He's just gone. You don't really have an explanation.
+    Sadly, the people who come to pick your guest up don't seem to care about your
+    situation. They make you disappear too
+  choiceText1: 1) .... but did we check under the sofa? (GAME OVER - retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F39-CoughInTheMiddle
+  m_EditorClassIdentifier: 
+  headerText: Cough in the middle
+  storyText: You decide to be as loud and obnoxious as one could be and still look
+    sort of natural, while grumbling incoherently and coughing your way through the
+    crowd. Although you notice you're not the only one. Must be something in the air.
+    Lot of sick people everywhere. With all the similar noises, you honestly started
+    to doubt you'd get anywhere with this approach. But suddenly, someone shoves a
+    package in your arm, grunts at you to "get the fuck going" and disappears into
+    the crowd. The package is kinda light and soft. Somehow this does not feel right.
+    Not like an 8 rating at least.
+  choiceText1: 1) Try to examine it further.
+  choiceText2: 2) You're supposed to shake it, right?.
+  choiceText3: 3) Stop faffing about and get going. The pizza won't earn itself
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 618403008b02db840b67a27e784b3b22, type: 2}
+  - {fileID: 11400000, guid: 87393a1ddf195bc4ab5ceb2d6de8fcf1, type: 2}
+  - {fileID: 11400000, guid: 4d0dba69521311c4885d70b0f06fc1ff, type: 2}
+  tag: F39
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

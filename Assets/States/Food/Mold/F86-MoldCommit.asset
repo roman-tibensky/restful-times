@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F86-MoldCommit
+  m_EditorClassIdentifier: 
+  headerText: Moldy cheese. Skip the cheese
+  storyText: "With the careful eye of an experienced \r\nconnoisseur, you eye a particular
+    patch above the kitchen table. Hmm... The texture seems nice and fluffy, but breaks
+    apart too easily, the color a rich black with a hint of green, the smell... well,
+    it smells like mold, what do you want from me. But all in all, not the worst batch.
+    Could use a few more days to spread about and ripen, but for one person, this
+    is just about enough for the desired effect. You take a knife and plate and gently,
+    skillfully start scraping the black gold off the ceiling, making sure you leave
+    enough for the mold to spread easier for next time. \r\n"
+  choiceText1: 1) Okay, so how's the harvest looking?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: c92c64bbe0a0b8d4283487da952545fd, type: 2}
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

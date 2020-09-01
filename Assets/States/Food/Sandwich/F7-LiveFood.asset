@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F7-LiveFood
+  m_EditorClassIdentifier: 
+  headerText: Food so rare it still kicks
+  storyText: Oh... Oh no... oh god. You're quite certain something moved in your mouth.
+    Sweet mother-loving Betsy, get it out! You jam your hand in and it the sandwich
+    mush out of your mouth to reveal another leaf person wearing sandwich goo and
+    what appears to be chewed up armor made of bark. You hold it firm in your hand
+    so it could not escape while trying very hard to not lose your lunch as well.
+    All the while the inside of the fridge keeps yelling at you in confused, frightened,
+    and angry voices.
+  choiceText1: 1) Toss whatever the hell that is into the garbage disposal
+  choiceText2: "2) Use the little guy as a shield and close the fridge.\r"
+  choiceText3: 3) Toss that sandwich spawn back into the icy coldness of the hell
+    fridge, or so help me!
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 366588096ae3ca140898f1f6ebd2dfb6, type: 2}
+  - {fileID: 11400000, guid: e0e4881bfa7f07949a87cc651b2fe0a8, type: 2}
+  - {fileID: 11400000, guid: 6805952a980a4c943afe3a6d5278c833, type: 2}
+  tag: F7
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

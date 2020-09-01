@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F73-WhiskyBad
+  m_EditorClassIdentifier: 
+  headerText: Whiskey ad nauseum
+  storyText: "The night is young and the only way you gonna tolerate this bundle of
+    nerves is to bond like proper men. In other words, drink so hard, you both forget
+    that you ever met. And since you're feeling fancy, your guest gets his very own,
+    brand new bottle. Not like you intend to stop after one anyway.\r\n\r\nYour guest
+    takes it, hesitantly stares at the hooch for but a second before he, as a true
+    enlightened brother, proclaims \"fuck it\" and starts chugging.\r\n\r\nSafe to
+    say, you don't remember much after that. When you come to your senses, you're
+    hanging from the balcony by your belt. You feel like shit. Kitchen's a mess. There's
+    a traffic cone stuck in the couch deeper than should be physically possible. There's
+    a bra stuffed in a mixer chilling on your bed. You know very little of what happened,
+    but you know for certain no one came in our out of the apartment, so what the
+    fuck?"
+  choiceText1: 1) Look, if you don't shred a bra in a mixer, can you even call it
+    a party?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F73
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

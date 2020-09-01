@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F5-MouthfulSpeak
+  m_EditorClassIdentifier: 
+  headerText: Speaking with your mouth full
+  storyText: '"Hwah h fuh" You blurt out even forgettting that there''s food in your
+    mouth. The salad men yell back and start throwing toothpick spears at you with
+    surprising amount of strength. You barely manage to drop the sandwich and lift
+    your hands in front of your face, before they reach you. Sharp, stabbing pain
+    spreads across your palm and arm, as the tooth picks bury themselves into your
+    skin. You barely have any time to recover as another stabbing pain spreads in
+    your mouth again. You yell out in surprise and watch as something  slides out
+    of your mouth and starts "scaling" you down using two toothpicks. Too bad one
+    of the first places it uses is your neck and perforates one of your arteries.
+    You try to fight the little bastards of and even though you close the fridge,
+    you fail to close the gaping hole in your neck and pass out eventually.'
+  choiceText1: 1) Gulliver's island never taught me anything about this... (GAME OVER
+    -retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F5
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

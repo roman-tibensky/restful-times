@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F58-GoingPostal
+  m_EditorClassIdentifier: 
+  headerText: Neither snow, nor rain, nor imminent murder
+  storyText: "Mixing business and survival? Kinda admirable, but mostly just insane.
+    But not like you can make the situation any worse at this point. Maybe it could
+    even help your predicament. You bite your lip, shake the package and throw it
+    with all your might into the darkness. \r\n\r\nYou wait for the thud of the package
+    to distract the people in the warehouse, but instead, the whole building is enveloped
+    by a fiery light and you get swept off your feet by a giant shock wave, as a huge
+    explosion shakes the warehouse. "
+  choiceText1: 1) WHAT THE FUCK!
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

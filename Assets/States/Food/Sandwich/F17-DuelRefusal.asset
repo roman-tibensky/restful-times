@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F17-DuelRefusal
+  m_EditorClassIdentifier: 
+  headerText: I don't duel with salad
+  storyText: Battling a tiny leaf person sounds awkward and you'd probably feel bad
+    for kicking his arse. So why not just steal the food instead? You attempt to shove
+    him and his cheerleaders away with your fork and just take the damn sandwich that
+    way. But when the leaf people saw what you were up to, they all jumped to get
+    your hand away from the sandwich together. And they were SURPRISINGLY strong.
+    But they were focused so much on your one hand they completely ignored the other.
+    You manage to use that to snag the sandwich, but before you get the buggers off
+    your hand and  close the fridge, they refocus on their sacred food item and attempt
+    to get it back. You scream and thrash your arms around, somehow shake the attackers
+    off and close the fridge. Sadly after assessing your bounty, you find that you
+    only managed to obtain like half the sandwich.
+  choiceText1: 1) Just eat it. Ain't no way I'm opening that fridge again (Objective
+    complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F17
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You've learned that who doesn't participate in combat does not deserve
+    to eat. And that your fridge probably hates you now.

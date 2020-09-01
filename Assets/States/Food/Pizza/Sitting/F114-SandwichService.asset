@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F114-SandwichService
+  m_EditorClassIdentifier: 
+  headerText: F114 - Whiskey served with a side of sandwiches
+  storyText: "You had plans for that sandwich. Eventually. One of these days. But
+    look at this guy. So lost, helpless, soon-to-be-drunk-of-his-buttocks. Your consciousness
+    is telling you to ease his pain at least a little bit. Fine... You decide to be
+    a proper host for once.\r\n \"Lemme getcha something,\" you sigh, open the fridge
+    and grab a plate with the sandwich on it. You notion to the kitchen table and
+    have your guest seated there and serve him the sandwich.\r\n\r\nYou turn around
+    to refill drinks for you both, when suddenly the customer raises a complaint.
+    \"Umm.... I don't want to ungrateful or anything, but I think the sandwich just
+    moved?\""
+  choiceText1: 1) ... that is too dumb for words. Sandwiches don't move... do they?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 30
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F114
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

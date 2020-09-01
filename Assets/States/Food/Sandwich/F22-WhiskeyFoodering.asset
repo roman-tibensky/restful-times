@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F22-WhiskeyFoodering
+  m_EditorClassIdentifier: 
+  headerText: Diplomatic inebriations
+  storyText: You point at your own shot and take a sip to demonstrate. Carefully,
+    the leaf man does the same... His face changes to disgust, confusion, then, slow
+    realization as the alcohol starts to work its way through his tiny body. He takes
+    another sip, then notions the others to do the same. Seems like your new friend
+    quickly came around to the idea of having a social drink or two. Or ten. And drunken
+    singing. And drunken fights. And passing out with your pants on your head.Or somebody
+    else's. Truly, their civilization took a huge leap forward this day. Surely they
+    won't mind you taking the sandwich in return?
+  choiceText1: 1) I bring the booze, they bring the snacks. Fair deal (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F22
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You were well fed and you found yourself new drinking buddies.

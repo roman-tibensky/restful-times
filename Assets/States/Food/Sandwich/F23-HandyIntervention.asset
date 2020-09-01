@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F23-HandyIntervention
+  m_EditorClassIdentifier: 
+  headerText: Handy intervention
+  storyText: 'Yeah, enough of this. Just get rid of em. You drunkenly swat your hands
+    at the leafy people. They put up much more resistance than you''d thought, but
+    you manage to toss them away. Only when they''re off the sandwich though do you
+    notice a sharp pain in your hand. You take a better look and see that your sorry
+    ass was too drunk to properly feel being stabbed by like a dozen of tooth pick
+    spears. You curse, grab the sandwich before the green ones can recuperate and
+    close the fridge behind you. A good portion of the night was then spent trying
+    to fix your hand. Getting the splinters out, disinfecting, and bandaging took
+    so long that you managed to sober up in the meantime. The pain of your hand intensified
+    and overtook your urge to eat. You forced like half a sandwich down at best. Couldn''t
+    even bring yourself to put it back into the fridge and it''s now just laying on
+    your counter. '
+  choiceText1: 1) Maybe it'll still be good in the morning... (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 17
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F23
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned to take little green me seriously at the cost of your
+    appetite

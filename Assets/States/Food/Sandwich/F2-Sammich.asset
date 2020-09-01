@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F2-Sammich
+  m_EditorClassIdentifier: 
+  headerText: The food of ancient kings... probably literally
+  storyText: You honestly don't know how old this sandwich is. You only know it was
+    in the fridge when you bought it at a yard sale along with a bunch of other stuff.
+    You were told no one ever dared to take it out, but you don't really see the issue
+    here. Obviously those people just weren't as hungry and/or desperate as you.
+  choiceText1: 1) Yay, mystery sandwich with mystery meat!
+  choiceText2: 2) Wait.... uhhh.... lets just get pizza
+  choiceText3: 3) Honestly, when you put it like that, even the mold sounds safer
+    to eat.
+  headerTextFontSize: 30
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 757df6b3d9b65d04a9ee4eb0051d028b, type: 2}
+  - {fileID: 11400000, guid: a0887e44a373b804089655164c0f1e8a, type: 2}
+  - {fileID: 11400000, guid: e4c62ecc58e91be4096612a80ddc1640, type: 2}
+  tag: F2
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

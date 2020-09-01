@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F14-Stab4Stab
+  m_EditorClassIdentifier: 
+  headerText: Stab for a stab
+  storyText: I mean it's only just. You got stabbed, you should stab back. Who does
+    that sandwich think it is anyway, poking you like that. You take a fork and attempt
+    to prod the sandwich carefully. But before the steel can even touch the bread
+    it was stopped by a long toothpick with a little spearhead at the end bursting
+    from inside the sandwich. It had such a force that it pushed the fork out of your
+    hand. Startled, your hand twitched and barely caught it before it fell to the
+    ground.
+  choiceText1: 1) What the ever-loving hell was that?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 91e074f35ea572442a04884146192ca3, type: 2}
+  tag: F14
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F55-StealthChoice
+  m_EditorClassIdentifier: 
+  headerText: Oh, this ought to be good then
+  storyText: "Your optimism is somehow both amusing and sad at the same time. Fine,
+    let's see in what stupid ways you can get yourself killed.\r\n\r\nTo your credit,
+    you at least try to be stealthy, try to stake out the place, look for a weak spot
+    in the patrols, then crawl through one of the open windows to get inside. You
+    made it into the warehouse. \r\n\r\nIt is pitch black. You make your way deeper,
+    carefully putting one leg before the other, feeling your way into the warehouse.
+    But at one moment, you hear someone speak up close by. Already on edge, you jump,
+    bumping into some barrels, creating sound like thunder that echoes throughout
+    the building, ringing in your doom. There are voices coming towards you from several
+    directions, so you can't really say, what a safe way to proceed would be. Now
+    what, genius?"
+  choiceText1: 1) Hide! Hide! HIDE!
+  choiceText2: 2) Get out, while you still can!
+  choiceText3: 3) Keep calm, throw the package as a distraction. Should technically
+    count as a delivery.
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 91aa44326cdfb0f448b877a160a8711c, type: 2}
+  - {fileID: 11400000, guid: 3aa1eb4a0ddbeb84c970ce0729ee6b5a, type: 2}
+  - {fileID: 11400000, guid: 949a0d0f51d6691409df8f2fbaa30bd2, type: 2}
+  tag: F55
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

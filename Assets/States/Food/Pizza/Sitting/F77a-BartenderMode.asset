@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F77a-BartenderMode
+  m_EditorClassIdentifier: 
+  headerText: Bartender mode
+  storyText: "\"Hey, isn't that always the case though?\" You reply as you top off
+    his drink. \r\n\r\n\"Oh, fuck off. What kinda non-sentiment is that,\" your guest
+    snarls and downs his drink in one go. The alcohol was clearly taking over his
+    brain cells and loosening his tongue at this point. \"No sorry. Not your problem.
+    Just... just let me sit down, I'm getting tipsy.\" He may have said that. But
+    he's still sipping on the next shot you poured."
+  choiceText1: 1) Sit him on the couch in the living room.
+  choiceText2: 2) Option 1 is clearly wrong. That couch has not been used since it
+    was bought. He's not taking its first time. Just sit him on a bean bag or something
+  choiceText3: 3) Just take over the couch before he does. Who cares where he'll sit
+    afterwards.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F77a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F113-PizzaSitting
+  m_EditorClassIdentifier: 
+  headerText: Pizza sitting
+  storyText: Yeah, you're letting strangers into your house for a couple of hours.
+    But the pizza tab will usually be covered for days to come, if the target is good.
+    The jobs aren't even that unsafe most of the time. This system, after all, exists
+    to make the person they send hard to find, right? "Got a 14 pizza rating here.
+    Keep him with you until our driver arrives and takes him elsewhere. Mess this
+    up and we mess you up." A fortnight pizza level target? Fuck. Perhaps I spoke
+    too soon
+  choiceText1: 1) Where's my gun?
+  choiceText2: 2) Is that a VIP? Should I tidy up?
+  choiceText3: 3) Maybe I can still change to something safer...
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F113
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

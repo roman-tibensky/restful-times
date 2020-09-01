@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F41r-CuriosityR
+  m_EditorClassIdentifier: 
+  headerText: Curious courier
+  storyText: Your curiosity got the better of you. You try to be as gentle with the
+    package as possible. Try to feel the shape first, try to peek into the fold, then
+    try to - BUMP - find it, since it was in your hands just a second ago and OH MY
+    GOD, WHERE DID THE PACKAGE GO. Took only a split second. Distracted by your curiosity,
+    you let your guard down and now someone in this enormous mass of people decided
+    they like it better than you. This is a fucking disaster..
+  choiceText1: 1) Well... might as well give up and go home.
+  choiceText2: 2)  Quick, look around, they has to be a clue SOMETHING you can do
+  choiceText3: 3) Yell "STOP RIGHT THERE" and hope for the best.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: dad8af71594df8d4f87dd88f26ed010f, type: 2}
+  - {fileID: 11400000, guid: 43e11fd4ecfa3724ab4da78c39af32fa, type: 2}
+  - {fileID: 11400000, guid: 5d9064ed39cc96a48a2d9b1535a6cd24, type: 2}
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

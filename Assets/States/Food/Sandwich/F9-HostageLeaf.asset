@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F9-HostageLeaf
+  m_EditorClassIdentifier: 
+  headerText: Hostage situation
+  storyText: 'You notice that, while the rather lively addition to your sandwich does
+    seems to try and get out of your grip, it also tries to do so in a way that wouldn''t
+    involve simply falling off. So fall damage seems to be a thing. Good. You also
+    notice the other little monsters reluctantly preparing to attack, trying to eye
+    a good opportunity where their comrade would not be affected. You raise your hostage
+    in front of you, using him almost as a shield, as you get closer and closer to
+    the fridge. Almost there. Now the trickiest part: get the little guy in and close
+    the fridge without others getting out. You put the little bugger down and prepare
+    to close the fridge, when suddenly a half a dozen tooth pick spears bury themselves
+    in your arm. You scream and curse and instinctively try to get them off with your
+    sandwich hand. The little buggers seemed to have been waiting for this. They lunged
+    at the sandwich and tried to pull it back into the fridge. You notice too late
+    and flinch away, kicking the fridge door shut. You curse up a small storm trying
+    to assess the damage to your arm.... only to notice you''re holding like a half
+    a sandwich in your hand. Then you curse up a bigger storm as you lick your wounds
+    and try to enjoy what''s left of your spoils of war.'
+  choiceText1: 1) War is hell. Having half a sandwich for dinner is even worse (Objective
+    complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F9
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: Your negotiation skills have seen better days, as they only earned
+    you half a sandwich

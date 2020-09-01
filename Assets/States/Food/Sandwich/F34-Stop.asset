@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F34-Stop
+  m_EditorClassIdentifier: 
+  headerText: Stop
+  storyText: Look. The sandwich stabbed you. Repeatedly. It's been doing this since
+    the first time you touched. Heck, it's even stabbing you as we speak. This is
+    getting hard to watch. I know I'm just the narrator here, but you really really
+    should do anything else at this point.
+  choiceText1: 1) I knew you would be against me. You always do this!
+  choiceText2: 2) You're right... let me just get some pizza and clear my head
+  choiceText3: 3) FINE. I'll drown my sorrows in mold. Now leave me alone!
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 7675c1c997ae99741a2b1125d021d9db, type: 2}
+  - {fileID: 11400000, guid: a0887e44a373b804089655164c0f1e8a, type: 2}
+  - {fileID: 11400000, guid: e4c62ecc58e91be4096612a80ddc1640, type: 2}
+  tag: F34
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

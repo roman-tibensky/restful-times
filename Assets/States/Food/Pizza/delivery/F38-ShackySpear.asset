@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F38-ShackySpear
+  m_EditorClassIdentifier: 
+  headerText: Shaking things up with Shakespeare
+  storyText: "Well, you certainly gave it a try. Downloaded the whole act on your
+    phone and in the most monotone, insecure voice possible started to stumble and
+    cough your way through the massive amount of text no sane person would ever use
+    as a password. Good job. You were so conspicuous that even regular bystanders
+    started avoiding you, creating a hole in the crowd, with you in the middle like
+    an island of Crazy. Didn't take long for the cops to escort you off the premises.
+    Pretty spectacular as far as failures go, if I do say so myself. Doubt you'll
+    be given the option to order pizza ever again. \r\n\r\nOn a more positive note,
+    people mistook you for a hobo! They threw enough money at your performance for
+    you to at least grab a bagel before you head home."
+  choiceText1: 1) A whole bagel you say? Might need to do these performances more
+    often (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F38
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: When it comes to filling your belly, you learned you might be a better
+    street performer than detective.

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F51-SSSS
+  m_EditorClassIdentifier: 
+  headerText: Selling the sucky steed of solidarity
+  storyText: "Damn, that silence is absolutely deafening.\r\n\"You know boss, he's
+    kinda right,\" one of the thugs decided to try and look smart. \"That thing is
+    super-ugly.\" He didn't get far. But points for trying.\r\n\"Shut up! Just...
+    just shut up, will you,\" said boss seemed to be a bit more contemplative to say
+    the least. \r\n\"You're here on behalf of the Pizza people I assume?\" You nod
+    slowly. \r\n\"And you mean every word you just said?\"\r\n\"As if my life depended
+    on it,\" you reply, your poker face knowing no equal.\r\n\r"
+  choiceText1: 1) The fuck am I even doing. There's no way he'd fall for that.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: aaf35246047339c4c84b7f012014ca85, type: 2}
+  tag: F51
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

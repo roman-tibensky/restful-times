@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F72-DrinkInit
+  m_EditorClassIdentifier: 
+  headerText: Drink your worries away
+  storyText: "You know what? Your day has been long enough even without this jokester
+    making it even more exhausting. You snap your fingers so loud that the guy jumps
+    startled half to death. Yeah.There's only one proper cure for both of your worries.
+    And it lies on the bottom of a bottle. \"Drink?\" You ask with a tired expression.\r\n\r\n\"S-sure,\"
+    your guest replies, still processing the loud sound. he follows you into the kitchen.
+    You take two glasses and your whiskey out of the fridge. You appraise your guest
+    with single a glance and..."
+  choiceText1: 1) ... you give him a normal shot for now. Looks like a lightweight
+  choiceText2: 2) ... you pour like you mean it. This guy needs to calm the hell down
+  choiceText3: 3) ... yeah, no. Forget the glass. This guy's nerves need some thorough
+    numbing. We drinkin' together straight out of the bottle.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F72
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

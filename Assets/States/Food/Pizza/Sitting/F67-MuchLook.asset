@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F67-MuchLook
+  m_EditorClassIdentifier: 
+  headerText: One look worth a thousand words
+  storyText: Yeah, who needs words when your tired, grumpy stare can convey all of
+    the emotions you could possibly carry. Your response, or better said the lack
+    there of, seems to communicate SOMETHING to your guest to be sure. "H-hey. You
+    don't get to judge me. This was inevitable, okay? It's... It's not what I want,
+    but it's about the only thing I can do."
+  choiceText1: 1) You even need these options anymore? Don't you want a beer?
+  choiceText2: 2) Or a dose of nicotine perhaps?
+  choiceText3: 3) You just gonna stare at this guy awkwardly forever, aren't you
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F67
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

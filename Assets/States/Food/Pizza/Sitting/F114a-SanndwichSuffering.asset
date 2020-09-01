@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F114a-SanndwichSuffering
+  m_EditorClassIdentifier: 
+  headerText: Sandwich served with a side of suffering
+  storyText: "You sigh, leave your drink alone and come take a look. Looks like and
+    ordinary sandwich, really. You look up at your guest with a rather skeptic expression.
+    He gives you this \"I know what I saw\" look back and leans closer to the sandwich.\r\n...
+    Holy shit, it twitched! \"What the fu-\" You were not allowed to finish that sentence.
+    The sandwich burst open. A half a dozen blurred green shapes, too fast for you
+    to recognize exploded into two directions - the two humans staring at the sandwich.
+    Before you could even react they latched onto you and started stabbing the hell
+    out of your face. There was very little you could do but scream and bleed yourself
+    unconscious."
+  choiceText1: '1) What the ever-loving fucking-fuckity-frack was that! You eat the
+    sandwich, not the other way around!
+
+    (GAME OVER - retry)'
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 30
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F114a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

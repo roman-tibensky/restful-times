@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F58a-BangingService
+  m_EditorClassIdentifier: 
+  headerText: Service with a bang
+  storyText: "Boxes, barrels and other various containers start toppling down. You
+    scramble in panic trying to avoid this avalanche of death and scurry back to safety.
+    You try your best to stay out of sight in this mess. It's surprisingly easy, since
+    everyone is busy panicking, putting out the fire, helping their comrades or straight
+    up dying. You make it out through one of the windows and run as far as you can.\r\n\r\nWell,
+    fuck. That sucked. You can't even count the ways you could've died back there.
+    At least your pizza service is happy. Your first order is already waiting at home.
+    With all you just went through, you don't even question how it got inside your
+    apartment before you, you just wanna eat your worries away."
+  choiceText1: 1) I mean, the pizza is amazing and all, but is an act of domestic
+    terrorism really only worth a tab of 8 pizzas? How over-saturated has the local
+    crime market gotta be for the pay to be that bad? (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  tag: F58a
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that for pizza, you're even willing to commit acts of
+    terrorism. Kinda makes you wonder what you'd do for a Klondike bar

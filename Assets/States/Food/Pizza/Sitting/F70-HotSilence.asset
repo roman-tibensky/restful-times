@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F70-HotSilence
+  m_EditorClassIdentifier: 
+  headerText: Silence of the host
+  storyText: "Although you've been playing the silent treatment game throughout the
+    night, this question has taken you by surprise a bit. You're not entirely sure
+    if your current approach would work in this particular instance, but you're kinda
+    committed at this point. Not much you can do but see it through - by saying jack
+    shit.\r\nThe dude sighs again: \"I know, I know. I need to clean this mess up
+    on my own. No point in involving you further.\" He sighs again, takes out a phone
+    from his jacket. \"Can I have some privacy please? Have a drink or a smoke or
+    whatever, I'm afraid this will take a while.\" You decide to do both at once,
+    just to spite the narrator, WHO WAS JUST TRYING TO DO HIS JOB, MIND YOU."
+  choiceText1: 1) I can give you the silent treatment too, you know, don't you start
+    with me
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F70
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

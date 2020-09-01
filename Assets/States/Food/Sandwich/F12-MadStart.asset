@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F12-MadStart
+  m_EditorClassIdentifier: 
+  headerText: The definition of madness
+  storyText: Well, you grabbed the sandwich before and got stabbed. Now, you grab
+    the sandwich again and get stabbed again. If nothing else, we can say that this
+    very scientific method is producing satisfyingly consistent results.
+  choiceText1: 1) Take a closer look.
+  choiceText2: 2) I'll heckin' do it again!
+  choiceText3: 3) Stab it with a fork or something
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 62b12551e66d60348b36dfa6378c8fda, type: 2}
+  - {fileID: 11400000, guid: ca0e02df0f81c934a948be7275d47a75, type: 2}
+  - {fileID: 11400000, guid: 426c8cafb0ecc9344893343456bf7e39, type: 2}
+  tag: F12
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

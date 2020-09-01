@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F26-PizzaChoice
+  m_EditorClassIdentifier: 
+  headerText: A Wide Variety
+  storyText: 'Some people might find it embarrassing that they have their favorite
+    fast food on speed dial. You, on the other hand, have the local mafia on speed
+    dial, just so that you can order pizza. You sigh and promise to yourself to fix
+    that one day. But today you''re taking advantage of your habits. Someone picks
+    up and before you even get to introduce yourself, he goes: "Your tab''s run out.
+    You do not have the cash. You know the drill. What do you offer." It''s the customer
+    service that just keeps you coming back to Toni''s, isn''t it.'
+  choiceText1: 1) Package delivery
+  choiceText2: 2) Shelter for some poor soul in your house for a couple of hours.
+  choiceText3: 3) Offer your mold harvest early.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 7efd74497644ca141a56092def218ef9, type: 2}
+  - {fileID: 11400000, guid: 949a0d0f51d6691409df8f2fbaa30bd2, type: 2}
+  - {fileID: 11400000, guid: 8d20b7b7e3d998046a3e557f605440a5, type: 2}
+  tag: F26
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

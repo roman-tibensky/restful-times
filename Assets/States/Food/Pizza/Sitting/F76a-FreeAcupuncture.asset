@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F76a-FreeAcupuncture
+  m_EditorClassIdentifier: 
+  headerText: Free acupuncture
+  storyText: "You decided you're not keen enough to open the fridge to find out what
+    just happened. Your immediate problem, was that your guest was not doing so hot.
+    And in return, you won't be either when they pick him up. You led the guy away
+    to the safety of the living room and spent the rest of your time together taking
+    out toothpicks and splinters out of his arm.\r\n\r\nWhen the mafia came to pick
+    him up, you got berated for damaging the goods. And despite your attempts of claiming
+    that repeatedly stabbing your skin with needles was healthy and the crushed bones
+    were but a slight side effect, the only payment you got from the job was half
+    of an old dried out pizza. He cost you more in alcohol than you gained in food.
+    Fuck."
+  choiceText1: 1) Yeah, next time we're just delivering packages. Sounds a lot less
+    stressful. (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F76a
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned you're probably not the best host ever and got paid adequately
