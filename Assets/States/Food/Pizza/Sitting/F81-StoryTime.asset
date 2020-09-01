@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F81-StoryTime
+  m_EditorClassIdentifier: 
+  headerText: Story time
+  storyText: "\"Is not like I wanted this, you know.,\" your guest sort of slid off
+    the beanbag onto the floor, using it more as a cushion than anything. Staring
+    at the ceiling, he talked to himself more than anything.\r\n\r\n\"But my old man
+    would not see. That insane gap in power. I know... it looks like we have more
+    manpower. But that stupid barter system. It's like the Pizza mafia has infinite
+    people. Cause who doesn't want a fucking pizza, amiright?\"He notions at you and
+    you can only nod. It is exactly why you let this sorry weirdo into your home in
+    the first place. But this talk about manpower makes you uneasy. Who is this sod...\r\n\r\n\"They'll
+    swallow us. They'll swallow us whole if we dun change our ways. Oldschool approach
+    is just gonna get us killed. I just... I just wanted them to see that. I just
+    needed them to see that. But no one would!\""
+  choiceText1: 1) This is where things get a lil bit uncomfortable, isn't it
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F81
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

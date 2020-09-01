@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F85-EthanolTherapy
+  m_EditorClassIdentifier: 
+  headerText: Ethanol-based therapy
+  storyText: "\"Look, why don't you call your old man then. Sounds like you still
+    can from what you're saying.\"\r\nYou, sir, are a bad drinking buddy. I can't
+    \ say whether this is worse than letting someone drunk-text their ex, only because
+    no one invented a category of \"drunk call your dad to listen to him potentially
+    be assassinated\" yet.\r\n\r\nYou don't even have the time to consider saying
+    that was a joke before your victim starts talking on the phone. He yells at someone
+    on the other line and keeps doing so until he's interrupted with an explosion
+    so loud, you could hear it through the phone yourself. \r\n\r\n"
+  choiceText1: 1) Uhh... Somehow this was funnier in my head
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F85
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

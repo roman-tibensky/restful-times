@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F80-CrumblingCouch
+  m_EditorClassIdentifier: 
+  headerText: Crumbling couch
+  storyText: "You lead your new friend into the living room, then point at the bean
+    bag in the corner. An odd choice, considering there's a huge, comfortable  looking
+    couch. Your guest seems to think so too, giving you a confused glare.\r\n\r\n\"Couch
+    is old and springs keep poking out. You CAN sit on it, if you wish, but you'll
+    most likely rip a few holes in that nice suit of yours,\" you bluff without a
+    hint of doubt.\r\n\r\nYour guest sighs a drunken Oh of Understanding and slumps
+    into the beanbag, drunkenly wiggling himself comfortable. You offer another drink.
+    At this point, he just downs it automatically, starring into oblivion with that
+    buzzed look in eyes. He's getting sauced nice and proper. The question now is,
+    what kind of drunk is he.\r\n\r\n\"You... you know. Some nasty shit is going down
+    tonight.... Is all my fault too... Did you know?\""
+  choiceText1: 1) Ah... he's a story time drunk.
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F80
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

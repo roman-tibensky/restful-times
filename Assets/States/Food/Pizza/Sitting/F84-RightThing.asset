@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F84-RightThing
+  m_EditorClassIdentifier: 
+  headerText: Doing the right thing
+  storyText: "\"Hey now.It's okay. It's fine. I'm... uhh... sure you can fix this
+    somehow. Or make up for it. something.\"\r\n\r\nThe your guest fell silent for
+    a bit. \"I see... I guess you're right. Not much else can be done. Thank you.
+    You are too wise.\"\rThere you go. Another drunk satisfied with the power of non-specific
+    replies. It took a bit of effort, but he slowly stood up and with an uneasy step
+    made his way to the balcony. Then, with an \"I'm sorry\" the bastard threw himself
+    off! What the fuck!\r\n\r\nThere was very little you could do in response. You
+    look down and see his body sprawled on the pavement. It doesn't take long for
+    the mafia to realize what happened. You try to run, but they find you faster than
+    you could find a taxi. For a sense of poetic justice, they decide you can take
+    a trip from the same balcony as your former guest. At least the view is familiar."
+  choiceText1: "1) He really couldn't wait until my shift with him was over? Some
+    people have no consideration for others \n(GAME OVER - retry)"
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F84
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

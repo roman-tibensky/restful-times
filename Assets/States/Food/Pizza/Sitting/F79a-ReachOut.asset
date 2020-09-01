@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F79a-ReachOut
+  m_EditorClassIdentifier: 
+  headerText: Reach out, touch couch... potato
+  storyText: "You hear faint screams from somewhere far far away, as someone grabs
+    your legs and starts pulling you out. Somehow you got dragged out by your very
+    hysterical guest. He started spewing some non-sense about the couch literally
+    chewing on you and no matter what you did, he would not calm down. He wouldn't
+    touch anything, he wouldn't drink anymore either. He just stood in the corridor,
+    waiting for his ride. \r\n\r\nWhen people came to pick your guest up and saw the
+    state he was in, they weren't exactly what one would call thrilled. They almost
+    killed you on the spot, claiming he was completely unusable. Your pizzas were
+    cancelled, you were only left with a few pizza sticks the driver used to beat
+    you over the head with. You still have no idea what happened. Your guest was indeed
+    drunk, but not drunk enough to think furniture would eat people though... was
+    he?"
+  choiceText1: 1) Food might taste better when  it's tender, but using my head to
+    do the tenderizing is a bit much... (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F79a
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that piza sticks make better weapons than food.

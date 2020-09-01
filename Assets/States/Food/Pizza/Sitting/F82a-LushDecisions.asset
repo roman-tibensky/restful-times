@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F82a-LushDecisions
+  m_EditorClassIdentifier: 
+  headerText: Lush decisions
+  storyText: Well, good luck with that. For all you know, there's a drunk future mafia
+    boss crying on your floor, babbling something about fratricide. You feel... conflicted
+    to say the least. On one hand, he looks absolutely miserable. On the other hand,
+    getting more deeply involved into mafia business is never a good idea. And talking
+    to drunk people if you're not on their level  has wildly varying results at the
+    best of times. But with how things stand, you gotta do at least SOMETHING.
+  choiceText1: 1) Actually, just let the poor guy have his moment. He'll feel better
+    once he lets it out
+  choiceText2: 2) Give a generic reply. Drunks find their own meaning in everything
+    anyway.
+  choiceText3: 3) Look, as awkward as this is, it's also a little bit funny. Why not
+    see what happens if he calls his dad.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  tag: F82a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 
