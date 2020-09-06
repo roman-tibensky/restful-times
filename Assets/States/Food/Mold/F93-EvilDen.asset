@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F93-EvilDen
+  m_EditorClassIdentifier: 
+  headerText: The Den of Evil
+  storyText: "\"Brave warrior, here in the outskirts of your village lies a den of
+    evil most wretched,\" your stomach decided to narrate your situation as you neared
+    your destination. It looked like an old abandoned building in the middle of a
+    forest. The kind that would be 120% haunted given half the chance.\r\n\"I know
+    what you're thinking, sir. But today, we face no restless spirits. A horde of
+    goblins occupies this decaying mansion, the rumors of hauntings only helping them
+    drive good people away. But you are different, sir. You are brave enough to face
+    these vile creatures. Except I wouldn't face them per se. They will kill you on
+    sight and make you into soup. I'd rather get food then become food, sir. How do
+    you wish to proceed?\""
+  choiceText1: 1) "Balder dash. They are intelligent creatures. I'm sure we can reason
+    with them!" (Persuasion check)
+  choiceText2: 2) "I'd rather not get close if I can help it. Activate the ward here
+    and just throw it at the mansion from over here" (Athletics check)
+  choiceText3: 3) "I'm a pro at not being seen. I'll sneak us in no problem." (Stealth
+    check)
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

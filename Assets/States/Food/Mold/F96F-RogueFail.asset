@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F96F-RogueFail
+  m_EditorClassIdentifier: 
+  headerText: Oh, you stealthy rogue = FAIL
+  storyText: "\"Yeah, I can sneak in, no problem,\" you nod.\r\n\"Very good, sir,
+    shall we proceed?\"\r\n\"Of course. First I'll look around the building. Find
+    the least guarded window, just like that one over there. Then we very carefully
+    make our way through the halls, making sure we are EXTRA careful.\"\r\n\"Sir...\"\r\n\"Then
+    when we get to the center of the mansion, we get surrounded by goblins, who are
+    already vary of our presence and get horribly murdered.\"\r You pause for a second.
+    \ Something does not add up.\r \"I forgot to use my inner monologue voice...\"\r\n\"Yes,
+    sir.\"\r\n\"And now we are surrounded and will be horribly murdered... well...
+    that's embarrassing...\"\r\n\"Indeed. Good bye, sir. It's.... uhhh... been an
+    experience, sir."
+  choiceText1: 1) But... I make a good narrator, yes? (GAME OVER - retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F96F
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

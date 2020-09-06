@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F95S-RRSuccess
+  m_EditorClassIdentifier: 
+  headerText: 
+  storyText: "Hey, why get close, if you can do your job remotely? You sneak up just
+    about close enough for a decent throw, you prepare the ritual, you aim for one
+    of the windows, you throw the ward in a perfect arc and just watch the fireworks
+    as the wards does its job. It is a thing of beauty to say the least. The pillar
+    of light burned anything and everything it touched and the screams of the purified
+    rang forth the completion of your quest.\r\nYour work? Done.\r\nThe light show?
+    Damn satisfying.\r\nThe reward? Delicious."
+  choiceText1: 1) Finally sitting down with food after such an exhausting day and
+    eat without any further hassle? Priceless! (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F95S
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You're considering a career as a fireworks director. Apparently a
+    shirt bought online should give you all the credibility you need.

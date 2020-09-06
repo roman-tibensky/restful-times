@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F94S-CharmSuccess
+  m_EditorClassIdentifier: 
+  headerText: Charming Goblins = SUCCESS
+  storyText: "You don't fear no goblins. You are a charmer, a charismatic presence
+    and all around swell chap. Goblins should be no problem! All you have to do is
+    make em see that listening to you is not such a bad idea. You manage to strike
+    up a conversation, you convince them that their layer is full of bad, bad things.
+    You give them the means to get rid of the bad things. The goblins seem to be a
+    mix between overwhelmed and cooperative. All in all, you feel quite accomplished.
+    The two guard goblins disappear into the building with your ward and you put a
+    bit of distance between you and the building, so you can watch the ward being
+    activated in its full glory.\r\n\r\nAnd it is indeed a sight to behold  a golden
+    flash enveloped the building in glorious light. Fricken beautiful.\r\nQuest complete!\r\nReward:
+    Divine Nourishment of the Gods"
+  choiceText1: 1) Okay the combination of bread, sauce, cheese and salami is kinda
+    nice, I guess (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F94S
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned you're one charming bastard. Proof is in the pudding.
+    Which you ate. A lot.

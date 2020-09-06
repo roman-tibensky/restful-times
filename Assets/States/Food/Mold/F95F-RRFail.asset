@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F95F-RRFail
+  m_EditorClassIdentifier: 
+  headerText: Remote Rituals = FAIL
+  storyText: You try to get as close as you can without being seen and start performing
+    the ritual. It's a simple chant and dance, but kinda fun. A lot of fun actually
+    you start getting into it a bit too much and loose yourself in the rhythm. Before
+    you know it, you are surrounded by goblins listening to you perform James Brown's
+    Sex Machine, your original objective forgotten long ago. At least they let you
+    stop on your own before they ate you.
+  choiceText1: 1) Well, as far as songs to die to go, there's worse one out there,
+    I guess? (GAME OVER - retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F95F
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 
