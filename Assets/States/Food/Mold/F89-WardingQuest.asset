@@ -10,16 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: F86a-MoldAssess
+  m_Name: F89-WardingQuest
   m_EditorClassIdentifier: 
-  headerText: Fungy connoisseur
-  storyText: A decent haul indeed! You're hungry like a wolf, but mold time is special
-    time, so you take it slow. You savor every bit. You're starting to feel it - the
-    weight of the world just dropping from your shoulders. Your muscles relaxing,
-    the tension in your head slowly fading away. You sigh, close your eyes and relax
-    a bit after a day too long for words.
-  choiceText1: 1) Yeah, this is nice. I'm glad that nothing horrible is happening
-    for a change.
+  headerText: Warding quest
+  storyText: "\"Excellent choice sir, but please be warned. The road ahead is treacherous
+    and filed with monsters. You must acquire the ward from the Hall of Countless
+    Paths and once done, activate it with a special ritual. One wrong step and the
+    goblins will eat you though.\"\r\n\"That... sounds a bit risky though,\" you frown
+    at your stomach in disapprovingly.\r\n\"Your reward will be the most sacred of
+    food items, sire. You shall want for nothing for a week.\"\r\n\"Oh... yeah...
+    food. It's a deal\" "
+  choiceText1: '1) "Excellent sir, let us then depart, for glory and pastries await! '
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
@@ -29,7 +30,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates: []
   choiceStatesAlt: []
-  tag: F86a
+  tag: F89
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

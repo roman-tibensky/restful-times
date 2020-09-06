@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F87-DiningFace
+  m_EditorClassIdentifier: 
+  headerText: Dining with a friendly face
+  storyText: "Can't say that this was he most filling meal you ever had though. To
+    say that you still feel peckish would be one hell of an understatement. You look
+    down at your stomach with a sad smirk as you think about the fact that you don't
+    really have anything else you can put in it. Your stomach smirks back. Oh... well,
+    that's a thing.\r\n\r\n\"Hi...\" You greet it thinking it'd be prolly best to
+    be polite to your own body parts.\r\n\r\n\"Hello, master,\" well, that's a very
+    polite body part indeed. \"I notice you and I are in a spot of bother at the present
+    moment. I have gathered a few quests that might pique your interest and fill my
+    humble self. What say you?\"\r\n\"... kay... \" Sounds like a pain, but your mom
+    always told you to trust your gut, so lets see where this goes.\r\n\"Excellent!\""
+  choiceText1: 1) "A local wizard is in dire need of setting up a ward to help purge
+    the local den of evil. Your job would be to set it up using a very specific ritual
+  choiceText2: 2) "A troubled princess hath requested shelter until her white knight
+    can come to her rescue. Hide her well and you shall be rewarded.
+  choiceText3: 3) "However, if all that is too much trouble, you could always sell
+    some of your valuable ingredients in exchange for nourishment."
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F87
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

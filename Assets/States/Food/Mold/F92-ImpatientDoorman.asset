@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F92-ImpatientDoorman
+  m_EditorClassIdentifier: 
+  headerText: Impatient doorman event engaged G
+  storyText: "Green is a color as good as any. And talking to the guy closest to the
+    door means you can leave faster. The exclamation mark in question hovered over
+    a gnome-ish figure. A fat, aggravated gnome to boot. You try to appear as friendly
+    as you clear your throat and address the creature:\r\n\"Bless thee, my gnomish
+    friend, hath thou perchance maybe the item that would aid me in mine quest?\"\r\n\r\n\"Who
+    you calling gnomish, you dickhead? \r\nThat's not even halfway close to the phrase
+    you were supposed to use!\" My, what a rude response straight off the bat. \"Look.
+    Whatever. No one would get it right anyway. You were at east tripping towards
+    the right direction. I guess. Not that I'd know. This is fucking stupid. Just
+    take the damn package and piss off.\" The gnome shoves the ward into your hands
+    and disappears. Rude bastard. At least the first part's done."
+  choiceText1: 1) "Excellent, sir. Let us proceed with the cleansing post-haste."
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F98a-UpsetStomach
+  m_EditorClassIdentifier: 
+  headerText: Upset stomach
+  storyText: "Your stomach just went off and refused to hit the breaks. You'd feel
+    bad for the centaur, but the monologue was roasting you more than insulting the
+    potential quest giver. Not that the insults towards the centaur were that much
+    tamer. You could see he didn't enjoy them either. His expressions went from anger,
+    to confusion, to absolute disgust and ended on defeat.\r\n\"Fine! Fucking take
+    those stupid waffles, I lost my appetite just looking at your freak show,\" he
+    quickly disappeared into the crowd and left a the remaining waffles behind. Score!\r\nBad
+    news though: the other quest marker disappeared, so this is all you were stuck
+    with: a half-eaten meal and a sour stomach for company."
+  choiceText1: 1) Wish it would at least shut up while I feed it though. So rude.
+    (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F98a
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned your stomach has an actual degree. Hope it doesn't demand
+    a raise because of it.

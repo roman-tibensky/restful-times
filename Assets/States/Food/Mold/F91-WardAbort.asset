@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F91-WardAbort
+  m_EditorClassIdentifier: 
+  headerText: Ward Quest aborted
+  storyText: "There are several thoughts that you simply cannot shake off at the moment.
+    I mean... a lizardman... selling grilled lizards. Is that like... making sure
+    other lizard species don't catch up to you on an evolutionary level? Like if I
+    you were to eat a monkey maybe? Or even worse, some form of cannibalism? A self-imposed
+    form of population regulation? Dear lord, what if it goes even further... the
+    lizardman selling his own children or something.  Like, they're specifically bred
+    to for being sold! Maybe he keeps or or two around and threatens them that if
+    they misbehave, they'll end up like that. \"Yeah, Karl Jr., you better take out
+    the trash or you'll end up like your 213 other siblings.\" Man, are lizard people
+    weird. Wonder if they have to learn how to cook their own siblings... Would that
+    be scarring for lizard people?\r\n\nYour thought process continued to be an absolute
+    train wreck on your way home. The nabbing of the food was easy enough, it was
+    the philosophy behind the food that gave you the biggest trouble. The portion
+    wasn't too big, but it was enough for the stomach to stop grinning at you and
+    go back to normal at least."
+  choiceText1: 1) Also, why did the grilled lizard taste like a cream cheese bagel?
+    (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F91
+  foodPoints: 5
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that lizards are weird and taste like cheese. Leave you
+    wanting more though.

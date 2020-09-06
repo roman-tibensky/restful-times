@@ -16,6 +16,7 @@ public class StateManagement : ScriptableObject
     [SerializeField] int choiceText2FontSize = 15;
     [SerializeField] int choiceText3FontSize = 15;
     [SerializeField] StateManagement[] choiceStates;
+    [SerializeField] StateManagement[] choiceStatesAlt;
     [SerializeField] string tag;
     [SerializeField] int foodPoints;
     [SerializeField] int sleepPoints;

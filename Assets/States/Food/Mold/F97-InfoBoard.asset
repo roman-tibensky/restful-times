@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F97-InfoBoard
+  m_EditorClassIdentifier: 
+  headerText: Information board event engaged
+  storyText: "You let the stream of people carry you closer to the notice boards.
+    There you see the quest marker hovering over a bored-looking centaur, chewing
+    on some waffles.\r\n\"Centaurs are unpredictable creatures, sir. Please let me
+    handle this one,\" your gut suggests. You see no reason why not, especially since
+    it lowers the chances of being kicked in the teeth by a pair of hooves.\r\n\r\nYou
+    walk up to the centaur and let your stomach do the talking:\r\n\"Pardon me sir.
+    We are adventurers looking work. Are you perhaps in need of aid?\"\r\nThe centaur
+    glanced you over, but all in all decided to ignore you.\r\n\"I assure you, we
+    are quite capable. Any task you might find troubling you, I'm sure we can handle
+    for you.\"\r\nThe centaur continues to ignore you though."
+  choiceText1: 1) "Come on, it's obvious at you that you got something for me."
+  choiceText2: 2) "I don't have time for this stubborn ass, just do the other quest"
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F97
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 
