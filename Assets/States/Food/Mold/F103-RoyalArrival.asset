@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F103-RoyalArrival
+  m_EditorClassIdentifier: 
+  headerText: Arrival of Royalty
+  storyText: "Your conversation with your stomach region was sadly rudely interrupted
+    by the announcement of someone standing at your door. That was uncomfortably fast,
+    what the hell.\r\n\r\nYou invite her in, the escort leaves. She is cute, you gotta
+    admit. She was a fairly tall blond with long hair and a blindingly pink dress.
+    You're not entirely sure how you're supposed to hide this woman, since you suspect
+    that the glimmer of her dress alone could shine through walls. Your royal guest
+    seems to be quite on edge straight off the bat. But they, people on the run usually
+    are."
+  choiceText1: 1) Well, don't just stand there, greet the royalty!
+  choiceText2: 2) It's super rude to let a girl just stand in the corridor. At least
+    have her sit down.
+  choiceText3: 3) Poor thing looks shaken to the core. She could use a drink or two.
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F103
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

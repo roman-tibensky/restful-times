@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F104a-PricklyPrincess
+  m_EditorClassIdentifier: 
+  headerText: Prickly princess
+  storyText: "\"Well, sorry, my code of conduct is very rusty when it comes to dealing
+    with a princess,\" you try your best to appear apologetic, not wanting to escalate
+    the situation in any way.\r\n\r\nIt didn't seem to help at all. You fair host
+    got upset. \"Which part of me looks like a princess to you?\" She yelled pointing
+    at herself - from the little crown rested on her fair hair on the top, to the
+    luxurious pink shoes on her dainty feet on the bottom."
+  choiceText1: 1) I mean.... am I supposed to name 'em all?
+  choiceText2: 2) Look, she's clearly stressed out of her mind, let the poor girl
+    sit down first
+  choiceText3: 3) I've no idea how to process any of this without a drink. Let's do
+    that before anything
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F104a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

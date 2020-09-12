@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F104-PoliteGreeting
+  m_EditorClassIdentifier: 
+  headerText: A polite greeting goes a long way
+  storyText: "\"Welcome, princess, to my humble abode,\" you decided to play nice
+    and even bow politely. \"I'll be in charge of your safety for the foreseeable
+    future, so please let me know if you need anything, your highness.\"\r\n\r\nThe
+    princes gave you a concerned look: \"Are... you making fun of me?\"\r\n\r\nYou're
+    not quite sure how to answer that question. Sure, your knowledge on how to treat
+    royalty isn't completely up to date, but, you at least tried. "
+  choiceText1: 1) What's gotten up her arse, all of a sudden?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F104
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 
