@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F112-FigmentOfYourGut
+  m_EditorClassIdentifier: 
+  headerText: Yeah, why WERE you talking to your stomach?
+  storyText: "\"Oh... I guess that makes sense. Man, am I drunk... talking to some
+    dude's belly,\" the princess sighed. \"What even is my life anymore. I... should
+    take a nap, this is just bad.\" She barely even finished the last sentence and
+    slumped on the kitchen chair, then passed out with her head on the table.\r\n\r\nThat's
+    a nice outcome for you, since you don't have to take care of her anymore, but
+    you are feeling a little bit bitter that your stomach would make fun of you like
+    that. That's just rude.\r\n\r\nEventually, Prince Charming TM came and picked
+    her up. He gave you your quest reward and left you to your own devices. The reward
+    itself was this disc-like bread with tomato sauce, cheese and salami. What a peculiar
+    invention! You had a few reservations of giving your stomach a reward if it would
+    even deny its own sentience, but your hunger and curiosity overwhelm you as you
+    dig in."
+  choiceText1: '1) Pizza. That''s a pizza. I can''t believe I was so high that I didn''t
+    even recognize pizza. '
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F112
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You got to re-experience pizza for the very very first time again.
+    It was a magical moment.

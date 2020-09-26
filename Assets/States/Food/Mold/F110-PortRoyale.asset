@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F110-PortRoyale
+  m_EditorClassIdentifier: 
+  headerText: Port Royale
+  storyText: "\"You look a little worse for wear there, highness. Would a drink help
+    ease those nerves?\" The princess shot you a glare, then slowly nodded. She accompanied
+    you to the kitchen, where you offered her your Bottomless Mug of Many Forgotten
+    Nights. Her highness was no slouch when it came to drinking apparently. She took
+    the mug and almost drank your infinite source dry. You never saw a drunken princess
+    with your own eyes before,  so this was going to be interesting. The glassy look
+    in her eyes definitely confirmed that the girl was having her brain dissolved
+    as she lifted the magic mug to her lips again. She she gave you a tired, but thankful
+    glance, as her lips touched the mind numbing liquid, then suddenly spit out in
+    surprise and pointed at your grinning  stomach.\r\n\r\n\"Holy fuck, what is that!\"
+    Seems like her royal highness reached another state consciousness. You looked
+    down at your gut and shrugged to yourself. Not like you knew either. It was just
+    there and in your current state, you thought it was just natural. \"Yeah, what
+    exactly are you?\" You demanded to know."
+  choiceText1: 1) "I am The Gut Feeling. Bringer of wisdom. The all knowing, the all
+    seeing. The ever hungry. My name is Steve, sir."
+  choiceText2: 2) "I'm just a figment of your imagination. You pay way too much attention
+    to me, sir. Who talks to their own organs anyway?"
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F110
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

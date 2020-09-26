@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F106-PrincessLogic
+  m_EditorClassIdentifier: 
+  headerText: Princess logic
+  storyText: "Her royal highness took a moment to process your reply:\r\n\n\"So, what
+    you're saying is that I've been spoiled all my life,\" you didn't say that, \"
+    that I've never properly worked a day in my life,\" you definitely didn't say
+    that, \"and thus have no idea what the people under me think or might be going
+    through.\" ... okay, maybe you kind of said that a little bit? However, the best
+    course of action probably would be to not add anymore fuel to whatever crazy fire
+    is burning in her head right now.\r\n\r\nPlus, the princess kind of looked defeated.
+    She stared at the ground. You could practically see the aura of guilt manifesting
+    itself around her."
+  choiceText1: 1) Did I break her? She's just standing there, staring into space.
+    Do I need to get a replacement princess?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F106
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

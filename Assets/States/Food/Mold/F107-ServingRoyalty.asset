@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F107-ServingRoyalty
+  m_EditorClassIdentifier: 
+  headerText: Serving royalty
+  storyText: "You lead the girl into the living room and offered her a seat on the
+    couch. She nodded nervously in response and tried to make herself comfortable.
+    You stared at the  girl with a hint of jealousy, since you just bought the damn
+    thing; didn't even get the chance to break it in before some posh twerp claimed
+    ownership with her buttocks.\r\n\r\nThe couch did not approve either. Its form
+    started twisting into some grotesque face. At first you weren't sure if you were
+    seeing things right - there was no way a couch would grin at you, right? But the
+    moment it started growing teeth, you had to face the facts:"
+  choiceText1: 1) My couch got replaced by a fucking mimic!
+  choiceText2: 2) Oh... right... I'm high as a kite. There's no way any of this is
+    real.
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F107
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

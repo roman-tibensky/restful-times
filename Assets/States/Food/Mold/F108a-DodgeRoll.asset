@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F108a-DodgeRoll
+  m_EditorClassIdentifier: 
+  headerText: Do you even dodge roll, bro
+  storyText: "Your determination is nigh scary. Prince Charming TM came along with
+    your quest reward before you were finished. You didn't even take the time to properly
+    greet him, just told him to set your reward on the table while continuously stabbing
+    the couch until they were long gone. Only then, finally, you sat down to devour
+    your reward. \r\n...\r\n...\r\n...\r\nAfter you eat to your heart's content and
+    come down from your high, you start questioning what exactly happened though.
+    A couch? Eating people? Princesses? What the hell was up up with this batch of
+    mold. That's just goofy."
+  choiceText1: 1) Also, there's a broom stuck in the couch. Why did I think this was
+    a good idea? (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F108a
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You cannot find your broom eversince you left it sticking out of your
+    couch.

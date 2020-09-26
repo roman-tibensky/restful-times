@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F106a-RoyalResolve
+  m_EditorClassIdentifier: 
+  headerText: Royal Resolve
+  storyText: "It took several moments, before she snapped out of it.\r\n\r\n\"I fucked
+    up.\" Not a very princess-like thing to say in your opinion. \"I need some time
+    alone. Can you grab a smoke or something? I need to make a few calls\"\r\n\r\nYou
+    shrug and oblige. Grab a beer and your cigarettes and go hang out on the balcony
+    with your stomach friend for a while. He's gotta be better company than this crazy
+    broad anyway. Time passed as if in a dream. You could hear her talking and yelling
+    at a lot of people in your home, but decided that she was just crazy. When her
+    prince charming came for her, she thanked you at least. The prince, gave you a
+    disapproving look and shoved your quest reward into your hands. You decided not
+    to ask. You're just glad this is over."
+  choiceText1: 1) Also, for Prince Charming, he looked an awful lot like John form
+    the pizzeria. At least that means the food's gonna be decent. (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F106a
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that princesses are crazy people. You're not sure how
+    useful this knowledge actually is though.

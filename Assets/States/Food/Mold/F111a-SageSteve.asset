@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: F111a-SageSteve
+  m_EditorClassIdentifier: 
+  headerText: Sage Steve
+  storyText: "\"What you know is right: Those scenarios that keep playing out in your
+    head over and over, those what ifs that won't stay silent in the back of your
+    mind. Make them an answer for your predicament now rather than your personal torture
+    for the rest of your days. Your time to repent is woefully short. But it exists.
+    Cease it.\"\r\n\r\nThe princess did not respond. She just left the room. Then
+    she started yelling instructions at someone. At first you thought she was angry
+    with you, but her screams were definitely addressed at someone she knew and conveyed
+    a sense urgency rather than anger. You stayed in your kitchen with your favorite
+    mug. Ain't no way in hell you're getting even more involved. Was bad enough that
+    Prince Charming thought whatever happened was your fault when he came to whisk
+    her away. At least you got paid properly with delicious food."
+  choiceText1: 1) ... but if my gut is this smart, does that mean I'm also that smart?
+    (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: F111a
+  foodPoints: 10
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that you are really really smart when you're too high
+    to think

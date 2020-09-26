@@ -768,7 +768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85e8111cfc21a9b43b736024b145240d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingState: {fileID: 11400000, guid: 3078d70bc9349df4e9cb49aed28f48de, type: 2}
+  startingState: {fileID: 11400000, guid: 486458bb6a31322478fd20ff4af78201, type: 2}
   headerText: {fileID: 1802219452}
   storyText: {fileID: 397889821}
   choiceText1: {fileID: 1272115850}

@@ -11,7 +11,7 @@ public class StateManagement : ScriptableObject
     [SerializeField] [TextArea(2, 4)] string choiceText2;
     [SerializeField] [TextArea(2, 4)] string choiceText3;
     [SerializeField] int headerTextFontSize = 40;
-    [SerializeField] int storyTextFontSize = 20;
+    [SerializeField] int storyTextFontSize = 18;
     [SerializeField] int choiceText1FontSize = 15;
     [SerializeField] int choiceText2FontSize = 15;
     [SerializeField] int choiceText3FontSize = 15;
