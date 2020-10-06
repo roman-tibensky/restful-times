@@ -10,23 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: EndState
+  m_Name: V8-HomeBaby
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 1) Let's do this again!
-  choiceText2: 2) Wait, how do you control this thing again? Where am I? WHAT AM I?
-  choiceText3: 
+  headerText: At home babysitting
+  storyText: 'Yeah, lets not stay at the mobster''s house if you can avoid it. You
+    consider that a smart move. The only problem now: there''s a child in your home
+    and you have no idea what to do in this situation.'
+  choiceText1: 1) Not gonna get through this situation without a drink, that's for
+    sure
+  choiceText2: 2) Just get him to sleep. How hard could it be?
+  choiceText3: 3) .... well, we both like to play Saltwatch?
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
-  - {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  choiceStates: []
   choiceStatesAlt: []
-  tag: END
+  tag: V8
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

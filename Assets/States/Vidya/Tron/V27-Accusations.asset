@@ -10,16 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: IntroHelp
+  m_Name: V27-Accusations
   m_EditorClassIdentifier: 
-  headerText: How to play
-  storyText: "Look. It's easy. You're a private detective and you're dead tired. You
-    should just do your best to rest up a bit. To do that, you either click the choice
-    you want, or press the number of the choice you want. \n\nSometimes you die, that's
-    just part of life. But since this is a game, if you complete any objectives, you
-    don't have to repeat those until you finish your run. Now relaaaaaaaax, m'dude!"
-  choiceText1: 1) So I just click this yellow text or press 1? Sounds straight forward
-    enough. Let's get started!
+  headerText: Baseless accusations
+  storyText: "Copyright infringey? How dare you.\r\nI'll have you know this is a completely
+    original story straight out of the genius that is my mind. Now, grab your disc
+    weapon thingy and go liberate some blue glowing people-program-stuff"
+  choiceText1: 1) Are you running out of ideas that badly?
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
@@ -28,9 +25,9 @@ MonoBehaviour:
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  - {fileID: 11400000, guid: d53983e86c2eead4296d27e82101383f, type: 2}
   choiceStatesAlt: []
-  tag: 
+  tag: V27
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

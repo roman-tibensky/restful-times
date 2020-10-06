@@ -26,7 +26,8 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: c1aa90accdacc334e8c4ff6db27cc3ee, type: 2}
   choiceStatesAlt: []
   tag: S2
   foodPoints: 0
@@ -34,4 +35,5 @@ MonoBehaviour:
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: 
+  winStateText: You know... your own bed is always the best when it comes to a good
+    night's sleep, isn't it

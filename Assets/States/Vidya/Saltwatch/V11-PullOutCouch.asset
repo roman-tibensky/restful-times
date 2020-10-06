@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V11-PullOutCouch
+  m_EditorClassIdentifier: 
+  headerText: Pull out couch
+  storyText: Quickly, you grab the kid and pull with all your strength. Just in time
+    too. The terrified little bugger hangs off your arm. His pants are gone, but on
+    the other hand, he's covered in a thick layer of drool, so you doubt he'll get
+    cold. He's too traumatized to try anything and spends the evening shivering in
+    the corner, leaving you to get some gaming done. When Tony's people come pick
+    him up, they seem to be in a rush and don't even question the lack of pants. You
+    decide not to ask any questions either
+  choiceText1: 1) Good Saltwatch session though (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V11
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 10
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that the best way of handling a child is good ol' fashioned
+    trauma

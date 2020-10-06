@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V12-Unsleeping
+  m_EditorClassIdentifier: 
+  headerText: Unsleeping
+  storyText: "Well... things happened. \r\nAnd, if nothing else, you like to think
+    of yourself as a wiser man. Traumatized. But wiser. A man, who knows that while
+    normal beings might be made of matter and energy, children are just 100% the latter.
+    They consist of movement and sound. They cannot be contained, they cannot be silenced.
+    You chase that ball of greased lightning all around your flat, but that just seems
+    to encourage him more. It takes ages for him to even slow down. And you're just
+    completely out of breath. Finally, the sweet release of your door bell ringing
+    somehow makes a dent in the constant screeching of the child-siren. The mafia
+    take the little abomination back with them. But you had your fill of adrenaline
+    for the day. Video games are put on hold for the night."
+  choiceText1: 1) Catch the Kid is not Game of the Year material for sure (Objective
+    complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V12
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 5
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You've learned that you are too out of shape for parenting and never
+    wanna talk about the possibility ever again.

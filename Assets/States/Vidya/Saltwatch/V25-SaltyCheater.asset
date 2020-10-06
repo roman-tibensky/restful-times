@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V25-SaltyCheater
+  m_EditorClassIdentifier: 
+  headerText: Salty cheater
+  storyText: Let's face it. You suck. And everyone else is probably cheating anyway.
+    But hey, if you can't beat them, join them! You browse the net, to look for something
+    suitable to your needs. Et voila! The best bots the net can offer! You load everything
+    up, start the game and watch your CPU fire up with excitement! Quite literally.
+    Your computer is now on fire. It's not stopping. What have you done. Whether this
+    was a problem with your bot implementation or just outdated hardware, we can safely
+    surmise you are done with PC games for the evening.
+  choiceText1: 1) Damnit! Just play a stupid mobile gacha game for a bit and call
+    it a day. (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V25
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 5
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned you're very bad at cheating. Either that or your computer
+    very much needed an upgrade

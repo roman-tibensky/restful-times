@@ -32,7 +32,8 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: c1aa90accdacc334e8c4ff6db27cc3ee, type: 2}
   choiceStatesAlt: []
   tag: S4a
   foodPoints: 0
@@ -40,4 +41,5 @@ MonoBehaviour:
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: 
+  winStateText: You've been reminded why you quit the force a long time ago and why,
+    to this day, you light their dumpsters on fire from time to time.

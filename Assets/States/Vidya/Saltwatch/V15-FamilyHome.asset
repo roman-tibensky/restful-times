@@ -10,23 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: EndState
+  m_Name: V15-FamilyHome
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 1) Let's do this again!
-  choiceText2: 2) Wait, how do you control this thing again? Where am I? WHAT AM I?
-  choiceText3: 
+  headerText: A Family home
+  storyText: You agree to watch the mobster kid. Tony leaves you two be, giving you
+    some final warnings about the child's safety. You are now at the mercy of his
+    little gremlin and it has home advantage. And the gremlin knows. He already began
+    to raid the fridge.
+  choiceText1: 1) Whatever, as long as he doesn't invent new swear words while stuffing
+    his face.
+  choiceText2: 2) If it's bad for his health, Tony will decide it's bad for mine too
+  choiceText3: 3) .... wonder if he'd share a snack or two
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
-  - {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  choiceStates: []
   choiceStatesAlt: []
-  tag: END
+  tag: V15
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

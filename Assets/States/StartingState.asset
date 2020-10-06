@@ -29,7 +29,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 604bea78dfb954d4eb9a92bc200820a6, type: 2}
   - {fileID: 11400000, guid: 0160d89ccf610254489ecabe5606f6b3, type: 2}
   - {fileID: 11400000, guid: 2ead51eb24502e04ab3c5242d1fecefa, type: 2}
-  tag: 00
+  choiceStatesAlt: []
+  tag: START
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

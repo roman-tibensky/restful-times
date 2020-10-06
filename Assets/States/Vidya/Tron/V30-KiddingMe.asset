@@ -10,16 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: IntroHelp
+  m_Name: V30-KiddingMe
   m_EditorClassIdentifier: 
-  headerText: How to play
-  storyText: "Look. It's easy. You're a private detective and you're dead tired. You
-    should just do your best to rest up a bit. To do that, you either click the choice
-    you want, or press the number of the choice you want. \n\nSometimes you die, that's
-    just part of life. But since this is a game, if you complete any objectives, you
-    don't have to repeat those until you finish your run. Now relaaaaaaaax, m'dude!"
-  choiceText1: 1) So I just click this yellow text or press 1? Sounds straight forward
-    enough. Let's get started!
+  headerText: Are you kidding me
+  storyText: There's just no pleasing you, is there? Fine! Go away! I don't need you
+    in this branch. I don't need your approval. The sheer effort I had to put into
+    all the setups, just to be shot down like this. I'll just stick with people, who
+    appreciate my efforts. Unlike SOME people.
+  choiceText1: "1) Nope. Still not listening. All of the nopes. \r\n(GAME OVER - retry)"
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40

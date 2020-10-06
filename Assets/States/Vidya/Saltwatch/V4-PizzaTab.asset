@@ -10,23 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: EndState
+  m_Name: V4-PizzaTab
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 1) Let's do this again!
-  choiceText2: 2) Wait, how do you control this thing again? Where am I? WHAT AM I?
-  choiceText3: 
+  headerText: Pizza tab
+  storyText: '"While that is true, I''m more concerned by the fact that you just about
+    traumatized my little boy just a while ago," Tony grunts his disappointment at
+    you. "I don''t know what you were thinking and quite frankly, I don''t particularly
+    care. What I will tell you, is that you owe us a huge  favor for me to not just
+    kill you on the spot."'
+  choiceText1: 1) What's the favor?
+  choiceText2: 2) Uhh... can't I just say I'm really really sorry?
+  choiceText3: 3) Look. All I'm saying is that it was the kid's fault.
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
-  - {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  choiceStates: []
   choiceStatesAlt: []
-  tag: END
+  tag: V4
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

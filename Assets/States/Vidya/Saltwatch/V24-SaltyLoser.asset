@@ -10,26 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: EndState
+  m_Name: V24-SaltyLoser
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 1) Let's do this again!
-  choiceText2: 2) Wait, how do you control this thing again? Where am I? WHAT AM I?
+  headerText: Salty loser
+  storyText: Well, we can't be winners all the time. But this session felt more like
+    a waste than anything. You don't feel relaxed, you don't feel accomplished, you
+    don't even feel angry. You just feel like giving up and calling it a day.
+  choiceText1: 1) Meh... (Objective complete-ish)
+  choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
-  - {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  choiceStates: []
   choiceStatesAlt: []
-  tag: END
+  tag: V24
   foodPoints: 0
   sleepPoints: 0
-  vidyaPoints: 0
+  vidyaPoints: 5
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: 
+  winStateText: You learned that video games suck. End of story.

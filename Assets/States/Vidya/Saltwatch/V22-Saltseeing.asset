@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: EndState
+  m_Name: V22-Saltseeing
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 1) Let's do this again!
-  choiceText2: 2) Wait, how do you control this thing again? Where am I? WHAT AM I?
-  choiceText3: 
+  headerText: Saltseeing
+  storyText: You try to find a different place to watch your salt intake, but where
+    ever you go, it's the same issue. Now the douchebag from your first run is blocking
+    your view of a particularly salty pile. It took forever to find!
+  choiceText1: 1) Enough is enough, cuss him out of existence
+  choiceText2: 2) Just give up. This game is stupid anyway.
+  choiceText3: 3) That's it. There's gotta be some bots for this game.
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
-  - {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  choiceStates: []
   choiceStatesAlt: []
-  tag: END
+  tag: V22
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

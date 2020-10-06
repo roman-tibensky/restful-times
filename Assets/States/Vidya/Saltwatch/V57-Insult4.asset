@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V57-Insult4
+  m_EditorClassIdentifier: 
+  headerText: 'Insult of the salt 4: The Salt Master'
+  storyText: Suddenly someone opens a door and floods the room with light, much to
+    the protest of your battered brain. It takes a while for said brain to load the
+    scenario you're in and the motion blur to be turned off, but once your view is
+    properly rendered, you find the culprit behind the intense gamma increase.  It's
+    Tony, your pizza guy. And that is a VERY bad thing. Better make sure you don't
+    upset him further.
+  choiceText1: 1) I thought I paid my pizza tab
+  choiceText2: 2) Come on, I was winning
+  choiceText3: 3) Hi... uhhh... how're the kids?
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V57
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

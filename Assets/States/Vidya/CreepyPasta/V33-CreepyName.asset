@@ -10,23 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: EndState
+  m_Name: V33-CreepyName
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 1) Let's do this again!
-  choiceText2: 2) Wait, how do you control this thing again? Where am I? WHAT AM I?
+  headerText: What IS in a name
+  storyText: That's the one you picked up from that bizarre garage sale along with
+    some of your new furniture. It doesn't have a box or anything, it's just a bland
+    CD in a regular CD case that has the name of the game written on it with a sharpie.
+    Your only assurance that this actually contains a game comes from the tall, skinny
+    pale sales person with an unsettling smile. What could possibly go wrong?
+  choiceText1: 1) Well, it says it's not a creepy pastry, so that's a start
+  choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
-  - {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  choiceStates: []
   choiceStatesAlt: []
-  tag: END
+  tag: 
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0
