@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: S4a-DeadSleep
+  m_EditorClassIdentifier: 
+  headerText: Talk about dead tired
+  storyText: "After a lot more screaming though, you finally get to learn what the
+    hell happened. You're in a morgue! \r\n\r\nYou were brought here because the cleaning
+    lady found you on the floor in the morning and called the police. The responding
+    officer was one of your old pals and since your sleep was nigh comatose level,
+    the absolute ass apparently decided to play a joke on both you and the coroner.
+    You aren't amused. Thanks to being stuck in the corpse-box for several hours,
+    you are both cold and stiff as death itself and everything hurts. You decide to
+    get him back later. Much later. After a three hour long hot shower and maybe a
+    gallon of steaming hot coffee. God, it feels like you'll never feel warmth again."
+  choiceText1: 1) Well, it's official. Being dead is the third worst thing that happened
+    to me after I passed out on the floor. (You've made it to the next day - see result
+    of your resting)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: S4a
+  foodPoints: 0
+  sleepPoints: 5
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

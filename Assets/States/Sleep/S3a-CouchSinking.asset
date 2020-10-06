@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: S3a-CouchSinking
+  m_EditorClassIdentifier: 
+  headerText: Deep seated slumber
+  storyText: "... \r\nSomething's not right. Your descent into the plushy depths is
+    not stopping. You look up from your couch-burrow. Everything's so dark. You can
+    barely see a small opening in the cushions. How far have you sunken into this
+    thing!? You make a very faint attempt to reach for the opening, but it closes
+    before you can grab it. The couch swallows you whole."
+  choiceText1: 1) ....but damn, is this comfy. Take me now couch, I don't even care
+    anymore (GAME OVER - retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: S3a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

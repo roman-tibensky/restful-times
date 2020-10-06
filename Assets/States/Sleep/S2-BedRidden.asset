@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: S2-BedRidden
+  m_EditorClassIdentifier: 
+  headerText: Bed Ridden
+  storyText: Yeah, passing out just like that never leads to anything good. You make
+    time for a quick shower, a change of clothes and then, finally, give in to the
+    sweet embrace of your mattress. You lose consciousness before you even hit the
+    pillow. Sweet dreams, you beautiful bastard. God knows you earned it today.
+  choiceText1: 1) Beeeeeeeeeeeeeeeeeeed (You've made it to the next day - see result
+    of your resting)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: S2
+  foodPoints: 0
+  sleepPoints: 10
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

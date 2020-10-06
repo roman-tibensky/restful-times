@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: S3-CouchConn
+  m_EditorClassIdentifier: 
+  headerText: Couch and connoisseur
+  storyText: "Well, you only got the couch a couple of days ago, along with a bunch
+    of other furniture and junk. Might as well break it in? At least that's the reasoning
+    you give yourself as you drag your dead-tired butt towards the living room. \r\n\r\nTo
+    be honest, it looks fairly old. It definitely has seen better days, but as with
+    the other stuff you've acquired it with, you got it for criminally cheap. And
+    to your exhausted brain, it looks like the most comfortable thing to ever exist.
+    You slide into the couch cushions, make yourself comfortable. Ah, bliss. The couch
+    cushions envelop you in a cocoon of coziness. You sink deeper and deeper into
+    the couch itself. You are so comfortable, you feel like you're almost becoming
+    one with the plush fabric. And yet, you still feel yourself sinking further.\r"
+  choiceText1: 1) Oh god, I never wanna leave here again
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 3094fc48585d9e446a9f57169f24808f, type: 2}
+  choiceStatesAlt: []
+  tag: S3
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

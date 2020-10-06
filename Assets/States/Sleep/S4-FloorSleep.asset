@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: S4-FloorSleep
+  m_EditorClassIdentifier: 
+  headerText: Open the door, get on the floor... then snore like a dinosaur
+  storyText: "Wouldn't be the first time you passed out somewhere on the floor. Probably
+    not the last time either. You're too tired to feel neither shame nor your legs
+    anymore. Just.... close your eyes, slide on the floor, worry about terrible backaches
+    later.\r\n\r\nYou are rudely awoken by a sudden, long tug and an assault of light
+    to your eyes. You blink and go \"What the fuck\" as you try and makes sense of
+    your surroundings. Your surroundings, in response, yell at you in panic. This
+    naturally startles you awake. You scream back, try to crawl away from the sound,
+    only to fall off whatever you were laying on, With the help of the back of your
+    head, you find the ground  about 3 feet below you. You scream in pain! Someone
+    else screams in response! You scream in frustration from all the screaming!"
+  choiceText1: 1) This conversation is going well I see
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 26
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 01b7e03fe3e47ea47a798d4dd6866721, type: 2}
+  choiceStatesAlt: []
+  tag: S4
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 
