@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V61-TooMuchFun
+  m_EditorClassIdentifier: 
+  headerText: 'Too much fun to stop '
+  storyText: You tried to turn off the game, even your computer in general, but the
+    scene just kept going even though no power was flowing into your rig anymore.
+    Only as the victim slowly lost consciousness did the anguished cries echoing through
+    your home start to die down. The maniacal cackle of the teenagers and the blood
+    flow from the walls did not relent though. The sharp voices pierced your brain
+    as the little monsters kept stabbing and cutting at the lifeless body with morbid
+    glee until all that remained was a bloody unrecognizable mess. Only when the game
+    turned itself off did the haunting sounds slowly start to dissipate and all the
+    blood from the walls disappeared god knows where. Seems like you've won? I guess?
+    It stopped, so that's a good thing, right? Man, yard sale games can be fricken
+    weird sometimes.
+  choiceText1: 1) Modern entertainment might be a bit too much for me really. I'm
+    sticking to Solitaire from now on (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V61
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 10
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You realize you still suck at Solitaire... oh and you're still not
+    sure if you didn't accidentally murder somebody

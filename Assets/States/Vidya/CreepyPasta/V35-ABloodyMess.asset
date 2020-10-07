@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V35-ABloodyMess
+  m_EditorClassIdentifier: 
+  headerText: 
+  storyText: Agreed. The immersion is nice and all, but that's gonna be a bitch and
+    a half to clean. Might as well start now before it gets any worse. You give up
+    on gaming. You dash away from your comp, cursing every deity you can think of
+    and start aggressively cleaning the  walls. You lose track of time, you only know
+    that it feels like ages. Finally done, you go back to your computer, only to find
+    that it switched to sleep mode and in front of your monitor lies a chopped-off
+    pale female hand THAT BLEEDS ALL OVER YOUR STUFF AGAIN, OH MY GOD, WILL THE CLEANING
+    NEVER END
+  choiceText1: 1) For the love of frick. Why! I'm way too tired for this bullshit!
+    Let's just clean this up and call it a day. I'm done with video games. Fricken
+    hell. I do NOT have the energy to be a maid for the supernatural. (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 14
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V35
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 5
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You learned that ghosts are slobs and dun really wanna talk about
+    it

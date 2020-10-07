@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V40-3DEnhancement
+  m_EditorClassIdentifier: 
+  headerText: 3D enhancement
+  storyText: As you ponder your situation further, you're treated to another game
+    feature you weren't aware of. A ghost hand reaches out of the monitor and starts
+    grabbing around.
+  choiceText1: 1) Holy shit, what kind of a 3D effect is that?
+  choiceText2: 2) Wait... this looks a bit too real. Might wanna step back a bit
+  choiceText3: 3) That's a big no, club that thing into submission
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V40
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

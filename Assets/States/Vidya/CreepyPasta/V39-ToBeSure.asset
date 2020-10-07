@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V39-ToBeSure
+  m_EditorClassIdentifier: 
+  headerText: I just wanted you to be sure...
+  storyText: "Look, sometimes, it's good to check these things. Sometimes, it's just
+    nice to know that your primary decision can be overturned. That, just because
+    you made a mistake, nothing terrible is going to happen. To have a bit of a safety
+    net in this harsh game we call life. To know that someone is there to catch you
+    should you err from time to time.\r\n\r\nBut this is not such a case. Apparently,
+    while I was giving you a pep talk, the ghost disappeared and murdered all the
+    kids. Nothing left but five bloody stains and a game over screen. Restarting your
+    game isn't helping either. It just goes back to the same Game Over screen. You
+    search for save files, but you find none. So... uhhhh... My bad?"
+  choiceText1: 1) Well, that's my experience ruined, thanks for that... (Objective
+    complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V39
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 5
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You've learned that the narrator is not to blame for anything bad
+    that happens to you

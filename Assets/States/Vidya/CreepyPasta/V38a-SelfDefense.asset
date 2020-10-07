@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V38a-SelfDefense
+  m_EditorClassIdentifier: 
+  headerText: Self-defense butchery
+  storyText: It's getting harder and harder to watch the situation. Every moment,
+    you expect the ghost to retaliate, to defend herself somehow to... do something
+    at least! But all she did to was plead and scream, and even the pleas had to completely
+    give way to the cries of anguish the more this massacre went on. And the screams
+    were LOUD. Your whole apartment shook as the very walls echoed the girl's pain
+    and the mad cackling of her assailants. It only got louder as teenagers became
+    more unhinged. Even the walls started to bleed more as the torture became more
+    visceral. And you were caught in the middle of this assault on the senses and
+    there's very little you could do about it.
+  choiceText1: 1) Sweet mother of murder, turn that game off!
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V38a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

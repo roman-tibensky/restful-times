@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V34-Impressions
+  m_EditorClassIdentifier: 
+  headerText: Impressions matter
+  storyText: The game turns out to be a visual novel type thing. It tells the story
+    about a group of teenagers that are being stalked by some creepy ghost girl. Standard
+    stuff when it comes to the premise, but you can't seem to help yourself but be
+    drawn in by the presentation. The atmosphere is so vivid. The sounds and voice
+    feel like they are coming from inside of your house. In fact, the game is so immersive,
+    the walls in your room literally started bleeding. How many games can say that?
+  choiceText1: 1) Wait, what?
+  choiceText2: 2) NO! No no no no. No. Now I have to clean my walls? At this hour?
+    God. Fricken. Damnit!
+  choiceText3: 3) Why don't the teenagers just stab the stalker and be done with it?
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: 
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

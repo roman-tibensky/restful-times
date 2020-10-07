@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V41-SoReal
+  m_EditorClassIdentifier: 
+  headerText: So real you can feel it
+  storyText: You lean in closer to inspect the hand. As it thrashes around, you feel
+    it brushing against your hair, then it suddenly stops and grabs at your face.
+    Catching you completely off guard, the hand tucks at you with a vicious pull and
+    slams you against the edge of your monitor. You scream more in confusion than
+    pain, but your monitor is much less fortunate; it's screen fracturing into little
+    pieces. The image is cut off completely. Aside from the arm. The arm stayed on
+    this side, cleanly cut off from the rest of whatever was trying to get out. It
+    now hangs from your face, bleeding everywhere. What a weird reward to get from
+    a gaming session. And with the monitor busted this badly, it seems your game time
+    came to a premature end.
+  choiceText1: 1) Just when things were getting interesting... (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates: []
+  choiceStatesAlt: []
+  tag: V41
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 5
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You've learned that games give you a hand a bit too literally these
+    days
