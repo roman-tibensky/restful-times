@@ -10,13 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: V7-Sorries
+  m_Name: V31-SaltyFavor
   m_EditorClassIdentifier: 
-  headerText: Sorries
-  storyText: '"Yeah, sorry ain''t gonna cut it," Toni shakes his head. "But apparently
-    you are in luck. I need someone to look after the little tyke while I have some...
-    deliveries to make. You pull that off without expanding his swear word vocabulary
-    even further, I might turn a blind eye to your idiocy."'
+  headerText: A favor you can't refuse
+  storyText: '"Nice and simple: take care of my kid for the night. I won''t be here
+    because of reasons and his usual care taker is at a place that is not this one.
+    You need no other details."'
   choiceText1: 1) Fine, bring him to my place.
   choiceText2: 2) Fine, I'll keep an eye on him while you're gone.
   choiceText3: 3) I ain't gonna hang out with a kid, I'll look like a total loser.
@@ -30,7 +29,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7b4c6a016a4f69e4d8c30d440b828bac, type: 2}
   - {fileID: 11400000, guid: 2f7f4d0e4fec9dc4fb68ddb83dbd0a28, type: 2}
   choiceStatesAlt: []
-  tag: V7
+  tag: 
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

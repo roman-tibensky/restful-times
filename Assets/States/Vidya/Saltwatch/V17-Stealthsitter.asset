@@ -12,17 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: V17-Stealthsitter
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 
-  choiceText2: 
-  choiceText3: 
+  headerText: Stealthsitter
+  storyText: You don't know who would attack the mafia munchkin nor how many there
+    are. You feel it would be best to get a drop on at least one of them. Just outside
+    of the kitchen, you jump into a closet and wait for them to pass by. Seems like
+    there's two thugs. Both armed. One sweeping the path ahead, one holding the kid
+    at gun point.
+  choiceText1: 1) Get the scout.
+  choiceText2: 2) Get the one with the hostage
+  choiceText3: 3) Not your problem. Get out of there when they pass
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: b8e9958ad8d1d28498feb6c0d4e6eb7f, type: 2}
+  - {fileID: 11400000, guid: 0cb3ca60d31eec140997fef4d637bb2e, type: 2}
+  - {fileID: 11400000, guid: 0f4ad20310342cf45ad54c9c2d8a4f94, type: 2}
   choiceStatesAlt: []
   tag: 
   foodPoints: 0

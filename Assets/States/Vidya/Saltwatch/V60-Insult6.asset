@@ -10,16 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: V32-SittersArms
+  m_Name: V60-Insult6
   m_EditorClassIdentifier: 
-  headerText: In the sitter's arms
-  storyText: "V32- In the sitter's arms\r\nIt is true. You are in a mafia home. There's
-    gotta be some weapon lying around. It is also a home you are unfortunately thoroughly
-    unfamiliar with. You make a lot of noise unsuccessfully looking for a gun. The
-    trespassers then find you gnawing in frustration at a locked gun case. They then
-    promptly show you how to use a weapon properly."
-  choiceText1: "1) Damn... next time I'll bring better dentures \r\n(GAME OVER - retry)"
-  choiceText2: 
+  headerText: 'Deadly insult: The Final Dumbass '
+  storyText: "\"You mean aside from you using your actual name in the game, like a
+    dumbass, and that grating voice  of ours yelling so hard, I thought you were in
+    the room with my son at one point? CALL IT A FUCKING HUNCH!\"\r\n\r\nWell... shit."
+  choiceText1: 1) "Oh.... is it too late to say I'm sorry?"
+  choiceText2: 2) "Well... he started it."
   choiceText3: 
   headerTextFontSize: 40
   storyTextFontSize: 18
@@ -27,9 +25,10 @@ MonoBehaviour:
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
-  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  - {fileID: 11400000, guid: 5189aa664b129e04387ef64180593176, type: 2}
+  - {fileID: 11400000, guid: 2f7f4d0e4fec9dc4fb68ddb83dbd0a28, type: 2}
   choiceStatesAlt: []
-  tag: V32
+  tag: V60
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

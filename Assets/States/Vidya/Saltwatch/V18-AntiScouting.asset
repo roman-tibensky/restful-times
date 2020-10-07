@@ -10,11 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: V19-AntiScouting
+  m_Name: V18-AntiScouting
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 
+  headerText: Anti-Scouting measures
+  storyText: 'You wait for the right moment as the scout passes you by. You grab at
+    his gun and with surprise on your side, you overpower him. But as you turn to
+    the other trespasser, you see him using the kid as a shield.  All it took was
+    a split second of hesitation on your side, as you try to aim around the boy, for
+    the thug to drastically increase your lead intake. '
+  choiceText1: "1) That's not how it works in action movies. I want a refund. \r(GAME
+    OVER - retry)"
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
@@ -22,7 +27,8 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
   choiceStatesAlt: []
   tag: 
   foodPoints: 0

@@ -12,19 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: V59-SnackAttack
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: 
-  choiceText1: 
-  choiceText2: 
-  choiceText3: 
+  headerText: Snack attack
+  storyText: Sadly, your thoughts were interrupted by the kid crying out from the
+    kitchen, followed by muffled screams and sounds of struggle. Just great. You two
+    are not alone in the mafia home. On the other hand, the little guy is now less
+    loud. Small blessings?
+  choiceText1: "1) Crap! The little one cannot be harmed! \r\nStorm into the kitchen!"
+  choiceText2: 2) Crap! Hope they don't know I'm here! Hide and surprise them!
+  choiceText3: 3) Crap! I'm unarmed! Look for a weapon!
   headerTextFontSize: 40
   storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: d3146751c7d66e2498be2f0fe4960b20, type: 2}
+  - {fileID: 11400000, guid: f254f56d08c24b34b9a12bef621ede8e, type: 2}
+  - {fileID: 11400000, guid: b48808e3e56a6c74382d6d67b89c0fca, type: 2}
   choiceStatesAlt: []
-  tag: 
+  tag: V59
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0
