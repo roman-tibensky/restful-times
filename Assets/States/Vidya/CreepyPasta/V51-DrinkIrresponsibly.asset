@@ -10,16 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: V33-CreepyName
+  m_Name: V51-DrinkIrresponsibly
   m_EditorClassIdentifier: 
-  headerText: What IS in a name
-  storyText: That's the one you picked up from that bizarre garage sale along with
-    some of your new furniture. It doesn't have a box or anything, it's just a bland
-    CD in a regular CD case that has the name of the game written on it with a sharpie.
-    Your only assurance that this actually contains a game comes from the tall, skinny
-    pale sales person with an unsettling smile. What could possibly go wrong?
-  choiceText1: 1) Well, it says it's not a creepy pastry, so that's a start
-  choiceText2: 
+  headerText: Drink Irresponsibly
+  storyText: Hey now. These things are teens. Demonic-ghost game PCs or not, they
+    still be underage. I cannot in good conscience allow this. Pick something something
+    else. You deviant.
+  choiceText1: 1) Look, I'm just tired, this has gone on long enough. Just take her
+    already
+  choiceText2: 2) At least a pineapple pizza is not illegal yet... is it?
   choiceText3: 
   headerTextFontSize: 40
   storyTextFontSize: 18
@@ -27,9 +26,10 @@ MonoBehaviour:
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
-  - {fileID: 11400000, guid: 80b603017cd0a0140a1d32387bfc8ab7, type: 2}
+  - {fileID: 11400000, guid: b3e8eacbe080cb545956459c7e4a3ee2, type: 2}
+  - {fileID: 11400000, guid: 032f7915d3d758343b969902cc1b21b5, type: 2}
   choiceStatesAlt: []
-  tag: V33
+  tag: V51
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V53-ThatDebate
+  m_EditorClassIdentifier: 
+  headerText: '"That" Debate'
+  storyText: "Innocently, you suggest a trade. Being stuck in a game, the fine ladies
+    and gentlemen on the other side must be starving right about now. Would they not
+    consider some food instead? Like perhaps... a pineapple pizza?\r\n\r\nYou are
+    indeed both cunning and cruel, mentioning the dish that keeps on taking. Well,
+    not the dish itself per se; more like the debates it spawned. Friendships shattered.
+    Families ruined. Lives taken. All over the brutal discourse the combination of
+    pineapple and ham ignites. And indeed, true to fashion, precisely half of the
+    voices said yes and half of them no. Impressive in its own right, considering
+    there was five of them. What followed was fairly standard. First confused looks
+    were exchanged, then a few jokes at the expense of both the pro and anti camps
+    were uttered, someone took those a bit too seriously, started an argument, the
+    jokes got meaner, the arguments more aggressive, culminating in inevitable stabbings.
+    You've seen this play out so, so many times, you've almost grown numb to it."
+  choiceText1: 1) They had it coming though
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 16
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 205fa3fae40b3b34eb4aa4155805c254, type: 2}
+  choiceStatesAlt: []
+  tag: V53
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

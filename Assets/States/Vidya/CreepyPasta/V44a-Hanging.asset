@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V44a-Hanging
+  m_EditorClassIdentifier: 
+  headerText: Hanging by the dead
+  storyText: "The girl hangs suspended from your arm, refusing to let go, hysterically
+    yelling something incoherent. Below you, you see the group of teenagers coming
+    closer to you, arguing about something you couldn't hear through all the screaming.
+    Great, maybe they can help! You took care of them quite in-game fairly well, at
+    least they should return the favor. And indeed, one of the teenagers lifted his
+    knife and threw it at the ghost. Too bad the blade bore itself right between your
+    eyes instead. Death was pretty quick\r\n"
+  choiceText1: 1) Can't blame them for trying at least I guess? (GAME OVER - retry)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
+  tag: V44a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

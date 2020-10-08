@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V52-ReturningAssets
+  m_EditorClassIdentifier: 
+  headerText: Returning assets
+  storyText: A hero and a gentleman, I see. Have it your way. The girl tries to put
+    up a fight, but she's frail, tired and beat up; her pleas and cries hurt more
+    than her fists. The sheer horror in her eyes, as you toss her back into the monitor
+    will haunt your dreams almost as much as what the manic murder teen squad did
+    to her, when she fell back into their world. The screams... the manic laughter.
+    The grotesque display went on for so... SO long, yet you couldn't bring yourself
+    to look away, making sure the darn things don't think about crossing over to get
+    you as well. But no. Seems once they were done playing their autopsy games, the
+    screen just went black and your computer along with your room turned back to normal.
+    Except for the salt everywhere.
+  choiceText1: 1) That... was a bit too immersive. I think I had enough video games
+    for a while. (Objective complete!)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
+  tag: V52
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 10
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You've learned that video games are really realistic these days and
+    definitely not haunted, because that would make you feel bad

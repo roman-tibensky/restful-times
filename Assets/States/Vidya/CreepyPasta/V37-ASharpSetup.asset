@@ -27,9 +27,11 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: 336552b53ca0ee349a24fa200a790b16, type: 2}
+  - {fileID: 11400000, guid: c16b89a6ade9e0647ba1c02963a39a07, type: 2}
   choiceStatesAlt: []
-  tag: 
+  tag: V37
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

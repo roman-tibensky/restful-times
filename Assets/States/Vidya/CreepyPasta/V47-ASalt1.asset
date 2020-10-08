@@ -10,15 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: V33-CreepyName
+  m_Name: V47-ASalt1
   m_EditorClassIdentifier: 
-  headerText: What IS in a name
-  storyText: That's the one you picked up from that bizarre garage sale along with
-    some of your new furniture. It doesn't have a box or anything, it's just a bland
-    CD in a regular CD case that has the name of the game written on it with a sharpie.
-    Your only assurance that this actually contains a game comes from the tall, skinny
-    pale sales person with an unsettling smile. What could possibly go wrong?
-  choiceText1: 1) Well, it says it's not a creepy pastry, so that's a start
+  headerText: A-salt insinuations
+  storyText: '"''M no ghost! Dhose things, trapped me while ah wahs playing their
+    gahme!" the .... uhhh... non-ghost proclaims, as her voice slowly recovers. Now
+    that you get a closer look... yeah? Looks like a very malnourished girl in a nightgown.
+    You just salted a kidnapping victim.'
+  choiceText1: 1) Well... shit...
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
@@ -27,9 +26,9 @@ MonoBehaviour:
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
-  - {fileID: 11400000, guid: 80b603017cd0a0140a1d32387bfc8ab7, type: 2}
+  - {fileID: 11400000, guid: b381a116276a75f44a9c53031d351e77, type: 2}
   choiceStatesAlt: []
-  tag: V33
+  tag: V47
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

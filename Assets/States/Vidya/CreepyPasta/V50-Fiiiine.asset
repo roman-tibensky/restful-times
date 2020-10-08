@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V50-Fiiiine
+  m_EditorClassIdentifier: 
+  headerText: Ugh, fiiine
+  storyText: Fine, but don't think this conversation is over! You look over to the
+    monitor only to be met with 5 very displeased gazes. They definitely don't look
+    as pleasant as they did while you were the one picking choices for em. There's
+    this bloody-thirsty hint to the glint in their eye that doesn't give you much
+    hope for a peaceful resolution. You were about to address the menace, but before
+    you could utter a single word, the walls start screaming at you "GIVE HER BACK!
+    GIVE! HER! BACK!"
+  choiceText1: 1) Okay, okay! The wall-bullying is just too much, they can have her!
+  choiceText2: 2) Look, how about a few cold brewskis instead?
+  choiceText3: 3) I'll trade her for a pineapple pizza?
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b3e8eacbe080cb545956459c7e4a3ee2, type: 2}
+  - {fileID: 11400000, guid: e41d7322d9204bb4890e6c21bada8333, type: 2}
+  - {fileID: 11400000, guid: 032f7915d3d758343b969902cc1b21b5, type: 2}
+  choiceStatesAlt: []
+  tag: V50
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

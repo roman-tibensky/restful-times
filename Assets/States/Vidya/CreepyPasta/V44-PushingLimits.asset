@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V44-PushingLimits
+  m_EditorClassIdentifier: 
+  headerText: Pushing the limits
+  storyText: Yeah, games should stay on one side of the screen, while you safely chill
+    on the other. This is an invasion of your personal space that should not be tolerated.
+    You yell and charge the ghost lady. She yells back and tries to brace herself.
+    You tackle the apparition with all your might. However, when you clashed into
+    her, this turned out to be a less than perfect plan. Her body gave way a bit too
+    easily and you struggle to keep your balance. At the same time, desperate to stay
+    on this side, the ghost grabs at you and as she falls back, partially pulls you
+    into the monitor. Now you're stuck with your head and right arm inside the ghost
+    world.
+  choiceText1: 1)Nononono. Abort! Abort! Abort!
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 3023de050ff9c81449645da0b47733c0, type: 2}
+  choiceStatesAlt: []
+  tag: V44
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

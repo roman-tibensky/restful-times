@@ -10,15 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
-  m_Name: V33-CreepyName
+  m_Name: V48-ASalt2
   m_EditorClassIdentifier: 
-  headerText: What IS in a name
-  storyText: That's the one you picked up from that bizarre garage sale along with
-    some of your new furniture. It doesn't have a box or anything, it's just a bland
-    CD in a regular CD case that has the name of the game written on it with a sharpie.
-    Your only assurance that this actually contains a game comes from the tall, skinny
-    pale sales person with an unsettling smile. What could possibly go wrong?
-  choiceText1: 1) Well, it says it's not a creepy pastry, so that's a start
+  headerText: A-salt accusations
+  storyText: I mean look at the state of the poor thing. She's skin, bones, bruises
+    and cuts. How could you do that to such an innocent lass. You have this helpless
+    girl breaking down on your floor crying her little abused heart out and what do
+    you do? You throw salt into here eyes! What kind of a monster does that!
+  choiceText1: 1) Look, I feel bad enough already, no need for the bonus guilt
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
@@ -27,9 +26,9 @@ MonoBehaviour:
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
-  - {fileID: 11400000, guid: 80b603017cd0a0140a1d32387bfc8ab7, type: 2}
+  - {fileID: 11400000, guid: d190baeddd11c694caba16d9b472906b, type: 2}
   choiceStatesAlt: []
-  tag: V33
+  tag: V48
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0

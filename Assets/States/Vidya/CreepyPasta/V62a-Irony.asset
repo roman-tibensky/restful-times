@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V62a-Irony
+  m_EditorClassIdentifier: 
+  headerText: Painful irony
+  storyText: The repulsing head shook, as it gave out an amalgamation of raspy coughs,
+    hisses and gasps for air. It slowly raised its head to look at you and BAM! You
+    award her first place right between the eyes! How's it feel to be a winner, ya
+    shriveled pasty monitor-abusing home invader! Apparently, that's all it takes
+    too. The ghost goes cross-eyed and kinda just passes out and slumps over, then
+    tips your monitor over with its weight. As the monitor hits the ground, the screen
+    shatters and... cuts off the hanging body from whatever source it tried to crawl
+    out of. You are left without a monitor, but hey, at least you have a ghost torso
+    that bleeds all over your floor now instead. You take that as a win. Not because
+    it is one, but because games are put on hold indefinitely anyway. Plus the source
+    of your entertainment for the foreseeable future will be cleaning this mess.
+  choiceText1: 1) At least the ghost knows who's boss here... (Objective complete-ish)
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
+  tag: V62a
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 5
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: You've learned that ghosts should wear helmets. Though it's just as
+    well that they don't

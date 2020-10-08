@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V42-3DSpace
+  m_EditorClassIdentifier: 
+  headerText: Giving the 3D effect some space
+  storyText: You take a few steps back. You watch as the hand reaches out and grabs
+    at the edge of the table. It's followed by another, quickly grabbing firmly at
+    the edge of the monitor. You swallow with anticipation. In the middle of the screen,
+    a dark spot appeared. Slowly it turned into a clump of greasy unkempt black hair,
+    that started sliding down your monitor and onto the table. As it pushed through,
+    it revealed a head; the eyes covered by the black mess. The moment the mouth made
+    it out of the monitor, it gasped for air and started coughing, rasping in a sickly
+    fashion. It almost looked like the thing was trying to articulate something. Whatever
+    it tried to rasp at you, it looked painful. Almost as painful as the realization
+    that you chose this night of all nights to leave your gun at the office.
+  choiceText1: 1) Shit! Uhh... doesn't salt work on ghosts?
+  choiceText2: 2) Crap! Uhh... quick, push her back in!
+  choiceText3: 3) Poop! Uhh... she's disoriented, grab a knife from the kitchen!
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: b7a2ed8fe6504974b82e64dc985a94de, type: 2}
+  - {fileID: 11400000, guid: 7cec6ad3b3ee27d4da1ce6c661b244d3, type: 2}
+  - {fileID: 11400000, guid: 3153db6ffaa8b164fbfd0e53fb596558, type: 2}
+  choiceStatesAlt: []
+  tag: V42
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 

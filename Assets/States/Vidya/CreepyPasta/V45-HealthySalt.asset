@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
+  m_Name: V45-HealthySalt
+  m_EditorClassIdentifier: 
+  headerText: Healthy salt intake
+  storyText: Salt? Against ghosts? I... I guess? Worth  a try I suppose? Fine! You
+    run to the kitchen! You grab the salt, pour it in a large cup and run back to
+    your computer! You arrive just in time to see the ghost make it out. She slid
+    from your table onto the floor and through heavy gasps and swallowing tried to
+    get her bearings. Now's your chance! With a resolute " Be gone!" You throw all
+    of the salt onto the apparition. Direct hit in her face too. She screams, recoils
+    in pain and... starts.... crying? She isn't melting away or anything like that,
+    she's just crying " Huah ih wong wih hoo" and trying to get all of the salt out
+    of her eyes?
+  choiceText1: 1) Wait, you mean like "what is wrong with you"?
+  choiceText2: 
+  choiceText3: 
+  headerTextFontSize: 40
+  storyTextFontSize: 18
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
+  choiceStates:
+  - {fileID: 11400000, guid: 618904fa6806f7c4a9e2fcadf0e5acf7, type: 2}
+  choiceStatesAlt: []
+  tag: V45
+  foodPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 0
+  shouldFinishGame: 0
+  shouldRestartGame: 0
+  winStateText: 
