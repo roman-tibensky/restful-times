@@ -13,11 +13,12 @@ MonoBehaviour:
   m_Name: IntroHelp
   m_EditorClassIdentifier: 
   headerText: How to play
-  storyText: "Look. It's easy. You're a private detective and you're dead tired. You
-    should just do your best to rest up a bit. To do that, you either click the choice
-    you want, or press the number of the choice you want. \n\nSometimes you die, that's
-    just part of life. But since this is a game, if you complete any objectives, you
-    don't have to repeat those until you finish your run. Now relaaaaaaaax, m'dude!"
+  storyText: "Good evening and welcome home! In case you forgot, who you are, you're
+    a private detective. And you're dead tired. You should just do your best to rest
+    up a bit. To do that, you either click the choice you want, or press the number
+    of the choice you want. \n\nSometimes you die, that's just part of life. But since
+    this is a game, if you complete any objectives, you don't have to repeat those
+    until you finish your run. Now relaaaaaaaax, m'dude!"
   choiceText1: 1) So I just click this yellow text or press 1? Sounds straight forward
     enough. Let's get started!
   choiceText2: 
@@ -30,10 +31,10 @@ MonoBehaviour:
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
   choiceStatesAlt: []
-  tag: 
+  tag: START
   foodPoints: 0
   sleepPoints: 0
   vidyaPoints: 0
   shouldFinishGame: 0
-  shouldRestartGame: 0
+  shouldRestartGame: 1
   winStateText: 

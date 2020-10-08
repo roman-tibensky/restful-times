@@ -31,5 +31,5 @@ MonoBehaviour:
   sleepPoints: 0
   vidyaPoints: 0
   shouldFinishGame: 0
-  shouldRestartGame: 0
+  shouldRestartGame: 1
   winStateText: 

@@ -114,6 +114,10 @@ public class StateManagement : ScriptableObject
         return choiceStates.Length > choicePosition ? choiceStates[choicePosition] : null;
     }
 
+    public void SetStateChoices(StateManagement[] states) {
+        choiceStates = states;
+    }
+
     public int ChoiceLength() {
         return choiceStates.Length;
     }
