@@ -35,7 +35,7 @@ public class RestfulBehavior : MonoBehaviour
     string winStateHeader = "";
     
     StateManagement currentState;
-    int optionCount;
+    StateManagement[] stateChoices;
 
     delegate void ClickDelegate(int num);
     ClickDelegate clickDelegate;
@@ -43,6 +43,7 @@ public class RestfulBehavior : MonoBehaviour
     void Start()
     {
         clickDelegate = GetStateAccordingToInput;
+        currentState = startingState;
         ResetTheGame();
     }
 
@@ -55,7 +56,6 @@ public class RestfulBehavior : MonoBehaviour
 
     void ResetTheGame() 
     {
-        currentState = startingState;
         FillWithCurrentState();
         foodPoints = 0;
         sleepPoints = 0;
@@ -93,24 +93,45 @@ public class RestfulBehavior : MonoBehaviour
 
 
     public void GetStateAccordingToInput(int option) {
-        // if (option < optionCount) {
-        if (option < currentState.ChoiceLength()) {
-            currentState = currentState.ChoiceMade(option);
+        if (option < stateChoices.Length) {
+            AddPointsAndResults();
+            currentState = ChoiceMade(option);
             if(currentState.GameStateTag() == "000") {
                 if (shouldRestart) {
                     ResetTheGame();
                 } else {
-
+                    FillBaseStateAccordingToProgress();
                 }
+            } else if(currentState.GameStateTag() == "END") {
+                FillEndState();
             } else {
                 FillWithCurrentState();
             }
         }
     }
 
+    public StateManagement ChoiceMade(int choicePosition) {
+        return stateChoices.Length > choicePosition ? stateChoices[choicePosition] : null;
+    }
+
+    void AddPointsAndResults() {
+        if (foodPoints == 0) {
+            foodPoints = currentState.GameStateFoodPoints();
+        }
+        if (vidyaPoints == 0) {
+            vidyaPoints = currentState.GameStateVidyaPoints();
+        }
+        if (sleepPoints == 0) {
+            sleepPoints = currentState.GameStateSleepPoints();
+        }
+        if (currentState.GameStateWinStateText().Trim() != "") {
+            winStateText += "- " + currentState.GameStateWinStateText() + "\n\r";
+        }
+    }
+
     void FillWithCurrentState()
     {
-        optionCount = currentState.ChoiceLength();
+        
         headerText.text = currentState.GameStateHeader();
         storyText.text = currentState.GameStateStory();
         choiceText1.text = currentState.GameStateChoiceText1();
@@ -122,27 +143,55 @@ public class RestfulBehavior : MonoBehaviour
         choiceText2.fontSize = currentState.GameStateChoiceText2FontSize();
         choiceText3.fontSize = currentState.GameStateChoiceText3FontSize();
         shouldRestart = currentState.GameStateShouldRestartGame();
+        stateChoices= currentState.GameStateChoices();
     }
     
     void FillBaseStateAccordingToProgress()
     {
-        optionCount = currentState.ChoiceLength();
-        headerText.text = currentState.GameStateHeader();
-        storyText.text = currentState.GameStateStory();
-        choiceText1.text = currentState.GameStateChoiceText1();
-        choiceText2.text = currentState.GameStateChoiceText2();
-        choiceText3.text = currentState.GameStateChoiceText3();
-        headerText.fontSize = currentState.GameStateHeaderTextFontSize();
-        storyText.fontSize = currentState.GameStateStoryFontSize();
-        choiceText1.fontSize = currentState.GameStateChoiceText1FontSize();
-        choiceText2.fontSize = currentState.GameStateChoiceText2FontSize();
-        choiceText3.fontSize = currentState.GameStateChoiceText3FontSize();
-        shouldRestart = currentState.GameStateShouldRestartGame();
+        if( foodPoints!= 0 && vidyaPoints !=0) {
+            headerText.text = "Well, that sure was a day";
+            storyText.text = "You ate, you tried to relax. It's time to pass out, I'd say";
+            choiceText1.text = "Oh god. Yes. Please.";
+            stateChoices = new StateManagement[] {baseGameState.ChoiceMade(1)};
+            headerText.fontSize = baseGameState.GameStateHeaderTextFontSize();
+            storyText.fontSize = baseGameState.GameStateStoryFontSize();
+            choiceText1.fontSize = baseGameState.GameStateChoiceText1FontSize();
+            choiceText2.fontSize = baseGameState.GameStateChoiceText2FontSize();
+            choiceText3.fontSize = baseGameState.GameStateChoiceText3FontSize();
+            shouldRestart = baseGameState.GameStateShouldRestartGame();
+        } else if (vidyaPoints != 0) {
+            headerText.text = vidyaPoints == 10 ? "Don't you look chilled out" : "Not sure if I'd call all of that relaxing";
+            storyText.text = "Well, your hunger still hasn't been tended to and passing out sounds more tempting by the minute. So what will it be?";
+            choiceText1.text = "Feeeeeeeeed meeeeeeee!";
+            choiceText2.text = "Just... let me sleep. I've had enough for one day.";
+            stateChoices = new StateManagement[] {baseGameState.ChoiceMade(0), baseGameState.ChoiceMade(1)};
+            headerText.fontSize = baseGameState.GameStateHeaderTextFontSize();
+            storyText.fontSize = baseGameState.GameStateStoryFontSize();
+            choiceText1.fontSize = baseGameState.GameStateChoiceText1FontSize();
+            choiceText2.fontSize = baseGameState.GameStateChoiceText2FontSize();
+            choiceText3.fontSize = baseGameState.GameStateChoiceText3FontSize();
+            shouldRestart = baseGameState.GameStateShouldRestartGame();
+        } else if (foodPoints != 0) {
+            headerText.text = foodPoints == 10 ? "The stomach growls seize" : "The stomach growls subside";
+            storyText.text = "You managed to acquire sustenance, but your brain is still abuzz. You could try to relax a little, or you could just try and sleep regardless.";
+            choiceText1.text = "Just... let me sleep. I've had enough for one day.";
+            choiceText2.text = "Can't go wrong with a quick game or two.";
+            stateChoices = new StateManagement[] {baseGameState.ChoiceMade(1), baseGameState.ChoiceMade(2)};
+            headerText.fontSize = baseGameState.GameStateHeaderTextFontSize();
+            storyText.fontSize = baseGameState.GameStateStoryFontSize();
+            choiceText1.fontSize = baseGameState.GameStateChoiceText1FontSize();
+            choiceText2.fontSize = baseGameState.GameStateChoiceText2FontSize();
+            choiceText3.fontSize = baseGameState.GameStateChoiceText3FontSize();
+            shouldRestart = baseGameState.GameStateShouldRestartGame();
+        } else {
+//            currentState = baseGameState;
+            FillWithCurrentState();
+        }
     }
     
     void FillEndState()
     {
-        optionCount = currentState.ChoiceLength();
+        stateChoices= currentState.GameStateChoices();
         headerText.text = CalculateFinalHeader();
         storyText.text = CreateStoryResult();
         choiceText1.text = currentState.GameStateChoiceText1();
@@ -163,7 +212,7 @@ public class RestfulBehavior : MonoBehaviour
             case 5:
                 return finalScore + "/30 ...Are you okay?";
             case 10:
-                return finalScore + "/30 Sloppy rest";
+                return finalScore + "/30 Unhealthy rest";
             case 15:
                 return finalScore + "/30 Bad rest";
             case 20:
@@ -184,7 +233,7 @@ public class RestfulBehavior : MonoBehaviour
         } else if (foodPoints == 5) {
             finalText += "You've sort of eaten.";
         } else {
-            finalText += "You've feasted like the gods themselves!";
+            finalText += "You've feasted like the gods themselves.";
         }
 
         if(vidyaPoints == 0) {
@@ -192,13 +241,13 @@ public class RestfulBehavior : MonoBehaviour
         } else if (vidyaPoints == 5) {
             finalText += " You've faffed about a bit to give your brain some cool down time. It didn't work all that well.";
         } else {
-            finalText += " You've had a blast yesterday like youhaven't had in a long while!";
+            finalText += " You've had a blast yesterday like you haven't had in a long while.";
         }
 
-        if(vidyaPoints == 5) {
-            finalText += " And you feel more tired than when you passed out. \n\r";
+        if(sleepPoints == 5) {
+            finalText += " You feel more tired than when you passed out. \n\r";
         } else {
-            finalText += " And you've slept like a bay! \n\r";
+            finalText += " You've slept like a baby. \n\r";
         }
 
         return finalText + "In addition: \n\r" + winStateText;

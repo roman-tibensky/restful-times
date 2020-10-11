@@ -117,6 +117,9 @@ public class StateManagement : ScriptableObject
     public void SetStateChoices(StateManagement[] states) {
         choiceStates = states;
     }
+    public StateManagement[] GameStateChoices() {
+        return choiceStates;
+    }
 
     public int ChoiceLength() {
         return choiceStates.Length;

@@ -16,7 +16,7 @@ MonoBehaviour:
   storyText: Do you even have the energy for food? I suppose sleep on a full stomach
     is much nicer though. Fine, let's see if there's any fast and easy options that
     definitely won't backfire at you for wanting a quick meal
-  choiceText1: 1) Eat the 100 year old bologna sandwich perfectly(?) preserved by
+  choiceText1: 1) Eat the 100 year old mystery sandwich perfectly(?) preserved by
     the ancient fridge that somehow did not break down yet
   choiceText2: 2) Order pizza from the pizza mafia
   choiceText3: 3) Lick the mold off the ceiling. It's getting nice and ripe again.
@@ -27,6 +27,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: ceb47affe4398b14cb319bc393e153bd, type: 2}
+  choiceStatesAlt: []
   tag: F1
   foodPoints: 0
   sleepPoints: 0

@@ -846,16 +846,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85e8111cfc21a9b43b736024b145240d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingState: {fileID: 11400000, guid: 032f7915d3d758343b969902cc1b21b5, type: 2}
+  startingState: {fileID: 11400000, guid: 5fd98ea0ee1dea9428e0aef99b666819, type: 2}
+  baseGameState: {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  endGameState: {fileID: 0}
   headerText: {fileID: 1802219452}
   storyText: {fileID: 694022865}
   choiceText1: {fileID: 1272115850}
   choiceText2: {fileID: 232205920}
   choiceText3: {fileID: 367241122}
-  foodPoints: 0
-  sleepPoints: 0
-  vidyaPoints: 0
-  winStateText: 
 --- !u!4 &1290441213
 Transform:
   m_ObjectHideFlags: 0
