@@ -17,7 +17,7 @@ MonoBehaviour:
     what! After a long day of sitting in your car  and staking out cheating husbands,
     it's good to get a little excitement in your life. Let's see what is up with this
     sandwich. You walk up to the fridge, open it up and lay your eyes on the sad barren
-    frozen space inside. Getting around to do groceries was never your strong suit.
+    cold space inside. Getting around to do groceries was never your strong suit.
     The only thing inside is a barely opened bottle of whiskey and the aforementioned
     sandwich - propped up on a fancy plate , decorated with... all sorts of stuff?
     \n\nAt first, you thought it was just salad, but on second glance, you can see
@@ -37,6 +37,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: da201fef681be8040af7387a1b58c906, type: 2}
   - {fileID: 11400000, guid: 98df74c3f93184d479918d752b00b2d3, type: 2}
   - {fileID: 11400000, guid: 71810139325e9b44c9310f5304c0f680, type: 2}
+  choiceStatesAlt: []
   tag: F3
   foodPoints: 0
   sleepPoints: 0

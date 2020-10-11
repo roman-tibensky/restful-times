@@ -151,7 +151,7 @@ public class RestfulBehavior : MonoBehaviour
         if( foodPoints!= 0 && vidyaPoints !=0) {
             headerText.text = "Well, that sure was a day";
             storyText.text = "You ate, you tried to relax. It's time to pass out, I'd say";
-            choiceText1.text = "Oh god. Yes. Please.";
+            choiceText1.text = "1) Oh god. Yes. Please.";
             stateChoices = new StateManagement[] {baseGameState.ChoiceMade(1)};
             headerText.fontSize = baseGameState.GameStateHeaderTextFontSize();
             storyText.fontSize = baseGameState.GameStateStoryFontSize();
@@ -162,8 +162,8 @@ public class RestfulBehavior : MonoBehaviour
         } else if (vidyaPoints != 0) {
             headerText.text = vidyaPoints == 10 ? "Don't you look chilled out" : "Not sure if I'd call all of that relaxing";
             storyText.text = "Well, your hunger still hasn't been tended to and passing out sounds more tempting by the minute. So what will it be?";
-            choiceText1.text = "Feeeeeeeeed meeeeeeee!";
-            choiceText2.text = "Just... let me sleep. I've had enough for one day.";
+            choiceText1.text = "1) Feeeeeeeeed meeeeeeee!";
+            choiceText2.text = "2) Just... let me sleep. I've had enough for one day.";
             stateChoices = new StateManagement[] {baseGameState.ChoiceMade(0), baseGameState.ChoiceMade(1)};
             headerText.fontSize = baseGameState.GameStateHeaderTextFontSize();
             storyText.fontSize = baseGameState.GameStateStoryFontSize();
@@ -174,8 +174,8 @@ public class RestfulBehavior : MonoBehaviour
         } else if (foodPoints != 0) {
             headerText.text = foodPoints == 10 ? "The stomach growls seize" : "The stomach growls subside";
             storyText.text = "You managed to acquire sustenance, but your brain is still abuzz. You could try to relax a little, or you could just try and sleep regardless.";
-            choiceText1.text = "Just... let me sleep. I've had enough for one day.";
-            choiceText2.text = "Can't go wrong with a quick game or two.";
+            choiceText1.text = "1) Just... let me sleep. I've had enough for one day.";
+            choiceText2.text = "2) Can't go wrong with a quick game or two.";
             stateChoices = new StateManagement[] {baseGameState.ChoiceMade(1), baseGameState.ChoiceMade(2)};
             headerText.fontSize = baseGameState.GameStateHeaderTextFontSize();
             storyText.fontSize = baseGameState.GameStateStoryFontSize();
