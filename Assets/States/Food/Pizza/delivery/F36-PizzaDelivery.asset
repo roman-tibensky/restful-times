@@ -16,10 +16,9 @@ MonoBehaviour:
   storyText: 'Deliveries might pay less, but choosing one means you don''t have to
     let strangers into your house. They''re also usually easier, unless you get one
     of the higher paid ones. "Delivery. Sure. Got a 8 pizza rating one on the that
-    needs to be done asap. I''ll send you the coordinates for the pick up delivery.
-    Shake before delivering and don''t let yourself get caught. Password for the package
-    retrieval is the 2nd act of King Lear, but with every third word replaced by a
-    cough. "
+    needs to be done asap. I''ll send you the coordinates for the pick up. Shake before
+    delivering and don''t let yourself get caught. Password for the package retrieval
+    is the 2nd act of King Lear, but with every third word replaced by a cough. "
 
 
     8 Pizzas.... fuck. At least if you live, you''re set with food for a while.'
@@ -33,6 +32,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 293b79e9d9e79b84c86f5201c23b4f1a, type: 2}
+  choiceStatesAlt: []
   tag: F36
   foodPoints: 0
   sleepPoints: 0

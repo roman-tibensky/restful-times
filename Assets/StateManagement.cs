@@ -121,6 +121,13 @@ public class StateManagement : ScriptableObject
         return choiceStates;
     }
 
+    public void SetStateChoicesAlt(StateManagement[] states) {
+        choiceStatesAlt = states;
+    }
+    public StateManagement[] GameStateChoicesAlt() {
+        return choiceStatesAlt;
+    }
+
     public int ChoiceLength() {
         return choiceStates.Length;
     }

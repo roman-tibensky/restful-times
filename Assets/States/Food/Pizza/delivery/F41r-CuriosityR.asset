@@ -18,7 +18,7 @@ MonoBehaviour:
     try to - BUMP - find it, since it was in your hands just a second ago and OH MY
     GOD, WHERE DID THE PACKAGE GO. Took only a split second. Distracted by your curiosity,
     you let your guard down and now someone in this enormous mass of people decided
-    they like it better than you. This is a fucking disaster..
+    they want it more than you do. This is a fucking disaster..
   choiceText1: 1) Well... might as well give up and go home.
   choiceText2: 2)  Quick, look around, they has to be a clue SOMETHING you can do
   choiceText3: 3) Yell "STOP RIGHT THERE" and hope for the best.
@@ -31,6 +31,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: dad8af71594df8d4f87dd88f26ed010f, type: 2}
   - {fileID: 11400000, guid: 43e11fd4ecfa3724ab4da78c39af32fa, type: 2}
   - {fileID: 11400000, guid: 5d9064ed39cc96a48a2d9b1535a6cd24, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

@@ -20,10 +20,10 @@ MonoBehaviour:
     your hand away from the sandwich together. And they were SURPRISINGLY strong.
     But they were focused so much on your one hand they completely ignored the other.
     You manage to use that to snag the sandwich, but before you get the buggers off
-    your hand and  close the fridge, they refocus on their sacred food item and attempt
-    to get it back. You scream and thrash your arms around, somehow shake the attackers
-    off and close the fridge. Sadly after assessing your bounty, you find that you
-    only managed to obtain like half the sandwich.
+    your hand and close the fridge, they refocus on their sacred food item and attempt
+    to get it back. You scream and thrash your arms around, somehow shaking the attackers
+    off and closing the fridge. Sadly, after assessing your bounty, you find that
+    you only managed to obtain like half the sandwich.
   choiceText1: 1) Just eat it. Ain't no way I'm opening that fridge again (Objective
     complete-ish)
   choiceText2: 
@@ -35,11 +35,12 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F17
   foodPoints: 5
   sleepPoints: 0
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You've learned that who doesn't participate in combat does not deserve
-    to eat. And that your fridge probably hates you now.
+  winStateText: You've learned that he who does not participate in combat does not
+    deserve to eat. And that your fridge probably hates you now.

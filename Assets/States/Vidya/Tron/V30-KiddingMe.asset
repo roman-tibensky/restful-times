@@ -17,7 +17,7 @@ MonoBehaviour:
     in this branch. I don't need your approval. The sheer effort I had to put into
     all the setups, just to be shot down like this. I'll just stick with people, who
     appreciate my efforts. Unlike SOME people.
-  choiceText1: "1) Nope. Still not listening. All of the nopes. \r\n(GAME OVER - retry)"
+  choiceText1: "1) Nope. Still not listening. All of the nopes. \r(GAME OVER - retry)"
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40

@@ -13,16 +13,15 @@ MonoBehaviour:
   m_Name: F4-Speed of Hunger
   m_EditorClassIdentifier: 
   headerText: Speed of Hunger
-  storyText: As the smell of food hits your nostrils,  it's just too much to bare
-    anymore. Your greedy fingers snap at the cold treat so fast even you don't realize
-    it happened before the liberating taste of bread, salad and meat(?) spreads in
-    your mouth. Oh, sweet release from hunger! .... bit crunchy though... Ouch! The
-    hell was that? You reach inside your mouth and take out a... toothpick? With a
-    tiny spearhead? You stare at it perplexed. Then you spot some movement in the
-    corner of your eye. You follow it to the plate in the fridge and see what could
-    only be described as tiny people spliced with salad coming out from behind the
-    leaves giving you and absolutely horrified look. Politely, you give a similar
-    one back.
+  storyText: As the smell of food hits your nostrils, it's just too much to bare anymore.
+    Your greedy fingers snap at the cold treat so fast even you don't realize it happened
+    before the liberating taste of bread, salad and meat(?) spreads in your mouth.
+    Oh, sweet release from hunger! .... bit crunchy though... Ouch! The hell was that?
+    You reach inside your mouth and take out a... toothpick? With a tiny spearhead?
+    You stare at it perplexed. Then you spot some movement in the corner of your eye.
+    You follow it to the plate in the fridge and see what could only be described
+    as tiny people spliced with salad coming out from behind the leaves giving you
+    and absolutely horrified look. Politely, you give a similar one back.
   choiceText1: 1) Greet them with the classic "What the fuck"
   choiceText2: 2) Gulp...
   choiceText3: 3) What the hell is in my mouth right now...
@@ -35,6 +34,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5ea73bdecf1a5874a9ee1c44ae88273b, type: 2}
   - {fileID: 11400000, guid: ead82c43d17ecbe4680bcbbe96d2272c, type: 2}
   - {fileID: 11400000, guid: cf2d4bbec745bc341a4c0eae04d79787, type: 2}
+  choiceStatesAlt: []
   tag: F4
   foodPoints: 0
   sleepPoints: 0

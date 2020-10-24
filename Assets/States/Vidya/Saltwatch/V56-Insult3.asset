@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: 'Insult of the salt 3: Salt Warriors'
   storyText: '... in the real world. Someone people burst into your home and knocked
-    you out. Now you''re in a dark room., tied to a chair. Your head hurts like it
+    you out. Now you''re in a dark room, tied to a chair. Your head hurts like it
     lost a fight with a sledgehammer. Which it might have.'
   choiceText1: 1) STILL worth it
   choiceText2: 2) Double bummer.

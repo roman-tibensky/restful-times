@@ -36,6 +36,7 @@ public class RestfulBehavior : MonoBehaviour
     
     StateManagement currentState;
     StateManagement[] stateChoices;
+    StateManagement[] stateChoicesAlt;
 
     delegate void ClickDelegate(int num);
     ClickDelegate clickDelegate;
@@ -111,7 +112,11 @@ public class RestfulBehavior : MonoBehaviour
     }
 
     public StateManagement ChoiceMade(int choicePosition) {
-        return stateChoices.Length > choicePosition ? stateChoices[choicePosition] : null;
+        if(stateChoicesAlt.Length <= choicePosition || Random.value < 0.5f) {
+            return stateChoices.Length > choicePosition ? stateChoices[choicePosition] : null;
+        } else {
+            return stateChoicesAlt[choicePosition];
+        }
     }
 
     void AddPointsAndResults() {
@@ -144,6 +149,7 @@ public class RestfulBehavior : MonoBehaviour
         choiceText3.fontSize = currentState.GameStateChoiceText3FontSize();
         shouldRestart = currentState.GameStateShouldRestartGame();
         stateChoices= currentState.GameStateChoices();
+        stateChoicesAlt= currentState.GameStateChoicesAlt();
     }
     
     void FillBaseStateAccordingToProgress()

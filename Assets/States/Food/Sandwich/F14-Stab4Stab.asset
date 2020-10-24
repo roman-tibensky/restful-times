@@ -17,9 +17,9 @@ MonoBehaviour:
     that sandwich think it is anyway, poking you like that. You take a fork and attempt
     to prod the sandwich carefully. But before the steel can even touch the bread
     it was stopped by a long toothpick with a little spearhead at the end bursting
-    from inside the sandwich. It had such a force that it pushed the fork out of your
-    hand. Startled, your hand twitched and barely caught it before it fell to the
-    ground.
+    from inside the sandwich. The thrust had such force that it pushed the fork out
+    of your hand. Startled, your hand twitched and barely caught it before it fell
+    to the ground.
   choiceText1: 1) What the ever-loving hell was that?
   choiceText2: 
   choiceText3: 
@@ -30,6 +30,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 91e074f35ea572442a04884146192ca3, type: 2}
+  choiceStatesAlt: []
   tag: F14
   foodPoints: 0
   sleepPoints: 0

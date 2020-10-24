@@ -16,15 +16,15 @@ MonoBehaviour:
   storyText: You won't let some leafy midget intimidate you! How dare he even try
     this feeble scare tactic on you. You yell back, trying to mimic their incoherent
     speech and shake your fork in their general direction. The yells and chants of
-    the leaf folk immediately grind to a halt. Their expression is on shock and disbelief.
-    They look at each other. Murmur a few incoherent sentences, then start yelling
-    at each other. Then they start yelling at you, but less organized, one over the
-    other with absolute disgust. You see no other option, but to double down with
-    your own bit of yelling. But that was the last straw. The whole leaf clan jumps
-    at you and starts attacking. They catch you by surprise. And although the leaf
-    people are small, they are surprisingly strong and super nimble. Once they get
-    under your clothes, you stand no chance. Must've said some horrible things to
-    the little buggers.
+    the leaf folk immediately grind to a halt. Their expression is one of shock and
+    disbelief. They look at each other. Murmur a few incoherent sentences, then start
+    yelling at each other. Then they start yelling at you, but less organized, one
+    over the other with absolute disgust. You see no other option, but to double down
+    with your own bit of yelling. But that was the last straw. The whole leaf clan
+    jumps at you and starts attacking. They catch you by surprise. And although the
+    leaf people are small, they are surprisingly strong and super nimble. Once they
+    get under your clothes, you stand no chance. Must've said some horrible things
+    to the little buggers.
   choiceText1: 1) And I meant every little bit, especially about their moms (GAME
     OVER -retry)
   choiceText2: 
@@ -36,6 +36,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F16
   foodPoints: 0
   sleepPoints: 0

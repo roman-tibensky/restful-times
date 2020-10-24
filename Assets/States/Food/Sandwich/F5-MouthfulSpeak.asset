@@ -15,14 +15,14 @@ MonoBehaviour:
   headerText: Speaking with your mouth full
   storyText: '"Hwah h fuh" You blurt out even forgettting that there''s food in your
     mouth. The salad men yell back and start throwing toothpick spears at you with
-    surprising amount of strength. You barely manage to drop the sandwich and lift
+    a surprising amount of strength. You barely manage to drop the sandwich and lift
     your hands in front of your face, before they reach you. Sharp, stabbing pain
-    spreads across your palm and arm, as the tooth picks bury themselves into your
+    spreads across your palms and arms as the tooth picks bury themselves into your
     skin. You barely have any time to recover as another stabbing pain spreads in
     your mouth again. You yell out in surprise and watch as something  slides out
     of your mouth and starts "scaling" you down using two toothpicks. Too bad one
     of the first places it uses is your neck and perforates one of your arteries.
-    You try to fight the little bastards of and even though you close the fridge,
+    You try to fight the little bastards off and even though you close the fridge,
     you fail to close the gaping hole in your neck and pass out eventually.'
   choiceText1: 1) Gulliver's island never taught me anything about this... (GAME OVER
     -retry)
@@ -35,6 +35,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F5
   foodPoints: 0
   sleepPoints: 0
