@@ -15,9 +15,9 @@ MonoBehaviour:
   headerText: Drinking up an appetite
   storyText: Your head is buzzing something fierce. It's been a long day. And your
     brain is filled to the brim with stray thoughts and noise. Calming down with a
-    drink or five might not be the worst idea. Would help you to build up an appetite
-    too. You grab a glass, pour yourself quite the amount and just close your eyes
-    for a second, savoring the smoky aftertaste and the warm sensation slowly spreading
+    drink or five might not be the worst idea. Would help build up an appetite too.
+    You grab a glass, pour yourself quite the amount and just close your eyes for
+    a second, savoring the smoky aftertaste and the warm sensation slowly spreading
     across your chest. You let out a calm sigh and open your eyes. You look down to
     eye your dinner for the night... only to find it starting back at you? There were,
     for the lack of better words, tiny little people with leaf-like features sitting
@@ -36,6 +36,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ae12e320f0f2cfa4ca5eda114ed1ed74, type: 2}
   - {fileID: 11400000, guid: d9cb4c5e435900c4283e6cd3950f54dd, type: 2}
   - {fileID: 11400000, guid: 20a8ed1681915974f93a3d0de9096191, type: 2}
+  choiceStatesAlt: []
   tag: F19
   foodPoints: 0
   sleepPoints: 0

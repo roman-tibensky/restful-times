@@ -35,11 +35,11 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F23
   foodPoints: 5
   sleepPoints: 0
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You learned to take little green me seriously at the cost of your
-    appetite
+  winStateText: You learned to believe in little green men at the cost of your appetite.

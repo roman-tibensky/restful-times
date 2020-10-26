@@ -18,9 +18,9 @@ MonoBehaviour:
     realization as the alcohol starts to work its way through his tiny body. He takes
     another sip, then notions the others to do the same. Seems like your new friend
     quickly came around to the idea of having a social drink or two. Or ten. And drunken
-    singing. And drunken fights. And passing out with your pants on your head.Or somebody
-    else's. Truly, their civilization took a huge leap forward this day. Surely they
-    won't mind you taking the sandwich in return?
+    singing. And drunken fights. And passing out with your pants on your head. Or
+    somebody else's. Truly, their civilization took a huge leap forward this day.
+    Surely they won't mind you taking the sandwich in return?
   choiceText1: 1) I bring the booze, they bring the snacks. Fair deal (Objective complete!)
   choiceText2: 
   choiceText3: 
@@ -31,6 +31,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F22
   foodPoints: 10
   sleepPoints: 0
