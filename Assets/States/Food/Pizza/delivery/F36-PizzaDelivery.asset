@@ -26,7 +26,7 @@ MonoBehaviour:
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15

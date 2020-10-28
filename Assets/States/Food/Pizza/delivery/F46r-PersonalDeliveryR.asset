@@ -17,21 +17,22 @@ MonoBehaviour:
     just bored or too stressed to function properly, but the instructions your were
     given, were just the worst. It''s usually not this bad, but you kinda lost faith
     in anything he said and you just wanna go home without jumping through any more
-    hoops. You walk up to them as casually as one can, when seeing the other party
-    reach for their guns. Slowly, you lift your hands up, holding the package in plain
-    sight. The guards look at one another unsure what to do with you. "Package delivery?"
-    You try to to offer a hint. You''re promptly searched and shoved inside and led
-    deeper into the facility '
+    hoops. You walk up to the guards as casually as one can, when seeing the other
+    party reach for their guns. Slowly, you lift your hands up, holding the package
+    in plain sight. The guards look at one another unsure what to do with you. "Package
+    delivery?" You try to to offer a hint. You''re promptly searched and shoved inside
+    and led deeper into the facility '
   choiceText1: 1) Cool, I'm not dead yet!
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 21f536ec71751564ab46edb836316ebe, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

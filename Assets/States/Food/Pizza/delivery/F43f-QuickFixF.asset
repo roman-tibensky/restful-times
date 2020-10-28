@@ -14,18 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Looking for quick fixes
   storyText: "Quickly, you look around and see if you can catch something out of the
-    ordinary. It is a wall of people, so chances are indeed small, but hey, your employer
-    is getting something out of this; whether it's the package or your head; and you're
-    particularly attached to the latter. Your gaze falls upon a young, very nervous
-    teen, probably on a similar errand as you, nervously looking down at a package
-    in his hand and then looking around the crowd. You might've lost your package
-    like a dumbass, but you also seem to have the luck of one too. You walk up to
-    the frightened boy, cough at him incoherently and then impatiently motion at the
-    package as if he were just slowing things down in the most natural of exchanges.
-    The distrust towards your \"password\" might've been strong, but the desire of
-    getting rid of the package was so much stronger. He handed it over and just ran
-    off. \r\n\r\nGood job. You go A package. Maybe you can play this out and still
-    come out on top. Problem is... now the delivery address most likely doesn't match"
+    ordinary. The station is flooded with people, so chances are indeed small, but
+    hey, your employer is getting something out of this; whether it's the package
+    or your head; and you're particularly attached to the latter. Your gaze falls
+    upon a young, very nervous teen, probably on a similar errand as you, nervously
+    looking down at a package in his hand and then looking around the crowd. You might've
+    lost your package like a dumbass, but you also seem to have the luck of one too.
+    You walk up to the frightened boy, cough at him incoherently and then impatiently
+    motion at the package as if he were just slowing things down in the most natural
+    of exchanges. The distrust towards your \"password\" might've been strong, but
+    the desire of getting rid of the package was so much stronger. He handed it over
+    and just ran off. \r\n\r\nGood job. You go A package. Maybe you can play this
+    out and still come out on top. Problem is... now the delivery address most likely
+    doesn't match"
   choiceText1: 1) Let's go to the one I got, blame it on the instructions later. It's
     the best I can do.
   choiceText2: 
@@ -35,7 +36,9 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: b3739c7b2504ed343908a7f03c952b74, type: 2}
+  choiceStatesAlt: []
   tag: F43f
   foodPoints: 0
   sleepPoints: 0

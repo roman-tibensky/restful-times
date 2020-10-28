@@ -19,7 +19,7 @@ MonoBehaviour:
     not checking the package themselves and leaving you alive for that matter. Everyone
     eyes the package, then you. \"Why don't we let our friend here open it then.\"
     Friend, huh? Considering they just wanted to kill you, you've a feeling this relationship
-    might be progressing a bit too fast, but hey, still better than your prior disposition.
+    might be progressing a bit too fast. But hey, still better than your prior disposition.
     You carefully open the package and take out the content. \r\n\r\nHonestly, it's
     not much to look at. Inside the package, was just another metal box, but without
     any apparent way of opening it.\r\n\r\n\"What the fuck is that?\" Asks one of
@@ -35,6 +35,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 652b6d48318aa814e894cf14c05f20b4, type: 2}
+  choiceStatesAlt: []
   tag: F47r
   foodPoints: 0
   sleepPoints: 0

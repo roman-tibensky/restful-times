@@ -12,19 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: F45r-FinalDestinationR
   m_EditorClassIdentifier: 
-  headerText: 
+  headerText: Final destination
   storyText: "Welp, here we are. It's dark here. It's remote. Your target is a warehouse.
     It even seems to have people patrolling it. The atmosphere is quite heavy and
     you get the feeling you're not wanted here. You're not even sure if your package
     is wanted here.\r\n"
   choiceText1: 1) What would the point of package delivery be, if they weren't expecting
-    in? Just walk up to the guards and deliver the package.
+    it? Just walk up to the guards and deliver the package.
   choiceText2: 2) Why was the operator so cryptic about not getting caught? Throw
     it at the guards from the shadows
   choiceText3: 3) Maybe it's supposed to be a surprise? Sneak in and place it somewhere
     obvious.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -32,6 +32,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 64c47dc115acf9640aed1b8ab219b807, type: 2}
   - {fileID: 11400000, guid: b892fa4d1c6b36845a7d32fabb53978d, type: 2}
   - {fileID: 11400000, guid: f6338c154e1a52a4e81325b317563582, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

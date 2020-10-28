@@ -12,20 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: F40f-ShakeF
   m_EditorClassIdentifier: 
-  headerText: Shake it, baby! Y
+  headerText: Shake it, baby!
   storyText: You shake the package. Nothing happens. What did you expect from this
     anyway?
   choiceText1: 1) Look, I just wanna know what's inside. Let me take a closer look.
   choiceText2: 2) I don't even know. Let's just go and get this over with.
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 618403008b02db840b67a27e784b3b22, type: 2}
   - {fileID: 11400000, guid: 4d0dba69521311c4885d70b0f06fc1ff, type: 2}
+  choiceStatesAlt: []
   tag: F40f
   foodPoints: 0
   sleepPoints: 0

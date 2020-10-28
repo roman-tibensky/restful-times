@@ -17,7 +17,7 @@ MonoBehaviour:
     would be to pretend you're on a call with someone. You yelled in your phone, complaining
     about a play you supposedly saw. Where every actor was sick. And every third word
     was obscured by coughing. You spoke as loud as you could, in order to be heard
-    by your imaginary friend on the end of the line and, more importantly by someone
+    by your imaginary friend on the end of the line and, more importantly, by someone
     who'd hopefully like to dispose of a parcel maybe? And someone indeed did. They
     came up, placed a package in your hands. Snarled at you to be careful and made
     sure they put as much distance between you and them as fast as possible.\r\n\r\nCool,
@@ -31,7 +31,11 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: 4a041da87a0940d40954981c8a2f8c54, type: 2}
+  - {fileID: 11400000, guid: d3f5432cb0604d44ab2b22a63cd85eb7, type: 2}
+  - {fileID: 11400000, guid: b3739c7b2504ed343908a7f03c952b74, type: 2}
+  choiceStatesAlt: []
   tag: F59
   foodPoints: 0
   sleepPoints: 0

@@ -20,8 +20,8 @@ MonoBehaviour:
     looks the part." The room is filled with relieved sighs and murmurs of "Damnit,
     Steve" and "You sure like em crazy". The guy is very apologetic and escorts you
     off the premises, giving you a small bag of cannoli and a warning to never mention
-    this place to anyone ever. When you call back your original contractor, saying
-    the delivery is done, you're assaulted with a lot of curse words, when you describe
+    this place to anyone ever. When you call your original contractor, saying the
+    delivery is done, you're assaulted with a lot of curse words, when you describe
     the result. It's not clear where or what went wrong, but they are most certainly
     not happy. They just cannot prove it's your fault, so you get to live. For now.
     Forget the payment though.
@@ -36,6 +36,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 5
   sleepPoints: 0

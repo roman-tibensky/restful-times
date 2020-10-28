@@ -23,12 +23,14 @@ MonoBehaviour:
   choiceText1: 1) WHAT THE FUCK!
   choiceText2: 
   choiceText3: 
-  headerTextFontSize: 40
-  storyTextFontSize: 20
+  headerTextFontSize: 30
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: 0c6d5b460ac338e47babaff7280d60c8, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

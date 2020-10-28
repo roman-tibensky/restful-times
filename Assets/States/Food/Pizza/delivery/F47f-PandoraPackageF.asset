@@ -19,12 +19,12 @@ MonoBehaviour:
     not checking the package themselves and leaving you alive for that matter. Everyone
     eyes the package, then you. \"Why don't we let our friend here open it then.\"
     Friend, huh? Considering they just wanted to kill you, you've a feeling this relationship
-    might be progressing a bit too fast, but hey, still better than your prior disposition.
-    Your carefully open the package and take out the content. But as son as your delivery
-    sees the light of day, you recoil in horror. Never before have you seen anything
-    like it it.\r\n\r\n\"What the fuck is that?\" Asks one of the thugs. It's the
-    world's fugliest plush unicorn, you think to yourself. And that seems to be it,
-    really. Doesn't feel like there's anything concealed inside either. "
+    might be progressing a bit too fast. But hey, still better than your prior disposition.
+    Your carefully open the package and take out the content. But as soon as your
+    delivery sees the light of day, you recoil in horror. Never before have you seen
+    anything like it it.\r\n\r\n\"What the fuck is that?\" Asks one of the thugs.
+    It's the world's fugliest plush unicorn, you think to yourself. And that seems
+    to be it, really. Doesn't feel like there's anything concealed inside either. "
   choiceText1: 1) Sigh. "It's the world's pinkest, fugliest unicorn."
   choiceText2: 2) Shit, uhhh... "Happy unspecified anniversary?"
   choiceText3: 3) God-fucking-damn that assignment giver today. "It's... uhh... it's
@@ -38,6 +38,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9e2c7ab2add96014692ffbe1309ebd8c, type: 2}
   - {fileID: 11400000, guid: ccc4ecee4f6c3694a86aca7a6f66bd28, type: 2}
   - {fileID: 11400000, guid: 63c7f59554950b441b94d2694aec0669, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

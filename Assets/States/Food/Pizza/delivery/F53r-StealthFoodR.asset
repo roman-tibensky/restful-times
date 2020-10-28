@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Stealth and deliver
   storyText: You decided to go on a stealth mission with no prior knowledge of the
-    place you were about to enter or the crew that occupied it, you haven't brought
+    place you were about to enter nor the crew that occupied it, you haven't brought
     along any equipment and in addition, you're hampered by a package that you have
     to carry around in your hands for the mot part. Now, how do you wager this goes?
   choiceText1: 1) I deliver my package, get a big reward, eat all of the pizza ever
@@ -22,12 +22,13 @@ MonoBehaviour:
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 45e52ce9cd24a0549abd3fe3f79664ea, type: 2}
+  choiceStatesAlt: []
   tag: F53r
   foodPoints: 0
   sleepPoints: 0

@@ -17,18 +17,19 @@ MonoBehaviour:
     think of something at least. Oh, your employer did mention something else, didn't
     he.\r\n\"Ah, I forgot. Apparently you're supposed to shake it?\" And thus, you
     do. You don't remember much after that. Mostly because you are now dead. And the
-    last thing you remember, is someone shouting. \"No! You idiot!\""
+    last thing you do remember, is someone shouting. \"No! You idiot!\""
   choiceText1: 1) Wait, did I get shot? What killed me? I demand anwers! (GAME OVER
     - retry)
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

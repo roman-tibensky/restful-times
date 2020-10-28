@@ -17,7 +17,7 @@ MonoBehaviour:
     went off and said that out loud. No use in backtracking now, it's time you double
     down:\r\n\"Look. I get it. It is god awful to look at. But sometimes, that's just
     how relationships work. Sometimes, that's the best you can do. It's the thought
-    that counts, you know what I mean? \" You dramatically take the monstrosity into
+    that counts, you know what I mean?\" You dramatically take the monstrosity into
     your hands an motion at it. \"You must've had such an experience before. A relationship
     bruised and battered, coming off at the seams, no idea how it even holds together,
     but hey... here we are. And goddamnit, we are TRYING our best.  All so nicely
@@ -34,6 +34,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 6596942910cfcb6469cc41dcf1a9eca9, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

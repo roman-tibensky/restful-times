@@ -22,8 +22,8 @@ MonoBehaviour:
     But at one moment, you hear someone speak up close by. Already on edge, you jump,
     bumping into some barrels, creating sound like thunder that echoes throughout
     the building, ringing in your doom. There are voices coming towards you from several
-    directions, so you can't really say, what a safe way to proceed would be. Now
-    what, genius?"
+    directions, so you can't really say what a safe way to proceed would be. Now what,
+    genius?"
   choiceText1: 1) Hide! Hide! HIDE!
   choiceText2: 2) Get out, while you still can!
   choiceText3: 3) Keep calm, throw the package as a distraction. Should technically
@@ -36,7 +36,8 @@ MonoBehaviour:
   choiceStates:
   - {fileID: 11400000, guid: 91aa44326cdfb0f448b877a160a8711c, type: 2}
   - {fileID: 11400000, guid: 3aa1eb4a0ddbeb84c970ce0729ee6b5a, type: 2}
-  - {fileID: 11400000, guid: 949a0d0f51d6691409df8f2fbaa30bd2, type: 2}
+  - {fileID: 11400000, guid: 94f69c410a0082646b8a49ec48c3e3f2, type: 2}
+  choiceStatesAlt: []
   tag: F55
   foodPoints: 0
   sleepPoints: 0

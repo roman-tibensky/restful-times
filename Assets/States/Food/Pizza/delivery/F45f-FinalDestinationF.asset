@@ -18,13 +18,13 @@ MonoBehaviour:
     you get the feeling you're not wanted here. You're not even sure if your package
     is wanted here.
   choiceText1: 1) What would the point of package delivery be, if they weren't expecting
-    in? Just walk up to the guards and deliver the package.
+    it? Just walk up to the guards and deliver the package.
   choiceText2: 2) Why was the operator so cryptic about not getting caught? Throw
     it at the guards from the shadows
   choiceText3: 3) Maybe it's supposed to be a surprise? Sneak in and place it somewhere
     obvious.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -32,6 +32,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4abdb23589110414392b73555a9302ad, type: 2}
   - {fileID: 11400000, guid: 6e16eb2073617dc4c816bfbb5de0e9cb, type: 2}
   - {fileID: 11400000, guid: f730fcd05990923429d91afe63b28387, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0
