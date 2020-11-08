@@ -22,9 +22,9 @@ MonoBehaviour:
   choiceText3: 3) My brain's too busy. I need to calm down with some games
   headerTextFontSize: 40
   storyTextFontSize: 20
-  choiceText1FontSize: 20
-  choiceText2FontSize: 20
-  choiceText3FontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 604bea78dfb954d4eb9a92bc200820a6, type: 2}
   - {fileID: 11400000, guid: 0160d89ccf610254489ecabe5606f6b3, type: 2}

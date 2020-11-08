@@ -21,7 +21,7 @@ MonoBehaviour:
   choiceText3: 3) Words are for the weak. Real men just meaningfully gaze at each
     other.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -29,6 +29,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 90ffe3605446cd643931755242f2153d, type: 2}
   - {fileID: 11400000, guid: 747077bc6d7a3e5499d7a1a4fde284bf, type: 2}
   - {fileID: 11400000, guid: 64677653ac50ceb4287760bd3072e133, type: 2}
+  choiceStatesAlt: []
   tag: F66
   foodPoints: 0
   sleepPoints: 0

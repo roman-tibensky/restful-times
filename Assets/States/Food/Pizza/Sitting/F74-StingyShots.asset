@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: F74-StingyShots
   m_EditorClassIdentifier: 
   headerText: Stingy shots
-  storyText: You offer your guest barely a shot. He downs it before you can even say
-    a cheers. Still shaking like a leaf though. Guess he can hold his alcohol better
-    than you thought, if nothing else.
+  storyText: You offer your guest a regular shot. He downs it before you can even
+    say a cheers. Still shaking like a leaf though. Guess he can hold his alcohol
+    better than you thought, if nothing else.
   choiceText1: 1) Maybe he just needs a smoke to calm his nerves rather than a drink.
   choiceText2: 2) Well, maybe the lad knows how to drink after all. Let's pour him
     a proper one this time
   choiceText3: 3) Screw it, he's getting his own bottle, we're drinking like men!
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -29,6 +29,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 747077bc6d7a3e5499d7a1a4fde284bf, type: 2}
   - {fileID: 11400000, guid: 9eca9eb8b6a6c2642a58b30c950b9f6a, type: 2}
   - {fileID: 11400000, guid: c4c9419d63b666a4e90b690c9a263f07, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

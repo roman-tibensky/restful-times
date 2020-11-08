@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Crumbling couch
   storyText: "You lead your new friend into the living room, then point at the bean
-    bag in the corner. An odd choice, considering there's a huge, comfortable  looking
+    bag in the corner. An odd choice, considering there's a huge, comfortable-looking
     couch. Your guest seems to think so too, giving you a confused glare.\r\n\r\n\"Couch
     is old and springs keep poking out. You CAN sit on it, if you wish, but you'll
     most likely rip a few holes in that nice suit of yours,\" you bluff without a
     hint of doubt.\r\n\r\nYour guest sighs a drunken Oh of Understanding and slumps
     into the beanbag, drunkenly wiggling himself comfortable. You offer another drink.
     At this point, he just downs it automatically, starring into oblivion with that
-    buzzed look in eyes. He's getting sauced nice and proper. The question now is,
-    what kind of drunk is he.\r\n\r\n\"You... you know. Some nasty shit is going down
-    tonight.... Is all my fault too... Did you know?\""
+    buzzed look in his eyes. He's getting sauced nice and proper. The question now
+    is, what kind of drunk is he.\r\n\r\n\"You... you know. Some nasty shit is going
+    down tonight.... Is all my fault too... Did you know?\""
   choiceText1: 1) Ah... he's a story time drunk.
   choiceText2: 
   choiceText3: 
@@ -34,6 +34,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 1e2eaabd62ba2a2458000cc108049712, type: 2}
+  choiceStatesAlt: []
   tag: F80
   foodPoints: 0
   sleepPoints: 0

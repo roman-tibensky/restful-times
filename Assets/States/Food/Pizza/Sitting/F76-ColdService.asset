@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: F76-ColdService
   m_EditorClassIdentifier: 
   headerText: 'Cold service '
-  storyText: "Yes, you have food. But that was your food. The agreement was to provide
+  storyText: "Yes, you have food. But that is your food. The agreement was to provide
     shelter, not a five star service to this knob-head. You're sure he'd rob you blind
     if he could while he's at it. You grunt a \"help yourself\" and motion at the
     fridge, while you go back to pouring drinks.\r\n\r\nSuddenly, you hear a painful
@@ -32,6 +32,9 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: f9210972f5e7b7f43890d5a8fbec43b1, type: 2}
+  - {fileID: 11400000, guid: f9210972f5e7b7f43890d5a8fbec43b1, type: 2}
+  - {fileID: 11400000, guid: f9210972f5e7b7f43890d5a8fbec43b1, type: 2}
+  choiceStatesAlt: []
   tag: F76
   foodPoints: 0
   sleepPoints: 0

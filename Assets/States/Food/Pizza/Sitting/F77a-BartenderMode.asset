@@ -16,7 +16,7 @@ MonoBehaviour:
   storyText: "\"Hey, isn't that always the case though?\" You reply as you top off
     his drink. \r\n\r\n\"Oh, fuck off. What kinda non-sentiment is that,\" your guest
     snarls and downs his drink in one go. The alcohol was clearly taking over his
-    brain cells and loosening his tongue at this point. \"No sorry. Not your problem.
+    brain cells and loosening his tongue at this point. \"No. Sorry. Not your problem.
     Just... just let me sit down, I'm getting tipsy.\" He may have said that. But
     he's still sipping on the next shot you poured."
   choiceText1: 1) Sit him on the couch in the living room.
@@ -25,14 +25,15 @@ MonoBehaviour:
   choiceText3: 3) Just take over the couch before he does. Who cares where he'll sit
     afterwards.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 696c9a520067e2642a1fa8cbadb9ddbd, type: 2}
-  - {fileID: 11400000, guid: 89d0bba90aef1234fb74266c9e74d362, type: 2}
   - {fileID: 11400000, guid: 435c4e97648a81946acdabbb62cc19a5, type: 2}
+  - {fileID: 11400000, guid: 89d0bba90aef1234fb74266c9e74d362, type: 2}
+  choiceStatesAlt: []
   tag: F77a
   foodPoints: 0
   sleepPoints: 0

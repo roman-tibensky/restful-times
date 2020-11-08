@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Smoker friendly accommodation
   storyText: "The atmosphere here is so stiff, you can't handle it anymore. You notion
-    to your guest to follow you. Startled, he complies and follows you to the balcony.
+    your guest to follow you. Startled, he complies and follows you to the balcony.
     You offer him a smoke. He hesitates, but takes it in the end. You both lean on
     the railing and take in the sounds of the city. They aren't very pleasant to be
     fair. Mostly honking cars and the occasional cursing. But this is where you grew
@@ -34,6 +34,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 755c07269244e6b40a66b97a6e6aa7b7, type: 2}
+  choiceStatesAlt: []
   tag: F71
   foodPoints: 0
   sleepPoints: 0

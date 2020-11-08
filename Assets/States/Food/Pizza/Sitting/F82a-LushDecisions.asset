@@ -17,7 +17,7 @@ MonoBehaviour:
     boss crying on your floor, babbling something about fratricide. You feel... conflicted
     to say the least. On one hand, he looks absolutely miserable. On the other hand,
     getting more deeply involved into mafia business is never a good idea. And talking
-    to drunk people if you're not on their level  has wildly varying results at the
+    to drunk people if you're not on their level has wildly varying results at the
     best of times. But with how things stand, you gotta do at least SOMETHING.
   choiceText1: 1) Actually, just let the poor guy have his moment. He'll feel better
     once he lets it out
@@ -26,7 +26,7 @@ MonoBehaviour:
   choiceText3: 3) Look, as awkward as this is, it's also a little bit funny. Why not
     see what happens if he calls his dad.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -34,6 +34,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 68b33a0ee026fed45b83d9fa677c3160, type: 2}
   - {fileID: 11400000, guid: 236e71d1d0deec846b55b401f590b6d0, type: 2}
   - {fileID: 11400000, guid: 66fb65f43bb47a74ba7ec20e583e1a45, type: 2}
+  choiceStatesAlt: []
   tag: F82a
   foodPoints: 0
   sleepPoints: 0

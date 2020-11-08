@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Doing the right thing
   storyText: "\"Hey now.It's okay. It's fine. I'm... uhh... sure you can fix this
-    somehow. Or make up for it. something.\"\r\n\r\nThe your guest fell silent for
+    somehow. Or make up for it. Or something.\"\r\n\r\nYour guest fell silent for
     a bit. \"I see... I guess you're right. Not much else can be done. Thank you.
-    You are too wise.\"\rThere you go. Another drunk satisfied with the power of non-specific
+    You are too wise.\" There you go. Another drunk satisfied with the power of non-specific
     replies. It took a bit of effort, but he slowly stood up and with an uneasy step
     made his way to the balcony. Then, with an \"I'm sorry\" the bastard threw himself
     off! What the fuck!\r\n\r\nThere was very little you could do in response. You
@@ -35,6 +35,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F84
   foodPoints: 0
   sleepPoints: 0

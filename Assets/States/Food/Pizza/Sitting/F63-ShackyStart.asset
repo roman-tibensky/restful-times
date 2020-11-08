@@ -17,7 +17,7 @@ MonoBehaviour:
     He's a scrawny twig in his late thirties. Neatly dressed and neatly trimmed. Has
     a bit of a weaselly look to him, but it's largely overpowered by the expression
     of abject terror he chose to wear this evening. He clings to a rather expensive-looking
-    briefcase, is paler than death and shacking like he just ran to the North Pole
+    briefcase, is paler than death and shacking like he just ran inside a freezer
     in a swimsuit. He blurts out a "H-hi" and even that takes about three tries. This
     might be a job, but you're kinda just starting to feel bad for the guy. You slowly
     nod a hello back and wonder what to do with your new freaked out friend
@@ -26,7 +26,7 @@ MonoBehaviour:
     his nerves. He'll be unbearable like this
   choiceText3: 3) Stare at him awkwardly some more to see what he'll do
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -34,6 +34,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 90ffe3605446cd643931755242f2153d, type: 2}
   - {fileID: 11400000, guid: 747077bc6d7a3e5499d7a1a4fde284bf, type: 2}
   - {fileID: 11400000, guid: fdead325500ae654a81db03b53b052ee, type: 2}
+  choiceStatesAlt: []
   tag: F63
   foodPoints: 0
   sleepPoints: 0

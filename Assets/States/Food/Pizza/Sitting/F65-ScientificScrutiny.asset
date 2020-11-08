@@ -17,9 +17,9 @@ MonoBehaviour:
     foyer. Your guest stares at you in his near-to-nervous-breakdown state, hoping
     to find some comfort in the presence of another human being; someone who was literally
     put in charge of his safety. His eyes, full of hope that whatever madness pursues
-    him would be quenched by your presence, in the safety of your home. In his eyes
-    you can see that desperate hope for you to say something - ANYTHING - to take
-    this tension away. Even a simple "Hi" maybe. But you offer but one thing in return:
+    him would be dispelled by your presence, in the safety of your home. You can see
+    that desperate hope for you to say something - ANYTHING - to take this tension
+    away. Even a simple "You okay?" maybe. But you offer but one thing in return:
     A cold. Blank. Stare.'
   choiceText1: 1) Okay, at this point he's kinda starting to look pathetic. Just give
     him a drink and sit him down somewhere.
@@ -28,7 +28,7 @@ MonoBehaviour:
   choiceText3: 3) Look. I wanna get at least one interesting reaction out of the fucker.
     Keep staring.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -36,6 +36,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 90ffe3605446cd643931755242f2153d, type: 2}
   - {fileID: 11400000, guid: 747077bc6d7a3e5499d7a1a4fde284bf, type: 2}
   - {fileID: 11400000, guid: 70bc1c88d1523c544806a3aa41de5200, type: 2}
+  choiceStatesAlt: []
   tag: F65
   foodPoints: 0
   sleepPoints: 0

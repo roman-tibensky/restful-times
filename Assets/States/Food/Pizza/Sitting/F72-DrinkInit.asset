@@ -15,9 +15,9 @@ MonoBehaviour:
   headerText: Drink your worries away
   storyText: "You know what? Your day has been long enough even without this jokester
     making it even more exhausting. You snap your fingers so loud that the guy jumps
-    startled half to death. Yeah.There's only one proper cure for both of your worries.
+    startled half to death. Yeah. There's only one proper cure for this situation.
     And it lies on the bottom of a bottle. \"Drink?\" You ask with a tired expression.\r\n\r\n\"S-sure,\"
-    your guest replies, still processing the loud sound. he follows you into the kitchen.
+    your guest replies, still processing the loud sound. He follows you into the kitchen.
     You take two glasses and your whiskey out of the fridge. You appraise your guest
     with single a glance and..."
   choiceText1: 1) ... you give him a normal shot for now. Looks like a lightweight
@@ -25,7 +25,7 @@ MonoBehaviour:
   choiceText3: 3) ... yeah, no. Forget the glass. This guy's nerves need some thorough
     numbing. We drinkin' together straight out of the bottle.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -33,6 +33,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7a1d40b17537899458b90a228a97f180, type: 2}
   - {fileID: 11400000, guid: 9eca9eb8b6a6c2642a58b30c950b9f6a, type: 2}
   - {fileID: 11400000, guid: c4c9419d63b666a4e90b690c9a263f07, type: 2}
+  choiceStatesAlt: []
   tag: F72
   foodPoints: 0
   sleepPoints: 0

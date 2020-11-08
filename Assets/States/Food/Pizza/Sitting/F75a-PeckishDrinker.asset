@@ -25,7 +25,7 @@ MonoBehaviour:
   choiceText3: 3) And avoid seeing the guy being blind drunk? What a missed opportunity
     that would be.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -33,6 +33,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a78fde495bbae043b9faaa6aaad22b1, type: 2}
   - {fileID: 11400000, guid: 04094ba0bae18b84ca388490c277a9d7, type: 2}
   - {fileID: 11400000, guid: 88157aaa55f9b4944a1d2aae44c5b79a, type: 2}
+  choiceStatesAlt: []
   tag: F75a
   foodPoints: 0
   sleepPoints: 0

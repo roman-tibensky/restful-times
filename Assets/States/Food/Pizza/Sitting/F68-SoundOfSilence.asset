@@ -27,7 +27,7 @@ MonoBehaviour:
     at a guy and won't stop. Not even for a smoke.
   choiceText3: 3) Pretend I put some eye pun here, I don't even care anymore
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -35,6 +35,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 90ffe3605446cd643931755242f2153d, type: 2}
   - {fileID: 11400000, guid: 747077bc6d7a3e5499d7a1a4fde284bf, type: 2}
   - {fileID: 11400000, guid: dc2d692a5639f4146b075443a9dc7435, type: 2}
+  choiceStatesAlt: []
   tag: F68
   foodPoints: 0
   sleepPoints: 0

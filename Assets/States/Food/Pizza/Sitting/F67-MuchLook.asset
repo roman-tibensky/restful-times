@@ -18,11 +18,11 @@ MonoBehaviour:
     there of, seems to communicate SOMETHING to your guest to be sure. "H-hey. You
     don't get to judge me. This was inevitable, okay? It's... It's not what I want,
     but it's about the only thing I can do."
-  choiceText1: 1) You even need these options anymore? Don't you want a beer?
+  choiceText1: 1) You even need these options anymore? Don't you want some whskey?
   choiceText2: 2) Or a dose of nicotine perhaps?
   choiceText3: 3) You just gonna stare at this guy awkwardly forever, aren't you
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -30,6 +30,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 90ffe3605446cd643931755242f2153d, type: 2}
   - {fileID: 11400000, guid: 747077bc6d7a3e5499d7a1a4fde284bf, type: 2}
   - {fileID: 11400000, guid: 50fdb7637f4b04a41bc9876c2a173770, type: 2}
+  choiceStatesAlt: []
   tag: F67
   foodPoints: 0
   sleepPoints: 0

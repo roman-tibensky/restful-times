@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: F114-SandwichService
   m_EditorClassIdentifier: 
-  headerText: F114 - Whiskey served with a side of sandwiches
+  headerText: Whiskey served with a side of sandwiches
   storyText: "You had plans for that sandwich. Eventually. One of these days. But
     look at this guy. So lost, helpless, soon-to-be-drunk-of-his-buttocks. Your consciousness
     is telling you to ease his pain at least a little bit. Fine... You decide to be
@@ -32,6 +32,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 08abd7853dcd3aa4a9f4ee3ff91ab18e, type: 2}
+  choiceStatesAlt: []
   tag: F114
   foodPoints: 0
   sleepPoints: 0

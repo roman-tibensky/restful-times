@@ -28,8 +28,9 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F83
-  foodPoints: 0
+  foodPoints: 10
   sleepPoints: 0
   vidyaPoints: 0
   shouldFinishGame: 0

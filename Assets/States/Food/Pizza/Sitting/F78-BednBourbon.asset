@@ -21,7 +21,7 @@ MonoBehaviour:
     body-shaped hole in the pavement under your balcony, so he didn't jump off. He's
     not hiding in any closet. He's just gone. You don't really have an explanation.
     Sadly, the people who come to pick your guest up don't seem to care about your
-    situation. They make you disappear too
+    situation. They just make you disappear too.
   choiceText1: 1) .... but did we check under the sofa? (GAME OVER - retry)
   choiceText2: 
   choiceText3: 
@@ -32,6 +32,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: 
   foodPoints: 0
   sleepPoints: 0

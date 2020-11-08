@@ -17,18 +17,19 @@ MonoBehaviour:
     heart attack into your system. You curse a bit under your breath as you get your
     bearings and invite the walking food stamp in. I mean guest. You're getting so
     distracted by your hunger, you can't really think straight. But it's time to get
-    it together. If they sent him off this quick someone's probably already looking
+    it together. If they sent him off this quick, someone's probably already looking
     for the guy.
   choiceText1: 1) Alright, so what am I working with here?
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b3eccb2c69646e040b016996059cab82, type: 2}
+  choiceStatesAlt: []
   tag: F62
   foodPoints: 0
   sleepPoints: 0

@@ -25,8 +25,8 @@ MonoBehaviour:
     you over the head with. You still have no idea what happened. Your guest was indeed
     drunk, but not drunk enough to think furniture would eat people though... was
     he?"
-  choiceText1: 1) Food might taste better when  it's tender, but using my head to
-    do the tenderizing is a bit much... (Objective complete-ish)
+  choiceText1: 1) Food might taste better when it's tender, but using my head to do
+    the tenderizing is a bit much... (Objective complete-ish)
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
@@ -36,6 +36,7 @@ MonoBehaviour:
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
+  choiceStatesAlt: []
   tag: F79a
   foodPoints: 5
   sleepPoints: 0

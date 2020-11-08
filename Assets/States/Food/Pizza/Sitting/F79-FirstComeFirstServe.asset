@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: F79-FirstComeFirstServe
   m_EditorClassIdentifier: 
   headerText: First come, first served
-  storyText: 'You lead your new friend into the living room, then slid onto the couch
+  storyText: 'You lead your new friend into the living room, then slide onto the couch
     to assert your dominance. It seems however, your attack on the couch was a bit
     too effective. You dove in head first and buried yourself deep into the cushions
     upon landing. Like, really, really deep. It feels like your whole body was jammed
@@ -22,12 +22,13 @@ MonoBehaviour:
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 248cacefe10d2f643a20ddc98cdb65c6, type: 2}
+  choiceStatesAlt: []
   tag: F79
   foodPoints: 0
   sleepPoints: 0

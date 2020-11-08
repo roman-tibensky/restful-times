@@ -13,18 +13,19 @@ MonoBehaviour:
   m_Name: F60-Mint
   m_EditorClassIdentifier: 
   headerText: '... with a little mint on the couch cushions?'
-  storyText: Maybe if you start right now, you'll have time time to pick up a few
-    shirts you got lying around.
+  storyText: Maybe if you start right now, you'll have time to pick up a few shirts
+    you got lying around.
   choiceText1: 1) Oh, damn, let's get to it then!
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 35
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: ff7998dc03e1deb47901b3dc3c27c317, type: 2}
+  choiceStatesAlt: []
   tag: F60
   foodPoints: 0
   sleepPoints: 0

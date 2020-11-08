@@ -24,7 +24,7 @@ MonoBehaviour:
   choiceText2: 2) Is that a VIP? Should I tidy up?
   choiceText3: 3) Maybe I can still change to something safer...
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
@@ -32,6 +32,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e856fe92576b50f4b883d284ee0b98cf, type: 2}
   - {fileID: 11400000, guid: b1143e04feab3814281f901981eb10ef, type: 2}
   - {fileID: 11400000, guid: 1a9c64d359abec540aea07585bbeb5d9, type: 2}
+  choiceStatesAlt: []
   tag: F113
   foodPoints: 0
   sleepPoints: 0
