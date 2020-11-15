@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: F95S-RRSuccess
   m_EditorClassIdentifier: 
-  headerText: 
-  storyText: "Hey, why get close, if you can do your job remotely? You sneak up just
-    about close enough for a decent throw, you prepare the ritual, you aim for one
-    of the windows, you throw the ward in a perfect arc and just watch the fireworks
+  headerText: Oh, you stealthy rogue = SUCCESS
+  storyText: "Hey, why get close, when you can do your job remotely? You sneak up
+    just about close enough for a decent throw, you prepare the ritual, you aim for
+    one of the windows, you throw the ward in a perfect arc and just watch the fireworks
     as the wards does its job. It is a thing of beauty to say the least. The pillar
     of light burned anything and everything it touched and the screams of the purified
     rang forth the completion of your quest.\r\nYour work? Done.\r\nThe light show?
@@ -25,11 +25,12 @@ MonoBehaviour:
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
   choiceStatesAlt: []
   tag: F95S
   foodPoints: 10

@@ -18,8 +18,8 @@ MonoBehaviour:
     the least guarded window, just like that one over there. Then we very carefully
     make our way through the halls, making sure we are EXTRA careful.\"\r\n\"Sir...\"\r\n\"Then
     when we get to the center of the mansion, we get surrounded by goblins, who are
-    already vary of our presence and get horribly murdered.\"\r You pause for a second.
-    \ Something does not add up.\r \"I forgot to use my inner monologue voice...\"\r\n\"Yes,
+    already vary of our presence and get horribly murdered.\" You pause for a second.
+    Something does not add up.\n\"I forgot to use my inner monologue voice...\"\r\n\"Yes,
     sir.\"\r\n\"And now we are surrounded and will be horribly murdered... well...
     that's embarrassing...\"\r\n\"Indeed. Good bye, sir. It's.... uhhh... been an
     experience, sir."
@@ -31,7 +31,8 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
   choiceStatesAlt: []
   tag: F96F
   foodPoints: 0

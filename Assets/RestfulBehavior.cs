@@ -112,6 +112,9 @@ public class RestfulBehavior : MonoBehaviour
     }
 
     public StateManagement ChoiceMade(int choicePosition) {
+        // float rnd = ;
+        // string[] words = {stateChoicesAlt.Length.ToString(), " <= ",  choicePosition.ToString(),  ", ",  rnd.ToString() };
+        // Debug.Log(string.Concat(words));
         if(stateChoicesAlt.Length <= choicePosition || Random.value < 0.5f) {
             return stateChoices.Length > choicePosition ? stateChoices[choicePosition] : null;
         } else {

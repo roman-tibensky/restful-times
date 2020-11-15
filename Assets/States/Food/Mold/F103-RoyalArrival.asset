@@ -26,11 +26,14 @@ MonoBehaviour:
     have her sit down.
   choiceText3: 3) Poor thing looks shaken to the core. She could use a drink or two.
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: 486458bb6a31322478fd20ff4af78201, type: 2}
+  - {fileID: 11400000, guid: a5d682aa1635d7443b27f028f2a43e42, type: 2}
+  - {fileID: 11400000, guid: b45da19eface269468bc5dc488379728, type: 2}
   choiceStatesAlt: []
   tag: F103
   foodPoints: 0

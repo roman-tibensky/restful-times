@@ -22,7 +22,6 @@ public class ClickChoiceText : MonoBehaviour, IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
         transform.parent.parent.gameObject.GetComponent<RestfulBehavior>().GetStateAccordingToInput(choiceNumber);
-        Debug.Log("hey");
     }
 
     // // Update is called once per frame

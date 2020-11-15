@@ -24,7 +24,7 @@ MonoBehaviour:
     humble self. What say you?\"\r\n\"... kay... \" Sounds like a pain, but your mom
     always told you to trust your gut, so lets see where this goes.\r\n\"Excellent!\""
   choiceText1: 1) "A local wizard is in dire need of setting up a ward to help purge
-    the local den of evil. Your job would be to set it up using a very specific ritual
+    the local den of evil. Your job would be to do so using a very specific ritual
   choiceText2: 2) "A troubled princess hath requested shelter until her white knight
     can come to her rescue. Hide her well and you shall be rewarded.
   choiceText3: 3) "However, if all that is too much trouble, you could always sell
@@ -35,7 +35,9 @@ MonoBehaviour:
   choiceText2FontSize: 15
   choiceText3FontSize: 15
   choiceStates:
-  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 97bdbb275b57286428a8c6d9d5e9389e, type: 2}
+  - {fileID: 11400000, guid: 32cc2f43d37fede4eb7edbc59d353c04, type: 2}
+  - {fileID: 11400000, guid: b258a563d363a58478699058e2f722da, type: 2}
   choiceStatesAlt: []
   tag: F87
   foodPoints: 0

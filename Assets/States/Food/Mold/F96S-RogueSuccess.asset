@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: F96S-RogueSuccess
   m_EditorClassIdentifier: 
   headerText: Oh, you stealthy rogue = SUCCESS
-  storyText: "For the stealth mission your stomach offered to take the lead. You raise
-    your eyebrow just slightly and agree, just to see how this pans out.\r\n...\r\nWho
+  storyText: "For the stealth mission, your stomach offered to take the lead. You
+    raise your eyebrow slightly and agree, just to see how this pans out.\r\n...\r\nWho
     would've thought having a sentient gut feeling would be this helpful. Your stomach
     practically guided you throughout the mansion without a single soul crossing your
     path. Thanks to your attached personal pathfinder you made it safely into the
     mansion, did the ritual without any interruptions and then ran like hell to get
-    as far away from the zone ward's radius as possible. You make it to the nearest
+    as far away from the ward's influence radius as possible. You make it to the nearest
     window and start climbing out, when a massive force pushes you out and singes
     your coat. Holy shit, was that a potent ward. Almost cleaned you up in the process
-    as well!\r\nBut the quest is done and you can now enjoy the fruit of your labor
-    at the comfort of your home."
+    as well!\r\nBut the quest is done and you can now enjoy the fruits of your labor
+    in the comfort of your home."
   choiceText1: 1) Honestly, the cheese alone is so great, I ALMOST forgot how this
     quest ruined my best jacket (Objective complete!)
   choiceText2: 
@@ -33,7 +33,8 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: b23d45b119da1cd4d8ede1acd7dba20e, type: 2}
   choiceStatesAlt: []
   tag: F96S
   foodPoints: 10

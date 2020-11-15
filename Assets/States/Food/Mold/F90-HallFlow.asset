@@ -26,11 +26,14 @@ MonoBehaviour:
     grilled lizards on a stick. Doubt he's paying enough attention to see us grabbing
     a free sample, sir."
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: f955a674dc9393d4aa78a2cdcd01a10e, type: 2}
+  - {fileID: 11400000, guid: 4b80851bc37ec2c448c04edc05f10a2a, type: 2}
+  - {fileID: 11400000, guid: 7e0282a112a2b454abc2eb5ceaa59f75, type: 2}
   choiceStatesAlt: []
   tag: F90
   foodPoints: 0

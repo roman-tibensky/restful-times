@@ -19,11 +19,12 @@ MonoBehaviour:
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: fb7b13d54baef0d42b2bda607c6a0fcb, type: 2}
   choiceStatesAlt: []
   tag: F100
   foodPoints: 0

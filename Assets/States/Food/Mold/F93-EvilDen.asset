@@ -16,13 +16,15 @@ MonoBehaviour:
   storyText: "\"Brave warrior, here in the outskirts of your village lies a den of
     evil most wretched,\" your stomach decided to narrate your situation as you neared
     your destination. It looked like an old abandoned building in the middle of a
-    forest. The kind that would be 120% haunted given half the chance.\r\n\"I know
+    forest. The kind that would be 120% haunted given half the chance.\r\n\n\"I know
     what you're thinking, sir. But today, we face no restless spirits. A horde of
     goblins occupies this decaying mansion, the rumors of hauntings only helping them
     drive good people away. But you are different, sir. You are brave enough to face
     these vile creatures. Except I wouldn't face them per se. They will kill you on
     sight and make you into soup. I'd rather get food then become food, sir. How do
-    you wish to proceed?\""
+    you wish to proceed?\"\n\nYou've no idea. You now realize you came completely
+    unprepared. You get the feeling that no matter what you choose, your result will
+    be determined by sheer luck alone. Like... a dice throw or something."
   choiceText1: 1) "Balder dash. They are intelligent creatures. I'm sure we can reason
     with them!" (Persuasion check)
   choiceText2: 2) "I'd rather not get close if I can help it. Activate the ward here
@@ -30,12 +32,18 @@ MonoBehaviour:
   choiceText3: 3) "I'm a pro at not being seen. I'll sneak us in no problem." (Stealth
     check)
   headerTextFontSize: 40
-  storyTextFontSize: 18
+  storyTextFontSize: 16
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
-  choiceStatesAlt: []
+  choiceStates:
+  - {fileID: 11400000, guid: a9b92350e348ac7429ef4974d5a1cfe6, type: 2}
+  - {fileID: 11400000, guid: 3b7398a0d058ad24d866aec0c359ac8b, type: 2}
+  - {fileID: 11400000, guid: 3078d70bc9349df4e9cb49aed28f48de, type: 2}
+  choiceStatesAlt:
+  - {fileID: 11400000, guid: 294aab689259bf840ba6c6649ebe8f7f, type: 2}
+  - {fileID: 11400000, guid: 151e97f41ae61974fa5b4bb4e6d4cce7, type: 2}
+  - {fileID: 11400000, guid: a0488a06a0d45934b9c9dc9b3be5f374, type: 2}
   tag: 
   foodPoints: 0
   sleepPoints: 0

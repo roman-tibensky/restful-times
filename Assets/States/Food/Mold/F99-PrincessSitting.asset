@@ -21,11 +21,14 @@ MonoBehaviour:
   choiceText2: 2) "A real princess though... is she hot?"
   choiceText3: 3) "No one should know where she is.... do I need to kill her escorts?"
   headerTextFontSize: 40
-  storyTextFontSize: 20
+  storyTextFontSize: 18
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: 61424ac1361574948abf12acadca9e6b, type: 2}
+  - {fileID: 11400000, guid: 0bae66ad69b71f14287d82bb3c7eb62d, type: 2}
+  - {fileID: 11400000, guid: fbe20a649f274fe49807a014f6cfd46d, type: 2}
   choiceStatesAlt: []
   tag: F99
   foodPoints: 0
