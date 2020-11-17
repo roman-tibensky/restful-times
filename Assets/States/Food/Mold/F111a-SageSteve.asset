@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Sage Steve
   storyText: "\"What you know is right: Those scenarios that keep playing out in your
-    head over and over, those what ifs that won't stay silent in the back of your
+    head over and over, those what-ifs that won't stay silent in the back of your
     mind. Make them an answer for your predicament now rather than your personal torture
     for the rest of your days. Your time to repent is woefully short. But it exists.
     Cease it.\"\r\n\r\nThe princess did not respond. She just left the room. Then
@@ -42,5 +42,5 @@ MonoBehaviour:
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You learned that you are really really smart when you're too high
+  winStateText: You've learned that you are really really smart when you're too high
     to think

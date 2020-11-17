@@ -16,15 +16,15 @@ MonoBehaviour:
   storyText: "You feel like an idiot. In the present day of current year you actually
     believed that there was a princess in your house that needed protection and that
     your couch tried to eat her. How stupid was that?\r\n\r\nYou decided to just close
-    your eyes and count to three. Once you open them, all of the  nonsense would be
-    gone. Ready?\r\nOne...\r Two... \rThree...\r\nYou open your eyes and, indeed,
-    the princess is gone and the couch returned to normal. Not even your stomach is
-    smiling at you anymore. Glad that's over with!\r\nOr so you think. The door bell
-    rings. You open the door and you see the guys from the pizza mafia. They're asking
-    about a protection target they left with you. A guy you never saw in your life.
-    You shake your head in denial, but no matter how much you try and explain that
-    there was no male guest at your home, they wouldn't budge. Apparently, you lost
-    their protectee. And in return, you lose your life."
+    your eyes and count to three. Once you open them, all of the nonsense would be
+    gone. Ready?\r\nOne... Two... Three...\r\nYou open your eyes and, indeed, the
+    princess is gone and the couch returned to normal. Not even your stomach is smiling
+    at you anymore. Glad that's over with!\r\nOr so you think. The door bell rings.
+    You open the door and you see the guys from the pizza mafia. They're asking about
+    a protection target they left with you. A guy you never saw in your life. You
+    shake your head in denial, but no matter how much you try and explain that there
+    was no male guest at your home, they wouldn't budge. Apparently, you lost their
+    protectee. And in return, you lose your life."
   choiceText1: 1) Wait, that was a guy? How was he so hot? (GAME OVER - retry)
   choiceText2: 
   choiceText3: 

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: F112-FigmentOfYourGut
   m_EditorClassIdentifier: 
-  headerText: Yeah, why WERE you talking to your stomach?
+  headerText: Why WERE you talking to your stomach?
   storyText: "\"Oh... I guess that makes sense. Man, am I drunk... talking to some
     dude's belly,\" the princess sighed. \"What even is my life anymore. I... should
     take a nap, this is just bad.\" She barely even finished the last sentence and
@@ -25,11 +25,11 @@ MonoBehaviour:
     invention! You had a few reservations of giving your stomach a reward if it would
     even deny its own sentience, but your hunger and curiosity overwhelm you as you
     dig in."
-  choiceText1: '1) Pizza. That''s a pizza. I can''t believe I was so high that I didn''t
-    even recognize pizza. '
+  choiceText1: 1) Pizza. That's a pizza. I can't believe I was so high that I didn't
+    even recognize pizza. (Objective complete!)
   choiceText2: 
   choiceText3: 
-  headerTextFontSize: 40
+  headerTextFontSize: 36
   storyTextFontSize: 16
   choiceText1FontSize: 15
   choiceText2FontSize: 15
@@ -43,5 +43,5 @@ MonoBehaviour:
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You got to re-experience pizza for the very very first time again.
-    It was a magical moment.
+  winStateText: You got to re-experience pizza for the very first time again. It was
+    a magical moment.

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: F98-InterNegotiations
   m_EditorClassIdentifier: 
-  headerText: 
+  headerText: Interracial negotiations
   storyText: "\"Hey fuck off. Just because you keep squeezing your stupid gut in front
     of me, doesn't mean I'll give a shit.\"\r\n... at that point your sentient stomach
     kinda lost it.\r\n\"Stupid? STUPID!? I have you know, I'm one of the most accomplished
@@ -29,7 +29,8 @@ MonoBehaviour:
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15
-  choiceStates: []
+  choiceStates:
+  - {fileID: 11400000, guid: 6b1e6f9f7af905442b4a1d7da458d72f, type: 2}
   choiceStatesAlt: []
   tag: F98
   foodPoints: 0

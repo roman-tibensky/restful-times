@@ -19,13 +19,13 @@ MonoBehaviour:
     you were to eat a monkey maybe? Or even worse, some form of cannibalism? A self-imposed
     form of population regulation? Dear lord, what if it goes even further... the
     lizardman selling his own children or something.  Like, they're specifically bred
-    to for being sold! Maybe he keeps or or two around and threatens them that if
-    they misbehave, they'll end up like that. \"Yeah, Karl Jr., you better take out
-    the trash or you'll end up like your 213 other siblings.\" Man, are lizard people
-    weird. Wonder if they have to learn how to cook their own siblings... Would that
-    be scarring for lizard people?\r\n\nYour thought process continued to be an absolute
-    train wreck on your way home. The nabbing of the food was easy enough, it was
-    the philosophy behind the food that gave you the biggest trouble. The portion
+    to for being sold! Maybe he keeps one or or two around and threatens them that
+    if they misbehave, they'll end up like that. \"Yeah, Karl Jr., you better take
+    out the trash or you'll end up like your 213 other siblings.\" Man, are lizard
+    people weird. Wonder if they have to learn how to cook their own siblings... Would
+    that be scarring for lizard people?\r\n\nYour thought process continued to be
+    an absolute train wreck on your way home. The nabbing of the food was easy enough,
+    it was the philosophy behind the food that gave you the biggest trouble. The portion
     wasn't too big, but it was enough for the stomach to stop grinning at you and
     go back to normal at least."
   choiceText1: 1) Also, why did the grilled lizard taste like a cream cheese bagel?
@@ -46,5 +46,5 @@ MonoBehaviour:
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You learned that lizards are weird and taste like cheese. Leave you
-    wanting more though.
+  winStateText: You learned that lizards are weird and taste like cheese. Not very
+    filling though.

@@ -19,8 +19,8 @@ MonoBehaviour:
     the couch until they were long gone. Only then, finally, you sat down to devour
     your reward. \r\n...\r\n...\r\n...\r\nAfter you eat to your heart's content and
     come down from your high, you start questioning what exactly happened though.
-    A couch? Eating people? Princesses? What the hell was up up with this batch of
-    mold. That's just goofy."
+    A couch? Eating people? Princesses? What the hell was up with this batch of mold.
+    That's just goofy."
   choiceText1: 1) Also, there's a broom stuck in the couch. Why did I think this was
     a good idea? (Objective complete!)
   choiceText2: 
@@ -39,5 +39,5 @@ MonoBehaviour:
   vidyaPoints: 0
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You cannot find your broom eversince you left it sticking out of your
-    couch.
+  winStateText: You cannot find your broom ever since you left it sticking out of
+    your couch.

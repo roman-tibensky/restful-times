@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: No hack or slash
   storyText: '"You left your sword back in the barracks, because you were too lazy
-    to carry it around, sir"'
+    to carry it around, sir."'
   choiceText1: 1) ... can't I still go get it?
   choiceText2: 
   choiceText3: 

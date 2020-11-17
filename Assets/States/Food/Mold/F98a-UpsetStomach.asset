@@ -16,12 +16,12 @@ MonoBehaviour:
   storyText: "Your stomach just went off and refused to hit the breaks. You'd feel
     bad for the centaur, but the monologue was roasting you more than insulting the
     potential quest giver. Not that the insults towards the centaur were that much
-    tamer. You could see he didn't enjoy them either. His expressions went from anger,
-    to confusion, to absolute disgust and ended on defeat.\r\n\"Fine! Fucking take
-    those stupid waffles, I lost my appetite just looking at your freak show,\" he
-    quickly disappeared into the crowd and left a the remaining waffles behind. Score!\r\nBad
-    news though: the other quest marker disappeared, so this is all you were stuck
-    with: a half-eaten meal and a sour stomach for company."
+    tamer. You could see he didn't enjoy any of this either. His expressions went
+    from anger, to confusion, to absolute disgust and ended on defeat.\r\n\"Fine!
+    Fucking take those stupid waffles, I lost my appetite just looking at your freak
+    show,\" he quickly disappeared into the crowd and left the remaining waffles behind.
+    Score!\r\nBad news though: the other quest marker disappeared, so this is all
+    you were stuck with: a half-eaten meal and a sour stomach for company."
   choiceText1: 1) Wish it would at least shut up while I feed it though. So rude.
     (Objective complete-ish)
   choiceText2: 

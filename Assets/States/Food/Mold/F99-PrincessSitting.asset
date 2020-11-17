@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   headerText: Princess sitting
   storyText: '"A fine choice, sir. I''ve informed the allied faction that the princess
-    is welcome to take shelter for a couple of hours before until Prince Charming
-    TM is able to pick her up. You know the drill: make sure she is safe and make
-    sure her whereabouts are kept secret."'
+    is welcome to take shelter for a couple of hours until Prince Charming TM is able
+    to pick her up. You know the drill: make sure she is safe and make sure her whereabouts
+    are kept secret."'
   choiceText1: 1) "Safe, huh? Where'd I put my sword"
   choiceText2: 2) "A real princess though... is she hot?"
   choiceText3: 3) "No one should know where she is.... do I need to kill her escorts?"

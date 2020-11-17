@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: F103-RoyalArrival
   m_EditorClassIdentifier: 
   headerText: Arrival of Royalty
-  storyText: "Your conversation with your stomach region was sadly rudely interrupted
-    by the announcement of someone standing at your door. That was uncomfortably fast,
+  storyText: "Your conversation with your stomach region was rudely interrupted by
+    the announcement of someone standing at your door. That was uncomfortably fast,
     what the hell.\r\n\r\nYou invite her in, the escort leaves. She is cute, you gotta
-    admit. She was a fairly tall blond with long hair and a blindingly pink dress.
+    admit. She was fairly tall, with long blond hair and a blindingly pink dress.
     You're not entirely sure how you're supposed to hide this woman, since you suspect
-    that the glimmer of her dress alone could shine through walls. Your royal guest
-    seems to be quite on edge straight off the bat. But they, people on the run usually
-    are."
+    that the glimmer of her dress alone could shine through walls. \n\nYour royal
+    guest seems to be quite on edge straight off the bat. But they, people on the
+    run usually are."
   choiceText1: 1) Well, don't just stand there, greet the royalty!
   choiceText2: 2) It's super rude to let a girl just stand in the corridor. At least
     have her sit down.
