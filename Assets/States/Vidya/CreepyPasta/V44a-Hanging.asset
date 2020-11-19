@@ -16,10 +16,10 @@ MonoBehaviour:
   storyText: "The girl hangs suspended from your arm, refusing to let go, hysterically
     yelling something incoherent. Below you, you see the group of teenagers coming
     closer to you, arguing about something you couldn't hear through all the screaming.
-    Great, maybe they can help! You took care of them quite in-game fairly well, at
-    least they should return the favor. And indeed, one of the teenagers lifted his
-    knife and threw it at the ghost. Too bad the blade bore itself right between your
-    eyes instead. Death was pretty quick\r\n"
+    Great, maybe they can help! You took care of them fairly well in-game, they should
+    return the favor at least. And indeed, one of the teenagers lifted his knife and
+    threw it at the ghost. Too bad the blade bore itself right between your eyes instead.
+    Death was pretty quick\r\n"
   choiceText1: 1) Can't blame them for trying at least I guess? (GAME OVER - retry)
   choiceText2: 
   choiceText3: 

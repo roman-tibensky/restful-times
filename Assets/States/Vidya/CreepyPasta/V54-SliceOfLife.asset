@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: V54-SliceOfLife
   m_EditorClassIdentifier: 
   headerText: Slice of life
-  storyText: As per usual none of the participants were left to tell the tale. Only
+  storyText: 'As per usual none of the participants were left to tell the tale. Only
     a giant pile of blood, regret and unsatisfied hunger. Not even this hellish thing
     pretending to be a game could withstand the power of a conflict as old as time.
     The screen went black, the blood on the walls just up and disappeared. The only
@@ -22,16 +22,18 @@ MonoBehaviour:
     to agree on a cover up story. But the moment the medics arrived, they took one
     look at her and knew what was a up. Apparently, this is not even a unique occurrence.
     They even had special codes and procedures for people being abducted by ghosts!
-    What the fuck! They swept your computer for more bizarre stuff, confiscated the
-    game and took the girl as well, but treated her quite kindly, even made sure her
-    family was informed. So that felt somewhat like a happy ending for the girl, if
-    nothing else.
+    What the fuck!
+
+
+    They swept your computer for more bizarre stuff, confiscated the game and took
+    the girl as well, but treated her quite kindly, even made sure her family was
+    informed. So that felt somewhat like a happy ending for the girl, if nothing else.'
   choiceText1: 1)  Hey, I helped. Felt nice. Scarring. But in a good way! (Objective
     complete!)
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40
-  storyTextFontSize: 18
+  storyTextFontSize: 16
   choiceText1FontSize: 15
   choiceText2FontSize: 15
   choiceText3FontSize: 15

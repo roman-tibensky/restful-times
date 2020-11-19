@@ -17,7 +17,7 @@ MonoBehaviour:
     the kitchen he ran.\r\nA vicious fight he began.\r\nBut the fight ended quick\r\nCause
     he was a bit thick\r\nYou see, his foe had a gun \r\nAnd shot his face off for
     fun."
-  choiceText1: "1) Can I put that on my gravestone at least?\r\n(GAME OVER - retry)"
+  choiceText1: "1) Can I put that on my gravestone at least?\r (GAME OVER - retry)"
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40

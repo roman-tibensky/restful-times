@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: V32-SittersArms
   m_EditorClassIdentifier: 
   headerText: In the sitter's arms
-  storyText: "V32- In the sitter's arms\r\nIt is true. You are in a mafia home. There's
-    gotta be some weapon lying around. It is also a home you are unfortunately thoroughly
-    unfamiliar with. You make a lot of noise unsuccessfully looking for a gun. The
-    trespassers then find you gnawing in frustration at a locked gun case. They then
-    promptly show you how to use a weapon properly."
-  choiceText1: "1) Damn... next time I'll bring better dentures \r\n(GAME OVER - retry)"
+  storyText: It is true. You are in a mafia home. There's gotta be some weapon lying
+    around. It is also a home you are unfortunately thoroughly unfamiliar with. You
+    make a lot of noise unsuccessfully looking for a gun. The trespassers then find
+    you gnawing in frustration at a locked gun case. They then promptly show you how
+    to use a weapon properly.
+  choiceText1: "1) Damn... next time I'll bring better dentures \r(GAME OVER - retry)"
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40

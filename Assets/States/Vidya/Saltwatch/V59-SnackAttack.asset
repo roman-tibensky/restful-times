@@ -17,7 +17,7 @@ MonoBehaviour:
     kitchen, followed by muffled screams and sounds of struggle. Just great. You two
     are not alone in the mafia home. On the other hand, the little guy is now less
     loud. Small blessings?
-  choiceText1: "1) Crap! The little one cannot be harmed! \r\nStorm into the kitchen!"
+  choiceText1: "1) Crap! The little one cannot be harmed! \rStorm into the kitchen!"
   choiceText2: 2) Crap! Hope they don't know I'm here! Hide and surprise them!
   choiceText3: 3) Crap! I'm unarmed! Look for a weapon!
   headerTextFontSize: 40

@@ -21,9 +21,9 @@ MonoBehaviour:
   choiceText3: 3) DefinitellyNotACreepyPasta.exe
   headerTextFontSize: 40
   storyTextFontSize: 20
-  choiceText1FontSize: 20
-  choiceText2FontSize: 20
-  choiceText3FontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: 24008c6f2929de74fb7e857203bd4ee2, type: 2}
   - {fileID: 11400000, guid: 64513ed3f3d87ec45b60e53b208e460e, type: 2}

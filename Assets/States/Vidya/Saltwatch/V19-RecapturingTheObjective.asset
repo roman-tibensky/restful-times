@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: V19-RecapturingTheObjective
   m_EditorClassIdentifier: 
-  headerText: 
+  headerText: Recapturing the objective
   storyText: You wait for them both to pass, then with a well aimed blow knock out
-    the thug holding the kid, taking his gun and before the first one even fell to
-    the ground, you open fire on the other one. With a heavy sigh, you tell the kid
-    to call his dad. He immediately obeyed, seeing as you just killed two people in
-    cold blood. Tony was furious beyond measure, but thankfully this time his scorn
-    was not aimed at you. It still took some time for them to get there. In the meantime,
-    the kid, trying to win the favor of his savior, offered you his gaming library.
-    Your evening was enriched by a bunch of lent titles, plus free pizza for a year
-    for your services to the family
+    the thug holding the kid, taking his gun and before he even fell to the ground,
+    you opened fire on the second thug. With a heavy sigh, you tell the kid to call
+    his dad. He immediately obeyed, seeing as you just killed two people in cold blood.
+    Tony was furious beyond measure, but thankfully this time his scorn was not aimed
+    at you. It still took some time for them to get there. In the meantime, the kid,
+    trying to win the favor of his savior, offered you his gaming library. Your evening
+    was enriched by a bunch of lent titles, plus free pizza for a year for your services
+    to the family.
   choiceText1: 1) Wait... no gamer fuel to go with it? Last time I'm saving kids from
     a kidnapping. (Objective complete!)
   choiceText2: 
@@ -36,8 +36,8 @@ MonoBehaviour:
   choiceStatesAlt: []
   tag: 
   foodPoints: 10
-  sleepPoints: 10
-  vidyaPoints: 0
+  sleepPoints: 0
+  vidyaPoints: 10
   shouldFinishGame: 0
   shouldRestartGame: 0
   winStateText: You learned that getting away with murder is both profitable and fun

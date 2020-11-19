@@ -22,7 +22,7 @@ MonoBehaviour:
     on this side, the ghost grabs at you and as she falls back, partially pulls you
     into the monitor. Now you're stuck with your head and right arm inside the ghost
     world.
-  choiceText1: 1)Nononono. Abort! Abort! Abort!
+  choiceText1: 1) Nononono. Abort! Abort! Abort!
   choiceText2: 
   choiceText3: 
   headerTextFontSize: 40

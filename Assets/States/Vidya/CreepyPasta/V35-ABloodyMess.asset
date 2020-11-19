@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49a1fb7732b086546bfa6e319c7e4ba8, type: 3}
   m_Name: V35-ABloodyMess
   m_EditorClassIdentifier: 
-  headerText: 
+  headerText: A bloody mess
   storyText: Agreed. The immersion is nice and all, but that's gonna be a bitch and
     a half to clean. Might as well start now before it gets any worse. You give up
     on gaming. You dash away from your comp, cursing every deity you can think of
-    and start aggressively cleaning the  walls. You lose track of time, you only know
+    and start aggressively cleaning the walls. You lose track of time, you only know
     that it feels like ages. Finally done, you go back to your computer, only to find
     that it switched to sleep mode and in front of your monitor lies a chopped-off
     pale female hand THAT BLEEDS ALL OVER YOUR STUFF AGAIN, OH MY GOD, WILL THE CLEANING
@@ -40,5 +40,5 @@ MonoBehaviour:
   vidyaPoints: 5
   shouldFinishGame: 0
   shouldRestartGame: 0
-  winStateText: You learned that ghosts are slobs and dun really wanna talk about
+  winStateText: You learned that ghosts are slobs and you dun really wanna talk about
     it

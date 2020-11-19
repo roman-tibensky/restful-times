@@ -22,9 +22,9 @@ MonoBehaviour:
   choiceText3: 3) Why bother, the floor is right there
   headerTextFontSize: 40
   storyTextFontSize: 20
-  choiceText1FontSize: 20
-  choiceText2FontSize: 20
-  choiceText3FontSize: 20
+  choiceText1FontSize: 15
+  choiceText2FontSize: 15
+  choiceText3FontSize: 15
   choiceStates:
   - {fileID: 11400000, guid: eee1087f48adb0b4f86fa40fcaf45dd0, type: 2}
   - {fileID: 11400000, guid: ab7a6be0784e16345b967fc3b76c9461, type: 2}
