@@ -90,6 +90,12 @@ public class RestfulBehavior : MonoBehaviour
         ) {
             GetStateAccordingToInput(2);
         }
+
+        if(
+            Input.GetKeyDown(KeyCode.Escape)
+        ) {
+            Application.Quit();
+        }
     }
 
 
